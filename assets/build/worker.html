@@ -1,0 +1,5 @@
+<script type="text/javascript" src="script/jquery-1.4.2.js"></script>
+<script type="text/javascript">var tasks=[];function addTask(a){tasks.push(a)}function ajaxHandler(a,b){a.code==window.top.CONFIG.SERVER_CODE.SUCCESS?b.success(a):$.isFunction(b.error)?b.error(parseInt(a.code)):a.code==window.top.CONFIG.SERVER_CODE.ERROR_INVALIDKEY&&window.top.logout()}
+function ajaxCall(a){a.params._l="undefined"==typeof window.top._l?"en":window.top._l;a.params._p=window.top._p?window.top._p:"";$.ajax({type:"GET",url:a.funcurl,data:a.params,dataType:"jsonp",jsonp:"jsonpcallback",timeout:window.top.CONFIG.AJAX_TIMEOUT,cache:!1,success:function(b){if(window.top.CONFIG.RELEASE)try{ajaxHandler(b,a)}catch(c){}else ajaxHandler(b,a)},error:function(){var b=!0;"undefined"!=typeof a.retry&&(0<a.retry?a.retry--:b=!1);b&&addTask(a)}})}
+$(function(){window.top.addAjaxTask=addTask;window.setInterval(function(){if(0<tasks.length){var a=tasks.shift();ajaxCall(a)}},1E3);window.top.onWorkerReady()});
+</script>

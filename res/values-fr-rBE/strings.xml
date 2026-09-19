@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_droid_engine_loading">Chargement…</string>
+    <string name="com_droid_engine_updating">Téléchargement en cours</string>
+    <string name="com_droid_engine_wait_msg">Mise à jour du jeu, veuillez patienter…</string>
+    <string name="com_droid_engine_sure_to_exit_game">Vous êtes sûr de quitter?</string>
+    <string name="com_droid_engine_pp_payment_failed">Echec de paiement!</string>
+    <string name="com_droid_engine_pp_payment_success">Paiement validé!</string>
+    <string name="com_droid_engine_invalid_parameter">Paramètres invalides!</string>
+    <string name="com_droid_engine_dialog_tips">Conseil</string>
+    <string name="com_droid_engine_dialog_show_never">"Ce message n'appartiendra plus"</string>
+    <string name="com_droid_engine_dialog_message">"Vous avez besoin d'avoir un raccourci?"</string>
+    <string name="com_droid_engine_dialog_update_message">Vous êtes conseillé de mettre la mise à jour pour continuer</string>
+    <string name="com_droid_engine_Cancel">Annuler</string>
+    <string name="com_droid_engine_OK">OK</string>
+    <string name="com_droid_engine_content_update">Mise à jour déjà téléchargée, tapez [OK] pour terminer.</string>
+    <string name="com_droid_engine_lng">fr</string>
+</resources>

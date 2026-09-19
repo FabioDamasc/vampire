@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_droid_engine_loading">로딩중...</string>
+    <string name="com_droid_engine_updating">다운로드중</string>
+    <string name="com_droid_engine_wait_msg">새로운 버전을 다운로드중,잠시만 기다리세요...</string>
+    <string name="com_droid_engine_sure_to_exit_game">로그아웃하시겠습니까?</string>
+    <string name="com_droid_engine_pp_payment_failed">지불실패!</string>
+    <string name="com_droid_engine_pp_payment_success">지불성공!</string>
+    <string name="com_droid_engine_invalid_parameter">무효적 숫자입니다!</string>
+    <string name="com_droid_engine_dialog_tips">알림</string>
+    <string name="com_droid_engine_dialog_show_never">이 메시지를 다시 알리지 않음</string>
+    <string name="com_droid_engine_dialog_message">데스크 탑에 바로가기를 설치하시겠습니까?</string>
+    <string name="com_droid_engine_dialog_update_message">게임을 최신버전으로 업데이트 후 이용하실 수 있습니다</string>
+    <string name="com_droid_engine_Cancel">Cancel</string>
+    <string name="com_droid_engine_OK">OK</string>
+    <string name="com_droid_engine_content_update">업데이트 내용은 기기에 이미 다운되어있으니[OK]를 클릭하시면 업데이트가 됩니다.</string>
+    <string name="com_droid_engine_lng">kr</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_droid_engine_loading">Carregando</string>
+    <string name="com_droid_engine_updating">Baixando</string>
+    <string name="com_droid_engine_wait_msg">Está baixando as atualizações do jogo, por favor aguarde …</string>
+    <string name="com_droid_engine_sure_to_exit_game">Você tem certeza de sair do jogo？</string>
+    <string name="com_droid_engine_pp_payment_failed">Falha de pagamento!</string>
+    <string name="com_droid_engine_pp_payment_success">Pagamento feito com sucesso!</string>
+    <string name="com_droid_engine_invalid_parameter">Parâmetros inválidos!</string>
+    <string name="com_droid_engine_dialog_tips">Aviso</string>
+    <string name="com_droid_engine_dialog_show_never">Não mostrar esta mensagem novamente</string>
+    <string name="com_droid_engine_dialog_message">Precisará criar um atalho no desktop?</string>
+    <string name="com_droid_engine_dialog_update_message">É necessária uma atualização para se continuar o jogo.</string>
+    <string name="com_droid_engine_Cancel">Cancel</string>
+    <string name="com_droid_engine_OK">OK</string>
+    <string name="com_droid_engine_content_update">As atualizações foram baixadas para o seu dispositivo, por favor, clique em [OK] para concluir a atualização.</string>
+    <string name="com_droid_engine_lng">pt</string>
+</resources>

@@ -1,0 +1,24 @@
+version: 3.0.3
+apkFileName: vampire.apk
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: 8
+versionInfo:
+  versionCode: 2
+  versionName: 1.0.1
+resourcesInfo:
+  packageId: 127
+doNotCompress:
+- arsc
+- gif
+- jpg
+- png
+- assets/build/data/boot.js
+- assets/build/start.chs.html
+- assets/build/start.cht.html
+- assets/build/start.kr.html
+- assets/build/start.pt.html
+- assets/build/start.ru.html
+- assets/build/ver.dat

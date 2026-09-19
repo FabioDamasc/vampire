@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paychannel>
+    <string name="paychannel" value="com.tapjoy.plugin.TapjoyPlugin" params="{&quot;key&quot;:&quot;0AZ78zzqcnkmQWFnhJ3c&quot;,&quot;app_id&quot;:&quot;43ed07c3-381d-4463-afa5-f7d639a0d02e&quot;}" />
+    <string name="paychannel" value="com.android.vending.plugin.GoogleBillingPlugin" />
+</paychannel>

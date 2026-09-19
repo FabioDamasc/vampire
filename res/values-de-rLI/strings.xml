@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_droid_engine_loading">Laden…</string>
+    <string name="com_droid_engine_updating">Unterladend</string>
+    <string name="com_droid_engine_wait_msg">Bitte warte, bis die für das Spiel benötigten Dateien heruntergeladen wurden</string>
+    <string name="com_droid_engine_sure_to_exit_game">Möchtest du das App schließen?</string>
+    <string name="com_droid_engine_pp_payment_failed">Zahlung ist fehlgeschlagen！</string>
+    <string name="com_droid_engine_pp_payment_success">Zahlung gelungen！</string>
+    <string name="com_droid_engine_invalid_parameter">Ungültige Parameter!</string>
+    <string name="com_droid_engine_dialog_tips">Tipp</string>
+    <string name="com_droid_engine_dialog_show_never">Keine Tipps mehr anzeigen.</string>
+    <string name="com_droid_engine_dialog_message">Desktopverbindung herstellen?</string>
+    <string name="com_droid_engine_dialog_update_message">Ein Update wird benötigt, um das Spiel fortzusetzen.</string>
+    <string name="com_droid_engine_Cancel">Cancel</string>
+    <string name="com_droid_engine_OK">OK</string>
+    <string name="com_droid_engine_content_update">Es gibt eine neuere Version! Tippe auf [OK] bitte um die neuen Funktionen zu nutzen.</string>
+    <string name="com_droid_engine_lng">de</string>
+</resources>

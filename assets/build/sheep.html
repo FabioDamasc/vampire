@@ -1,0 +1,25 @@
+<html>
+<script>
+function callsheep(year) {
+	var count = 0;
+	var sheeps = [1];
+
+	for (var i = 1; i < year; i++) {
+		var length = sheeps.length
+		for (var j = 0; j < length; j++) {
+			sheeps[j]++;
+			var age = sheeps[j];
+			if (age == 2) sheeps.push(1);
+			else if (age == 4) sheeps.push(1);
+			else if (age == 5) delete sheeps[j];
+		}
+	}
+
+	for (var i in sheeps) {
+		if (sheeps[i]>0) count++;
+	}
+	return count;
+}
+
+
+</script>

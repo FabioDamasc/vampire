@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vampire War - Português</string>
+    <string name="com_droid_engine_loading">Loading...</string>
+    <string name="com_droid_engine_updating">Downloading</string>
+    <string name="com_droid_engine_wait_msg">Downloading the game update, please wait...</string>
+    <string name="com_droid_engine_sure_to_exit_game">Are you sure you want to quit?</string>
+    <string name="com_droid_engine_pp_payment_failed">payment failed!</string>
+    <string name="com_droid_engine_pp_payment_success">Payment Success!</string>
+    <string name="com_droid_engine_invalid_parameter">Invalid parameters!</string>
+    <string name="com_droid_engine_dialog_tips">Hint</string>
+    <string name="com_droid_engine_dialog_show_never">Hint me no more.</string>
+    <string name="com_droid_engine_dialog_message">Create shortcut on desktop?</string>
+    <string name="com_droid_engine_dialog_update_message">Need update Game.</string>
+    <string name="com_droid_engine_Ensure">Ensure</string>
+    <string name="com_droid_engine_Cancel">Cancel</string>
+    <string name="com_droid_engine_OK">OK</string>
+    <string name="com_droid_engine_content_update">New content has been downloaded to you device. Now Tap [OK] to let the latest content take effect.</string>
+    <string name="com_droid_engine_lng">en</string>
+    <string name="lng">pt</string>
+</resources>

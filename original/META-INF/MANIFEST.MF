@@ -1,0 +1,3252 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/build/img/tech/15.png
+SHA1-Digest: emC0IWojj4CBIwrpWcVo8oWDoIg=
+
+Name: assets/build/img/button/button_a.png
+SHA1-Digest: MxdcBla5Ka3rrw1yuSxhaBRo7cE=
+
+Name: assets/build/img/hero/128.png
+SHA1-Digest: xgkG0bmTMKveTgtWyLL/+9LnnfI=
+
+Name: assets/build/main.html
+SHA1-Digest: J7DGUgHpr/gcWFykjC0aUHarg7A=
+
+Name: assets/build/img/flag/64.png
+SHA1-Digest: y/DQ5AA0T4th+By+I4CUs7WOyu0=
+
+Name: assets/build/img/effect/zc.png
+SHA1-Digest: eXbU5IsiJPcvd3aMshPzuZUMUD4=
+
+Name: assets/build/img/effect/s_block.png
+SHA1-Digest: UF95Wgad9NgjimT1llrH4FfaR4w=
+
+Name: assets/build/img/flag/108.png
+SHA1-Digest: MNJPhzioufVwdSpSG8700egV6lo=
+
+Name: assets/build/img/facility/6.png
+SHA1-Digest: BVrt+Wm8PSC68K+vsjPez/pzDxs=
+
+Name: assets/build/img/hero/110.png
+SHA1-Digest: Kn5gJdyinr4Df1S4k3zw65+p8UM=
+
+Name: assets/build/img/item/s1.png
+SHA1-Digest: 2Ms/yl+Ls2R8iBzT45Dw2FFDYqM=
+
+Name: assets/build/img/hero/29.png
+SHA1-Digest: tHXeaCM/4qzRkb9m9X446003caQ=
+
+Name: assets/build/img/item/l13.png
+SHA1-Digest: NpLkyN5ZzAqfCIDjfb9ktKWX7ak=
+
+Name: assets/build/img/item/gift2.png
+SHA1-Digest: iFOCiNnCNE3QVP0u+Ftr9EAyFV4=
+
+Name: assets/build/img/item/h21.png
+SHA1-Digest: XcLKiER2MhVS/TnWpJCNx7gw0Gw=
+
+Name: assets/build/start.css
+SHA1-Digest: mdXVPCe8yyfb0d/8lvTLmhvZaD8=
+
+Name: assets/build/img/item/w8.png
+SHA1-Digest: +ZIl+gYBvgc7c4TlBwkD70eB6RA=
+
+Name: assets/build/worker.html
+SHA1-Digest: aS2H58XcjKu5c0EMDRgVYtYXuVE=
+
+Name: assets/build/img/misc/8.png
+SHA1-Digest: m3KmJgVM6A/Wn6WMQybInnzkcss=
+
+Name: assets/build/img/map/t2.jpg
+SHA1-Digest: ACLwnS9cCC8IIxdaXiBMA/+VlrM=
+
+Name: assets/build/img/hero/4_1.png
+SHA1-Digest: HS8QSuIRxxtV3tO9oLpx8kCiA9c=
+
+Name: assets/build/img/item/275.png
+SHA1-Digest: IXMiGahbKGBPlcYJFeSD1ViHr2Q=
+
+Name: assets/build/img/menu/menu_item.png
+SHA1-Digest: gXvs14jdYRC/UYJxFSqh16kBFVw=
+
+Name: assets/build/img/button/newmail.png
+SHA1-Digest: /ttsVtGvTisA/91PXi/G6Ff1Z0k=
+
+Name: assets/build/img/flag/1.png
+SHA1-Digest: GsbgcPMNzfJgquulMQiIXWCuoQE=
+
+Name: assets/build/img/item/s26.png
+SHA1-Digest: 7ll6DKtQ0qabLlP1p/g6hkIj5uw=
+
+Name: assets/build/img/button/a2.png
+SHA1-Digest: UCgW8ia/7pvwG11eeYr2wPaR/8w=
+
+Name: assets/build/img/item/w6.png
+SHA1-Digest: PAiBCcZ8kUbMVpMTALzSEvMKuEg=
+
+Name: assets/build/img/hero/96.png
+SHA1-Digest: uh0iZE3fkiTBtv3mg9h8JJvedig=
+
+Name: assets/build/img/bg/s4-1.png
+SHA1-Digest: VwOywD07CK1B9+wQdRWubMRC1lw=
+
+Name: assets/build/img/flag/74.png
+SHA1-Digest: RGiPCtzei3METdAMSXeMUCeuINM=
+
+Name: assets/build/img/hero/23.png
+SHA1-Digest: LvGc6N7bAs/5CqGPCcCgSKeNEzU=
+
+Name: assets/build/img/hero/55.png
+SHA1-Digest: MAXIoK0t2m0ULHFeTb7quQ17zp4=
+
+Name: assets/build/img/map/a90.png
+SHA1-Digest: uusBnZIIbifYG1bwpiV5cpCDGwQ=
+
+Name: assets/build/img/button/drop_down.bmp
+SHA1-Digest: pzaH1zGGl1Bv8xjHLvoQATcehho=
+
+Name: assets/build/img/flag/90.png
+SHA1-Digest: RjxJLdZNQbP0lUN5okx93qlpnOI=
+
+Name: assets/build/translation/pt/autogen/skill_data.js
+SHA1-Digest: cG9U4OEld4X1QrJiS0QEHFnnkuo=
+
+Name: assets/build/img/menu/rank23.png
+SHA1-Digest: 7q90Og1kupvKQLwu9uUHk9Y+eGA=
+
+Name: assets/build/img/frame/content_down.png
+SHA1-Digest: hI+Uph+7jZpKvlf8Azai0VCmkoo=
+
+Name: assets/build/img/flag/94.png
+SHA1-Digest: PPZuCYCaEgV+vlCsDtflRDlbxf0=
+
+Name: assets/build/img/effect/yxhh.png
+SHA1-Digest: 7A7h/4MPpkZPF3qXZx6hDrEMm3s=
+
+Name: assets/build/img/flag/75.png
+SHA1-Digest: RYfHEZ4RQQykY7mJ4NdKHINvIO4=
+
+Name: assets/build/img/frame/close_ico.png
+SHA1-Digest: a8IVDmSefIKnCu+cVr+Rp5Lio+0=
+
+Name: assets/build/img/map/z1.jpg
+SHA1-Digest: q0ASpQauj6Xy9TBKFKrCXcFcVNA=
+
+Name: assets/build/img/effect/s_ready.png
+SHA1-Digest: KCi+DxyXMtlQWjIoJrSpAq6Hj4w=
+
+Name: assets/build/img/frame/message_bg_t.png
+SHA1-Digest: IIho0Yu518C5kyTNUyiW2NPe3aQ=
+
+Name: assets/build/translation/chs/autogen/item_data.js
+SHA1-Digest: 8PiDVk3xEcYQduI0nKeq+1ui+UQ=
+
+Name: assets/build/img/map/b1.jpg
+SHA1-Digest: Kg92Fe8J4v739WnXms/uDVfos+k=
+
+Name: assets/build/img/item/resup1.png
+SHA1-Digest: 8eiW24A+Jj3qjc8jzSMAHAUTSHw=
+
+Name: assets/build/data/guide.js
+SHA1-Digest: voCIN+KUue3XbYGMbgbVRzACC9Y=
+
+Name: assets/build/img/item/g4.png
+SHA1-Digest: WKMKrbtzDNou1iom4/HhvgnPHUE=
+
+Name: assets/build/img/bg/s2-1.png
+SHA1-Digest: /sul+vJrS4Kj3KHPpl0lX9BOjjY=
+
+Name: assets/build/img/item/l19.png
+SHA1-Digest: g5TdaFKj9VtynN1bCt5Ek0zxPOI=
+
+Name: assets/build/img/map/relic/b3b.png
+SHA1-Digest: bYE+NYvR7sJ9HajnkYxJG++3BR8=
+
+Name: assets/build/img/map/z5.jpg
+SHA1-Digest: kk9341g9DF8lBkBFrTq/YAlQ3fw=
+
+Name: assets/build/img/flag/112.png
+SHA1-Digest: fNwR17FB+oiK/j2Wj0MwN5r6A78=
+
+Name: assets/build/img/item/g2.png
+SHA1-Digest: 2ZFqFjOm5B4GwNKHWV4SlwngcjM=
+
+Name: assets/build/img/item/shield.png
+SHA1-Digest: J92eptbuO3V5V27+ZyvXsgVAbjE=
+
+Name: assets/build/img/hero/161.png
+SHA1-Digest: oyceK8kKanmLQvjUNGhLeIOXDmU=
+
+Name: assets/build/data/boot.js
+SHA1-Digest: rcg7GeeTSRscbqD9i0bNnzLlkvw=
+
+Name: assets/build/img/race/2.png
+SHA1-Digest: 61bDz0nJv7z+4YGSLcex7oK6Zuw=
+
+Name: assets/build/img/hero/14.png
+SHA1-Digest: L0rv1c4xuMmueGXkUH5FZmKJFiE=
+
+Name: assets/build/img/flag/24.png
+SHA1-Digest: La73qipmIdFhoGOilTbuu1GrH5s=
+
+Name: assets/build/img/bg/scene_cambridge.jpg
+SHA1-Digest: mBBsLJsi76W9epSlJJtBvYRNFg4=
+
+Name: assets/build/img/hero/86.png
+SHA1-Digest: g2UijnfIfoZGLhQCMpcpezi6BX8=
+
+Name: assets/build/translation/de/autogen/tech_data.js
+SHA1-Digest: FWCXDvAY44XlcOZ49FxDJDy1tKY=
+
+Name: assets/build/img/flag/104.png
+SHA1-Digest: 0QIWQMkkEe1cOX5euFZpzTgb1Ro=
+
+Name: assets/build/img/button/yes_s.png
+SHA1-Digest: VcB+mrs/4DMH48SrCgBNYADmJH8=
+
+Name: assets/build/img/hero/15.png
+SHA1-Digest: aav5X/jyeXtI+ujmjKy6SGwr8qk=
+
+Name: assets/build/img/item/l18.png
+SHA1-Digest: zjPidZ+kDAUM74D/PEWVzb3oXUQ=
+
+Name: assets/build/img/menu/score.png
+SHA1-Digest: ZunuQRZrrmy9KKESgiZSkLH3f4M=
+
+Name: assets/build/img/item/a.png
+SHA1-Digest: dsiiVuaYnXjwJopVpecuwL3/f+A=
+
+Name: assets/build/img/item/art1.png
+SHA1-Digest: 3YdETxmwjwJK30LpP/gkuZOS3RU=
+
+Name: assets/build/img/hero/22.png
+SHA1-Digest: ijL8OMMQKRWc8AnsTFQpvxuBD1A=
+
+Name: assets/build/img/menu/rank19.png
+SHA1-Digest: +RAsOrQPJP29bJK4rr2D8/RQbfc=
+
+Name: assets/build/img/map/ac0.png
+SHA1-Digest: U8ypExweg5J1c3PIn1IshB6POjo=
+
+Name: assets/build/translation/de/autogen/item_data.js
+SHA1-Digest: UVV7Cl4WV2BvBWjsi9Y5s7qwfzM=
+
+Name: assets/build/img/misc/3.png
+SHA1-Digest: 3B0myVqI2vrPnfSw+kw7fJcziCE=
+
+Name: assets/build/img/hero/89.png
+SHA1-Digest: Q/I83SlKJPH2RqJ4qDILYukmI0g=
+
+Name: assets/build/img/button/ftitle.png
+SHA1-Digest: Ry6z7IbbTSBcUMGVOHveFVas3lo=
+
+Name: assets/build/img/hero/107.png
+SHA1-Digest: GBc8Isi3C8lqYVhJ0jdmbJR9pXc=
+
+Name: assets/build/img/item/i1.png
+SHA1-Digest: EFJFVWt2W7BJzyRoHCMqmkQIpHc=
+
+Name: assets/build/img/item/w29.png
+SHA1-Digest: fdg5VHtuPOg+pgRAYd02bm8Hxv8=
+
+Name: assets/build/img/item/w10.png
+SHA1-Digest: ZAFjm7gg+TRyMM+6g8TyY8slsKc=
+
+Name: assets/build/img/item/xmasgift_small.png
+SHA1-Digest: G2lW4APld+YjMjOv8imFHaafZe4=
+
+Name: assets/build/img/menu/level.png
+SHA1-Digest: 9Neuhb8kUVNzOJIRMRzlKInWiEE=
+
+Name: assets/build/img/map/relic/b6.png
+SHA1-Digest: mBv0CBiZSdv+InUu5Q1/YaXjwyk=
+
+Name: assets/build/img/map/a50.png
+SHA1-Digest: WXbtDaTBKzuBV55ZfTpzUpkMsDU=
+
+Name: assets/build/img/frame/slot.png
+SHA1-Digest: LWom+kGa2YlUSAO6Cq3kt9QCRSY=
+
+Name: assets/build/img/button/goal2.gif
+SHA1-Digest: P3gVtq5YrXOWTMMOkZ496AKMHSs=
+
+Name: assets/build/img/map/relic/b3.png
+SHA1-Digest: aq1OpCQyyBacLlKwhb6CXMdleFQ=
+
+Name: assets/build/img/hero/75.png
+SHA1-Digest: O9gTn6LkoYe7ZOS7NKpEKDnye/E=
+
+Name: assets/build/img/item/h18.png
+SHA1-Digest: 31qCow0IhstYjY24UNyYiT74QAc=
+
+Name: assets/build/img/hero/140.png
+SHA1-Digest: 9XeCFFfTX10h5TschrBPpmWTS58=
+
+Name: assets/build/img/item/a14.png
+SHA1-Digest: hbx3zBrGdouHPOlaMYa41IGzDLs=
+
+Name: assets/build/img/button/loginbt.png
+SHA1-Digest: mo9NlZKTEe4AgWD8BJJZni12dbA=
+
+Name: assets/build/img/map/ac.png
+SHA1-Digest: Jsx2i+RxRAjlvwZ49mV3P0W9U/w=
+
+Name: assets/build/img/item/M.png
+SHA1-Digest: hjXAm65zCcxd4wDCVRA1iHBa6hU=
+
+Name: assets/build/img/hero/148.png
+SHA1-Digest: DmOi0sdEsqkULS1rewADdWFL1lY=
+
+Name: assets/build/img/hero/121.png
+SHA1-Digest: 1SnYwx0IiogwrebUtnqJp26JBs4=
+
+Name: assets/build/img/hero/a3.png
+SHA1-Digest: dt+kEWJqcWPyLS44VLID/b3m5uI=
+
+Name: res/xml/logtrack.xml
+SHA1-Digest: Wp5f6eoU3XeE/+oGzf/WLHfRlt4=
+
+Name: assets/build/translation/ru/autogen/building_data.js
+SHA1-Digest: 8P9Zgw/LY2E0tFNoh9NP78LJD40=
+
+Name: assets/build/img/facility/7_xmas.png
+SHA1-Digest: Zm5ofWNpEETX6agxlw4+KC3AYlk=
+
+Name: assets/build/img/item/i20.png
+SHA1-Digest: f8ksi5VpWJi7n+omNUaHGs0LbaA=
+
+Name: assets/build/img/hero/54.png
+SHA1-Digest: KL4Oi2vPYQQvMbheOsFa79uWL1c=
+
+Name: assets/build/img/facility/11.png
+SHA1-Digest: 1I6WlYrIHJFNUOSpc8s+sBeejLU=
+
+Name: assets/build/img/item/g6.png
+SHA1-Digest: eHYJNlJqKcWxztW0HIBOez1WT/o=
+
+Name: assets/build/img/frame/victory.png
+SHA1-Digest: VffZZb1Ftam2ST2EJpmJPZytVSk=
+
+Name: assets/build/img/menu/sign2.png
+SHA1-Digest: p2yDIkEGsiu/tX8pQFQCGVgWmS0=
+
+Name: assets/build/img/map/relic/b9.png
+SHA1-Digest: 6BvRtU3xEQ+/XHO1xWcsD60Gjek=
+
+Name: assets/build/img/item/l12.png
+SHA1-Digest: xf4Sqx/ILDUITcqFFOHTWGo2U+8=
+
+Name: assets/build/img/tech/20.png
+SHA1-Digest: UBo6toRe9wODh/2nHb6Cx9/2Jlg=
+
+Name: assets/build/img/flag/100.png
+SHA1-Digest: 8ADVDAzVjIT3MT49S5mdOqTv3KM=
+
+Name: assets/build/img/button/a1.png
+SHA1-Digest: iLxk1CcndHgP41Ui5kovwFpZ9b8=
+
+Name: assets/build/img/hero/135.png
+SHA1-Digest: 33sFJ76olVpcDbctpKE6EBnoVgw=
+
+Name: res/drawable-hdpi/com_droid_engine_splash.png
+SHA1-Digest: e8iTyiUkX/Se6tbhMX9ZoiYPGN0=
+
+Name: assets/build/img/item/l25.png
+SHA1-Digest: 6e7GMMpS04kaRSExua4UoxUmp5s=
+
+Name: assets/build/img/flag/10.png
+SHA1-Digest: GVpJ/jbMNEOjB7/oZKN2uutTRAw=
+
+Name: assets/build/img/map/boss20.png
+SHA1-Digest: 9fGBdE1x/OMgjpVd/p7xKyyIGWk=
+
+Name: assets/build/img/button/goal2.png
+SHA1-Digest: P3gVtq5YrXOWTMMOkZ496AKMHSs=
+
+Name: assets/build/translation/cht/autogen/skill_data.js
+SHA1-Digest: NDi1W7jBBtvfkf/K3JMpQjnoJ4U=
+
+Name: assets/build/img/misc/cooper.jpg
+SHA1-Digest: +qmtqJHzs0N20jercaNpEwU6Jmk=
+
+Name: assets/build/img/hero/109.png
+SHA1-Digest: SToTTdvxmuuCT1WJRFqIuAqEpAE=
+
+Name: assets/build/translation/ru/autogen/skill_data.js
+SHA1-Digest: T8u6kAhAsseb4HVOm7tIhvT9YHQ=
+
+Name: assets/build/img/effect/ax.png
+SHA1-Digest: r0WXAbL90NL+rH0jCxYbj8sN+4A=
+
+Name: assets/build/data/story.js
+SHA1-Digest: xy9Io7D2aKIvP2Or6DKySW1Ezmw=
+
+Name: assets/build/img/item/w20.png
+SHA1-Digest: o0q2OXZccJbI9dJRyny0nx6rfOw=
+
+Name: assets/build/translation/kr/autogen/building_data.js
+SHA1-Digest: EJpFl3mHXn4RPG0LAm5kqZZsNw0=
+
+Name: assets/build/img/hero/137.png
+SHA1-Digest: tlDJVhCCdPV3H3k4jPpBU7+nH4g=
+
+Name: assets/build/img/button/message_bt.png
+SHA1-Digest: mTmyU2racx9YCSDeML1ZFdymX0Q=
+
+Name: assets/build/img/hero/1_2.png
+SHA1-Digest: 0l+cdG3tqOSdpQmSNafB+lnDLkM=
+
+Name: assets/build/img/flag/38.png
+SHA1-Digest: BqS9LKpAWqc3WuqE4sI7tjxmcgI=
+
+Name: assets/build/img/button/promote.png
+SHA1-Digest: QAz1WkKRMey9E/9sCuglvbGnG0A=
+
+Name: assets/build/img/hero/93.png
+SHA1-Digest: uJFXNLKsEotKQh5+WXbwn1p/KOA=
+
+Name: assets/build/img/hero/s4.png
+SHA1-Digest: nmbR5mFbalZz5oypCIF00GQ+ICU=
+
+Name: assets/build/img/item/creditup.png
+SHA1-Digest: W6C78s3EwsSvv/iM1xLwOC4NHfs=
+
+Name: assets/build/img/item/s13.png
+SHA1-Digest: T5IBLhySK0adELP3fCmf0K6oiUA=
+
+Name: assets/build/img/item/s6.png
+SHA1-Digest: Bqd1oGCUtDOqcETglCuqD8B/9CU=
+
+Name: assets/build/img/gif/brinkpink.gif
+SHA1-Digest: Rs6MsFMTn45gpc3eE+uDQd6aYWk=
+
+Name: assets/build/img/hero/81.png
+SHA1-Digest: b2CiTbJBXqzc6Nq3Q2WtEA4YUu8=
+
+Name: assets/build/img/frame/formation_u.png
+SHA1-Digest: PgXLu3qdYEtHAlowPTzpKg5pJqE=
+
+Name: assets/build/img/effect/qrs.png
+SHA1-Digest: eRHtfc8HcI7EF9+/cc6oz3F+CcQ=
+
+Name: assets/build/img/flag/45.png
+SHA1-Digest: HXRPMgSP7gOXNTIu+nfyYInm6lk=
+
+Name: assets/build/img/menu/money.png
+SHA1-Digest: momPeFwCrCifQIWZGXxuIhX+JmM=
+
+Name: assets/build/img/hero/36.png
+SHA1-Digest: fRZDdJqU0SnZyyayb3k2WepOLCA=
+
+Name: assets/build/img/item/i17.png
+SHA1-Digest: /87JQBFpBzgkfVIadAt+0x8eVbg=
+
+Name: assets/build/img/hero/167.png
+SHA1-Digest: h69pqW36QzZ+gZUf2ihX48pKobA=
+
+Name: assets/build/img/item/s12.png
+SHA1-Digest: pP5cj75ktvS/RmLwN583zDvURpA=
+
+Name: assets/build/img/hero/149.png
+SHA1-Digest: L2FsLiepBkSSBQosy0hdg4gCR9Y=
+
+Name: assets/build/img/menu/sign3.png
+SHA1-Digest: DLusuOyddy5wIjaJ2uzaMLEe/O4=
+
+Name: assets/build/img/flag/87.png
+SHA1-Digest: bYjevKy+EwKh/psq46U5aoxBImY=
+
+Name: assets/build/img/item/E.png
+SHA1-Digest: 9cHbiZvt2J9RsCKRH1LASJt042I=
+
+Name: assets/build/img/tech/9.png
+SHA1-Digest: KZLH1oXAN6FQRh/3KlMFsuXOOM4=
+
+Name: assets/build/img/frame/message_top_t.png
+SHA1-Digest: gdOvXuX9Mnc4XlYG9rzMqYGVXw0=
+
+Name: assets/build/img/map/aa0.png
+SHA1-Digest: xAI+5sj63vblCAQgK3NPMxmfSbk=
+
+Name: assets/build/translation/de/autogen/building_data.js
+SHA1-Digest: bO4cRTxW8dW+/tImP/7zx0zteDo=
+
+Name: assets/build/img/flag/48.png
+SHA1-Digest: xXZPfBSXbp9lLLkA2ohJA8uL4/Y=
+
+Name: assets/build/img/menu/menu_hero.png
+SHA1-Digest: 746u+9+97xTgJgd0X4ZEhrLDIBk=
+
+Name: assets/build/img/hero/124.png
+SHA1-Digest: saWTiy46CQqaS6tVvHxbVRQ4rKY=
+
+Name: assets/build/img/hero/138.png
+SHA1-Digest: UWqpsyP5SN/n33vh05siBWcNMOY=
+
+Name: assets/build/img/item/art3.png
+SHA1-Digest: kcV2N/wNL+dSKEcRhmCeLmkkTyg=
+
+Name: assets/build/img/misc/whiteButton.png
+SHA1-Digest: K0Jc3pAsDztdjnssbQrDgbYuOTc=
+
+Name: assets/build/img/menu/rank14.png
+SHA1-Digest: 94mbAoR5cn3QiZgbXSDzuEAYF0s=
+
+Name: assets/build/img/item/l16.png
+SHA1-Digest: sYDtj/vfqGM0RdYKcYY8mAspVyA=
+
+Name: assets/build/img/hero/94.png
+SHA1-Digest: GgaUMS5CpfRPdRjXRAS1xO4eov0=
+
+Name: assets/build/img/bg/s2.png
+SHA1-Digest: +w8wI6xEwLo3NtMYW9N4k4FV5eU=
+
+Name: assets/build/img/hero/60.png
+SHA1-Digest: U19fWixcIs4qnZTXzlMxWqu25k0=
+
+Name: assets/build/img/item/i2.png
+SHA1-Digest: XggTeG7BUgGwOFUjSZDwcHm3Gm4=
+
+Name: assets/build/img/map/relic/a3b.png
+SHA1-Digest: 7YWdkXAjh/cH+V+TKq+98d/ccoQ=
+
+Name: assets/build/img/hero/51.png
+SHA1-Digest: acb8J0TgpBuWQAL2/2n5Y4LLCok=
+
+Name: assets/build/img/map/relic/b5.png
+SHA1-Digest: iqlX8/aE6R6eqWP2/NXQ68R8LrQ=
+
+Name: assets/build/img/item/l6.png
+SHA1-Digest: T3WT/IxXszpUUpj/Rr3hp0+bT1E=
+
+Name: assets/build/translation/kr/autogen/hero_data.js
+SHA1-Digest: XL/m+sELhFCrIhEJpmW6qhNBz0Q=
+
+Name: assets/build/img/hero/159.png
+SHA1-Digest: zy2kG87N6aVXcoPqvqPeNfPjW7Q=
+
+Name: assets/build/translation/en/autogen/building_data.js
+SHA1-Digest: 3VSzTH/ahZY+mMa+Qytm+dYwySQ=
+
+Name: assets/build/img/item/w21.png
+SHA1-Digest: AEoeai7vUulM2OQUhre3eSCaCyw=
+
+Name: assets/build/translation/pt/lng.js
+SHA1-Digest: Cs+meBsXiwYQv33s4qMzep3z4yg=
+
+Name: assets/build/img/map/t16.jpg
+SHA1-Digest: 6BFlGB+qAoE9ZbsQIb5/oVdR3Us=
+
+Name: assets/build/img/race/1.png
+SHA1-Digest: 6ONBC+F73Ta0XVBinI+7P/qWeJY=
+
+Name: assets/build/translation/en/campaign.js
+SHA1-Digest: DvP/edcKdrPBACDeJ5gw2AdSNvs=
+
+Name: assets/build/img/hero/139.png
+SHA1-Digest: 9WAAaSJ7Lv5jbrIpAuSKAuPItjQ=
+
+Name: assets/build/img/item/l10.png
+SHA1-Digest: RaQKtIhHPWCrwNf5MBdcWPWZipo=
+
+Name: assets/build/img/item/h16.png
+SHA1-Digest: Tu9THJWrgsZOiYRqGg+pBQFc6qo=
+
+Name: assets/build/img/item/i8.png
+SHA1-Digest: syO641jtd3Vel/ctFS8YMghyD/g=
+
+Name: assets/build/img/item/a25.png
+SHA1-Digest: RjsCtcIkURjdLl2lbNIsa6dXkjE=
+
+Name: assets/build/img/map/racehero1.png
+SHA1-Digest: KddwTAZaP19E8ksJ8fs9a5QZmPY=
+
+Name: assets/build/img/item/a21.png
+SHA1-Digest: hCDwcV+cbvmFFz31h9atyMQB7Nk=
+
+Name: assets/build/sheep.html
+SHA1-Digest: JDHJ9lufAE/TlP4v75P8DSFtQdQ=
+
+Name: assets/build/img/flag/14.png
+SHA1-Digest: 67Pw5GuFv3f+KfCZw+bNjwD9+y0=
+
+Name: assets/build/img/hero/101.png
+SHA1-Digest: M6CMakbjGSDdzWyWlsF0GIIY07c=
+
+Name: assets/build/translation/en/questguide.js
+SHA1-Digest: Y8PLFuvy5Ssr4NRvWhyLsxruaf4=
+
+Name: assets/build/img/item/alloyup.png
+SHA1-Digest: wT12WB+EezGWHQetemRYKDU3GG0=
+
+Name: assets/build/img/item/l26.png
+SHA1-Digest: OBWb8LFwvMOq5uYrNN1ik2yO2x4=
+
+Name: assets/build/img/map/relic/b9b.png
+SHA1-Digest: 0K9YMhD7HnXUyFu3Tx4SxcO489k=
+
+Name: assets/build/img/item/a1.png
+SHA1-Digest: ygE9ViBY338sKjs4osB3XLTRwc8=
+
+Name: assets/build/translation/ru/autogen/tech_data.js
+SHA1-Digest: kzkLgfbQjtXGpn+1Zh1PI9V7/LM=
+
+Name: assets/build/img/flag/86.png
+SHA1-Digest: FyZ9NwvZ1E54XtExzDN406jpmQ8=
+
+Name: assets/build/main.css
+SHA1-Digest: iE97zTIpeIZ151nGlyfR5OciNrY=
+
+Name: assets/build/img/hero/118.png
+SHA1-Digest: pbI06+agzq8Bj3qWOoHOGsBb1h0=
+
+Name: assets/build/translation/pt/autogen/quest_data.js
+SHA1-Digest: iz+gn0BAlD+bD5+rYMsdRsVbTkI=
+
+Name: assets/build/img/item/w26.png
+SHA1-Digest: aBzCk9zXbbonmkkbcMyqk9PSSJU=
+
+Name: assets/build/img/tech/7.png
+SHA1-Digest: cHCEa0CWoyjBcd2gX5pattj363w=
+
+Name: assets/build/img/facility/i10.jpg
+SHA1-Digest: M4k/Auen5x7jY74XHZIaYQA9Yos=
+
+Name: assets/build/img/flag/77.png
+SHA1-Digest: XC433vWvc7ujNufGe6BtoLOsG3k=
+
+Name: assets/build/img/hero/9.png
+SHA1-Digest: 7WjCcecLa8JRTnkf+VsOxlgoe5s=
+
+Name: assets/build/img/item/l20.png
+SHA1-Digest: 0S6u1pdSVJ4kIPrGLQH6T08aNvE=
+
+Name: assets/build/img/map/boss2.png
+SHA1-Digest: 0RuGvoo3W+pnqym7b0l6rDLft9k=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: Ddf3dH91jFamR8U+4N4m9jOaNSg=
+
+Name: assets/build/img/hero/2_3.png
+SHA1-Digest: I3zMNi/xz+5Ssb17csoBd1GkHfM=
+
+Name: assets/build/img/item/s21.png
+SHA1-Digest: 60Sog1jwwiUtQzsck3Nzp1LLFag=
+
+Name: assets/build/img/effect/julisu.png
+SHA1-Digest: Pztf5gjWEafrm3WIekg5d5mVIHg=
+
+Name: assets/build/img/tech/11.png
+SHA1-Digest: tQT0Wd/8rRADtoiVjgON0wTRQH4=
+
+Name: assets/build/img/hero/103.png
+SHA1-Digest: QzDMQAf6Lzt/3PpnlYc91hO5JCw=
+
+Name: assets/build/img/flag/57.png
+SHA1-Digest: FqTtaWPs5zAZbfWMWUJdl/gPeBw=
+
+Name: assets/build/img/hero/78.png
+SHA1-Digest: vYQ69sORAjMVKsSoXFcLe0EOODM=
+
+Name: assets/build/img/bg/start.gif
+SHA1-Digest: FK6CRMvN5b7jGGrfQcNRnx68LGU=
+
+Name: assets/build/img/map/relic/b2b.png
+SHA1-Digest: aJdqIUnec5UJ3EsaUQp/GK42S88=
+
+Name: assets/build/img/item/l30.png
+SHA1-Digest: aEJ4BCCq7JgLDzJirblEQ3VJKOE=
+
+Name: assets/build/img/map/t15.jpg
+SHA1-Digest: 7x8FtDDwArT0Dduc5lPhkJV7chs=
+
+Name: assets/build/img/hero/106.png
+SHA1-Digest: ona4UHYT5Rz5ef6DRK7F9jwj7R8=
+
+Name: assets/build/img/map/t9.jpg
+SHA1-Digest: Kd2iBLd5YWxaH4qZqWdp++o2wJs=
+
+Name: assets/build/img/effect/bq.png
+SHA1-Digest: aWssIucWocb29Ju+4JpUTojaEBA=
+
+Name: assets/build/img/item/h1.png
+SHA1-Digest: c/X5ekMoOrHn/xSvlPmZ+5Hyo/0=
+
+Name: assets/build/img/map/t13.jpg
+SHA1-Digest: oILkNZYo0zl0L5/4kRJXgLqgwPs=
+
+Name: assets/build/img/menu/rank2.png
+SHA1-Digest: fAmHbbz/vGv+tuU4azkb8PqR2Ig=
+
+Name: assets/build/img/item/i28.png
+SHA1-Digest: s8xHn3NE5USuoV8KesZ1jiPaPPk=
+
+Name: assets/build/img/hero/74.png
+SHA1-Digest: 5nBz+KONbJcj7iJh2Px7/A9Z708=
+
+Name: assets/build/img/item/a12.png
+SHA1-Digest: 9XiJSQWz3lmpBMrTRwyBtPq9+2A=
+
+Name: assets/build/img/facility/3.png
+SHA1-Digest: vu74bMYUoxt+9frn4ZgE06lO7ng=
+
+Name: assets/build/img/bg/s1.png
+SHA1-Digest: UoJW4/abP+0s5uVnsPqvHSilPhE=
+
+Name: assets/build/img/frame/top_bar.png
+SHA1-Digest: eIUhuPBXxj+/dqyKuNa5UQx7Sz8=
+
+Name: assets/build/img/flag/97.png
+SHA1-Digest: 7nDzNwmftlG5rHtaQ4v36YBM8HI=
+
+Name: assets/build/img/flag/126.png
+SHA1-Digest: lJF4OYwgzD6pyK1QTb1wmIqOfYw=
+
+Name: assets/build/img/hero/43.png
+SHA1-Digest: KuG2GsOpAPdRO2FF0MQkL+gw05U=
+
+Name: assets/build/img/flag/63.png
+SHA1-Digest: n+kpgzKxFAMrE9Z+MEm7eH2uGJI=
+
+Name: assets/build/img/item/w1.png
+SHA1-Digest: c9UAMvQHQPjXGMsOwBPfC0LPfgg=
+
+Name: assets/build/img/item/l28.png
+SHA1-Digest: 1gMAg9b46765huaIF/IcCIZtnOw=
+
+Name: assets/build/img/item/w13.png
+SHA1-Digest: J247NwgLgJ2MWEbDjULGYJQPYGs=
+
+Name: assets/build/img/hero/57.png
+SHA1-Digest: F9vms6pOdL4Tp5r/L6famY0EP1g=
+
+Name: assets/build/img/menu/human.png
+SHA1-Digest: YyWruFMcv4MJE6Q09izbCw89M5o=
+
+Name: assets/build/img/frame/quest_bg.png
+SHA1-Digest: oOjbOGC4Iu2L8sLAugYwZGAZW0I=
+
+Name: assets/build/img/item/a3.png
+SHA1-Digest: 9P34i71R2iO0qqsqM9cVJbeUUsQ=
+
+Name: assets/build/img/flag/7.png
+SHA1-Digest: gBNHchgWc+WvDev6xe5D4kr3nxk=
+
+Name: assets/build/img/item/explorer.png
+SHA1-Digest: o45gszn+G1hjuCApWFSkrz/t//o=
+
+Name: assets/build/img/item/l22.png
+SHA1-Digest: BIag3u3JBa/yGNwOW99p8Lrd+NE=
+
+Name: assets/build/img/effect/ss.png
+SHA1-Digest: x0ZvhpWoe8qGscVTn/lNA4rEC5s=
+
+Name: assets/build/img/hero/132.png
+SHA1-Digest: lSmSEt0zPIF7cE3xAw9rS75CGak=
+
+Name: assets/build/img/item/h9.png
+SHA1-Digest: UA29SO5/ekR5BHBGQVrk3YfDfYU=
+
+Name: assets/build/img/flag/27.png
+SHA1-Digest: diit/o775+CWYoXx0p96pqMRu58=
+
+Name: assets/build/img/item/g1.png
+SHA1-Digest: 4Ey+GgU99BQ7JLU+NHY/77xDe2w=
+
+Name: assets/build/img/hero/114.png
+SHA1-Digest: iRrRlNNlRK3nxE8iMpUFuAMfsTQ=
+
+Name: assets/build/img/item/s23.png
+SHA1-Digest: tSmvnz3SlC0yGEuLnQPbUEUTg+E=
+
+Name: assets/build/img/map/racehero2.png
+SHA1-Digest: POVZAbzsZuJVN+zblG2MOqiUYDs=
+
+Name: assets/build/img/map/relic/b7b.png
+SHA1-Digest: MoO2IeIMA2X1Sj2DeMxYYWAlhPQ=
+
+Name: assets/build/img/frame/hero.png
+SHA1-Digest: 7mkJK0sqn+GDR5yqiReesbk+vjY=
+
+Name: assets/build/img/menu/rank20.png
+SHA1-Digest: w+VY8zSiEdXHZuRc2CpZO3AMeoI=
+
+Name: assets/build/img/flag/0.png
+SHA1-Digest: YWGFfSIKGrOHkQE+OlGthGHceQI=
+
+Name: assets/build/img/flag/12.png
+SHA1-Digest: YlN5GDFEzyh2w65OBOjXt1QeZBw=
+
+Name: assets/build/img/hero/3.png
+SHA1-Digest: 612nTns9/iZ4yZ5gR+DvLvo3It4=
+
+Name: res/xml/config.xml
+SHA1-Digest: uNZArNShzMqg5x1DHezVGys+uRs=
+
+Name: assets/build/img/flag/105.png
+SHA1-Digest: YVMMyYPZmTLPCWmSMOYnbroGjfY=
+
+Name: assets/build/img/flag/124.png
+SHA1-Digest: VcwrSdxn+d1Zk4LGWo4pAc3OmL8=
+
+Name: assets/build/img/flag/98.png
+SHA1-Digest: +06/5/h3TNM9EsJBYMPjWMA4Yew=
+
+Name: assets/build/img/flag/93.png
+SHA1-Digest: zJLzLY7AOA0PQki/XVMA8RbO5Y4=
+
+Name: assets/build/img/misc/1.png
+SHA1-Digest: 9RTAXsxw+q1ZQtiOVWyLhha6r+4=
+
+Name: assets/build/img/map/a2.png
+SHA1-Digest: 3uXS5V6htzsu5nD5bTZ0wpAqBa8=
+
+Name: assets/build/img/item/a4.png
+SHA1-Digest: LMRaa1VOLahDf8cPKVuz/8s6yu0=
+
+Name: assets/build/img/map/t11.jpg
+SHA1-Digest: dbHbXp1/zUHyWIN5MrYUMQqR/B8=
+
+Name: assets/build/img/item/i30.png
+SHA1-Digest: j8njTeODpfLNCqcdRgY2GB/cFU0=
+
+Name: assets/build/img/hero/131.png
+SHA1-Digest: ynGHYP+VhINCHcCHzkUJSCzxS6w=
+
+Name: assets/build/img/item/w31.png
+SHA1-Digest: AEoeai7vUulM2OQUhre3eSCaCyw=
+
+Name: assets/build/img/tech/5.png
+SHA1-Digest: OT2wHOOMDhf3fTTqVR+sAgfhO0Q=
+
+Name: assets/build/img/button/goal1.png
+SHA1-Digest: pEKDjVLJBTb0SPMinLIqLonhoek=
+
+Name: assets/build/img/facility/3_xmas.png
+SHA1-Digest: Zm5ofWNpEETX6agxlw4+KC3AYlk=
+
+Name: assets/build/img/hero/7.png
+SHA1-Digest: h21T+SbqGiN9EOjsYcYyaY7mUwo=
+
+Name: assets/build/img/flag/60.png
+SHA1-Digest: 7pF7KCXNWOW+bMEtX03Fvq5rJqQ=
+
+Name: assets/build/img/hero/a2.png
+SHA1-Digest: GoXJ0gKXZt5qapPMP6Kj2rrM2qg=
+
+Name: assets/build/img/map/relic/a5b.png
+SHA1-Digest: 3oRejUBge7fGluK2HjWNz0PLt3U=
+
+Name: assets/build/img/tech/22.png
+SHA1-Digest: M9gaEjwXsDACjt1U9CRmFW8swM0=
+
+Name: assets/build/img/flag/120.png
+SHA1-Digest: 9nDesb83G7IPfNgRrnz29MzicpY=
+
+Name: assets/build/img/tech/12.png
+SHA1-Digest: uAnIiaKy7r8KPc4ZCGh4vR0cESo=
+
+Name: assets/build/img/flag/119.png
+SHA1-Digest: 0Dj7i5rpc4RFchYGPQuiSaOsnaY=
+
+Name: assets/build/img/map/racebg2.jpg
+SHA1-Digest: W5xSAC9gDl/Q63tHU0gLaGyUy7k=
+
+Name: assets/build/translation/en/autogen/skill_data.js
+SHA1-Digest: p9KsafZBtPxYuT0rCRTlAbLrj+g=
+
+Name: assets/build/img/flag/61.png
+SHA1-Digest: RBl+mx1XWUexRqFuhZ6uV9h214Q=
+
+Name: assets/build/img/map/relic/b4b.png
+SHA1-Digest: vHy1WKeuP3kIIzbJk8rdlltpPtA=
+
+Name: assets/build/img/item/w19.png
+SHA1-Digest: jHC8EnKZc86IFfomhB6ZEgLim3Q=
+
+Name: assets/build/img/frame/message_foot.png
+SHA1-Digest: QT6u3QXV0f5xy5eZBsCCMRF/neY=
+
+Name: assets/build/img/effect/s_evade2.png
+SHA1-Digest: HeAGNj1/7LLvSivSuMEtBjNz5vM=
+
+Name: assets/build/img/item/l21.png
+SHA1-Digest: IsFQVjc2rcvpSA38ZC8aFN10+JA=
+
+Name: assets/build/img/effect/mfcq.png
+SHA1-Digest: HDoIeznBub0aH7u0gUr8PawsCvA=
+
+Name: assets/build/img/hero/44.png
+SHA1-Digest: DHF6YiYE1N/EzYwd5s2R/SddbsU=
+
+Name: assets/build/img/flag/16.png
+SHA1-Digest: NKpUr2DwVd440VRbGHUTqyNMDF8=
+
+Name: assets/build/img/button/arrow_d.png
+SHA1-Digest: u6X5mbH1z2AziJ+XbZamv+LXrzs=
+
+Name: assets/build/img/map/relic/b2.png
+SHA1-Digest: w+GYwo62HJsQhGdGKKet+MTfnOA=
+
+Name: assets/build/img/effect/wbzs.png
+SHA1-Digest: 6CQxhlIvpNNoJHiopyca4e8sAHw=
+
+Name: assets/build/img/item/art2.png
+SHA1-Digest: gTDmec37r7ou0zdOajeeGNtmlTE=
+
+Name: assets/build/img/item/i23.png
+SHA1-Digest: 6Ww/g5ftHMsZExIPYjG0AgYOLWg=
+
+Name: assets/build/translation/de/autogen/skill_data.js
+SHA1-Digest: 00fKSq9EUNa0A5zhBJz1fZB79OA=
+
+Name: assets/build/img/map/t7.jpg
+SHA1-Digest: fs1atLQa/UQpCNa4TwRkrZxqiWk=
+
+Name: assets/build/img/flag/19.png
+SHA1-Digest: AvvLBMBJd6vjOzchKOrkoLWEDUs=
+
+Name: assets/build/translation/chs/marks.js
+SHA1-Digest: /KHy1LTTpurT88QjLzmdehCgxYI=
+
+Name: assets/build/img/map/t8.jpg
+SHA1-Digest: XTEBf8LfA8pywEqp3SrnVgDZHDc=
+
+Name: assets/build/img/gif/loading.gif
+SHA1-Digest: RiURfilXJytLmoKZRKWVm9IhbaM=
+
+Name: assets/build/img/hero/142.png
+SHA1-Digest: rUbbb4VLXAXMXHL4tV6eubnYBRU=
+
+Name: assets/build/img/flag/83.png
+SHA1-Digest: 0dDqbKQacdGaSFOa5v8V5lF5bjk=
+
+Name: assets/build/img/menu/vampire.png
+SHA1-Digest: /fn5VTWK9xYN3voScv5xQJPH8rU=
+
+Name: assets/build/img/map/relic/a6b.png
+SHA1-Digest: KlZQ97wkBnfioLD4hpik1sY4Olg=
+
+Name: assets/build/img/hero/70.png
+SHA1-Digest: 58hP+Q+1Av7+bYid1mf1dRLptGs=
+
+Name: assets/build/img/map/z4.jpg
+SHA1-Digest: 1EOAu9cnNZzC1aCqd/29RZM8UTw=
+
+Name: assets/build/img/map/a4.png
+SHA1-Digest: Dtq7glHpkIG1hV3Z0DOBy4YrSIA=
+
+Name: assets/build/img/facility/i3.jpg
+SHA1-Digest: plJKOcX1FyGRML48dEX5/BznWZw=
+
+Name: assets/build/img/item/i12.png
+SHA1-Digest: yfdonmlZo9qh89od1T6OO7qAZ0Q=
+
+Name: assets/build/device.css
+SHA1-Digest: JTmlSAXwNmhap8Jdedjc0KGllXM=
+
+Name: assets/build/img/map/a40.png
+SHA1-Digest: Q3gzaAqXgm3qLwQMgj6t88A1+/Q=
+
+Name: assets/build/img/hero/72.png
+SHA1-Digest: ww4JaHGCzD0SsP9uULBC1pB5ZxU=
+
+Name: assets/build/img/map/relic/a8.png
+SHA1-Digest: mrQbip4/fVARdbl2z4EzGw4qLBk=
+
+Name: assets/build/img/hero/168.png
+SHA1-Digest: oDtUabMGI08vHVtRgXxyH8/D5Us=
+
+Name: assets/build/img/bg/s3-1.png
+SHA1-Digest: Ir6xdSJz28+LvOXD9zychWsdguM=
+
+Name: assets/build/img/hero/127.png
+SHA1-Digest: 7kldq194M0NPzsuhCE7x6csv+/k=
+
+Name: assets/build/img/item/w25.png
+SHA1-Digest: SYa9Azlww5K+OYMjbJmC5FwpGZc=
+
+Name: assets/build/translation/kr/autogen/skill_data.js
+SHA1-Digest: AT/64zQXqtWQ0Nw8jRgiNubzVRY=
+
+Name: res/drawable/com_impaycenter_close.png
+SHA1-Digest: r4emCcDp14bk8r3lXjCLMS1mj0g=
+
+Name: assets/build/img/flag/22.png
+SHA1-Digest: 0FdmGlHn41ukDsePmkQ9JyJkMTI=
+
+Name: assets/build/img/item/i18.png
+SHA1-Digest: OP85cSaNLfefy8pZRDIn7gSt/NQ=
+
+Name: assets/build/img/hero/33.png
+SHA1-Digest: NbbWiDOHvstbfJ2072zMy2d31b0=
+
+Name: assets/build/img/item/a22.png
+SHA1-Digest: c8TLPZH0OquoS2p1M5xSAuyJQ1o=
+
+Name: assets/build/img/map/z13.jpg
+SHA1-Digest: tPn5jvu/q85QnIKRD4L7Cxj5cbE=
+
+Name: assets/build/img/facility/2_xmas.png
+SHA1-Digest: GeFAU4/LwekWmq38mRrCnpSoTTY=
+
+Name: assets/build/img/menu/rank12.png
+SHA1-Digest: AYPY9h9ezCp3pUmvQ0c1ib2qGvU=
+
+Name: assets/build/img/item/l5.png
+SHA1-Digest: zCOpNAh5FdGFelNxR+wzQSdlWeg=
+
+Name: res/drawable-ldpi/com_droid_engine_splash.png
+SHA1-Digest: e8iTyiUkX/Se6tbhMX9ZoiYPGN0=
+
+Name: res/layout/com_droid_engine_main.xml
+SHA1-Digest: vrSQGvcE/twyKO3WBLA7TanQ+5g=
+
+Name: assets/build/img/item/l15.png
+SHA1-Digest: R00A7UJz6Yek2LqrWLJZVuAigN0=
+
+Name: assets/build/translation/de/lng.js
+SHA1-Digest: n9Xtzym61LTf0rp5REAJvU/079U=
+
+Name: assets/build/img/flag/129.png
+SHA1-Digest: zJiikak7qnHELxwBpU70pR6JnJM=
+
+Name: assets/build/img/map/relic/a1b.png
+SHA1-Digest: +edQXdbdbXOiwYwhuRnSZV4hDok=
+
+Name: assets/build/img/item/s18.png
+SHA1-Digest: IghTE+QHrxg+HtDqCaTCBKDOw2o=
+
+Name: assets/build/img/flag/66.png
+SHA1-Digest: er31w/VjDG5NZonAefLQDd6H+MI=
+
+Name: assets/build/translation/ru/autogen/quest_data.js
+SHA1-Digest: xMqX79Gsh3ahQhLOdpUl8BgxFag=
+
+Name: assets/build/img/frame/line.png
+SHA1-Digest: 8jsGKjhUmiC1GZhrIUwtU50zoXE=
+
+Name: assets/build/img/effect/sm.png
+SHA1-Digest: NPpR3jcq71kZW93IdowKCLaq3KM=
+
+Name: assets/build/img/frame/conent_bg.png
+SHA1-Digest: lxLLKYRFxjWWSn1WTPLPUfOwjDY=
+
+Name: assets/build/img/flag/4.png
+SHA1-Digest: MtrjHkJBtNrxmsTnozVmUHBlB8Q=
+
+Name: assets/build/img/flag/122.png
+SHA1-Digest: VIYVSxuYVp3c2IprgchNuHMgrP8=
+
+Name: assets/build/img/flag/31.png
+SHA1-Digest: 5UUiZYviASXLp8sWfynsOZsPgjM=
+
+Name: assets/build/img/hero/sample.png
+SHA1-Digest: NpXc5GkM4w8M3Ki17MBs0/rhocs=
+
+Name: assets/build/img/menu/menu_shop.png
+SHA1-Digest: NwI+0y5719wQ9ijGp8UzkjxGhxw=
+
+Name: assets/build/img/map/z8.jpg
+SHA1-Digest: +qXTt5ZiSCWhD/V6LyLLZUXMF2E=
+
+Name: assets/build/img/flag/54.png
+SHA1-Digest: bvA0xgv7umcceZ0SARwoVVibDpk=
+
+Name: assets/build/img/item/i16.png
+SHA1-Digest: xO0XE9vuLnP/B9WC3N6J170IAQk=
+
+Name: assets/build/img/hero/37.png
+SHA1-Digest: IBgaaJ6IBc95EHkXVJ1NafkB/l4=
+
+Name: assets/build/views.js
+SHA1-Digest: zYEpfVoUwwJgG1eCTfk6/7PnQqY=
+
+Name: assets/build/img/hero/63.png
+SHA1-Digest: Vw6Dc0VMDHvQrnorpYRjMpuS0ss=
+
+Name: assets/build/img/hero/155.png
+SHA1-Digest: U3kxrR/Ur1BF+0XJdJzmp8amM7s=
+
+Name: assets/build/img/hero/39.png
+SHA1-Digest: Ovq6OkjmKn+QDbCoMesa4CVX1RY=
+
+Name: assets/build/img/hero/129.png
+SHA1-Digest: OoXCmBNRBtqdzU62LX5BiixGWP4=
+
+Name: assets/build/img/map/t10.jpg
+SHA1-Digest: cDwGIT7jr1cxgx/VIGh7P0Obgks=
+
+Name: assets/build/img/frame/block_black.png
+SHA1-Digest: 6ov945x5GsMQtfVvX4JjIl+I86c=
+
+Name: assets/build/translation/kr/autogen/item_data.js
+SHA1-Digest: b4oCp/jbSuDWaKIxOgBzIBcT0HE=
+
+Name: assets/build/img/bg/sliver_gala.jpg
+SHA1-Digest: HyV38ALbLtGANiHnxytD2bEgq2w=
+
+Name: assets/build/img/hero/153.png
+SHA1-Digest: CEJMDIaNK9/xPX9YcR46i8k7+oE=
+
+Name: assets/build/img/item/s15.png
+SHA1-Digest: JgBMSd+bljp1SrFJCpnAlCVZBXM=
+
+Name: assets/build/routine.html
+SHA1-Digest: xNiBQZzJbxYPM7vD/6uowBlKDk8=
+
+Name: assets/build/img/tech/14.png
+SHA1-Digest: 5h0J43s9bLWtE55cqLUbmz6VqpY=
+
+Name: assets/build/img/flag/65.png
+SHA1-Digest: 02TnY0nEVMims3p2c2QAlhVcfV8=
+
+Name: assets/build/img/item/i4.png
+SHA1-Digest: /+bgob77sh3V0SoO2EzN1hKTTrY=
+
+Name: assets/build/img/menu/rank5.png
+SHA1-Digest: hyuPVkYBr5ck5J6nQABaIKpymVI=
+
+Name: assets/build/img/item/i6.png
+SHA1-Digest: TK2fASB/c2KhXJV9O4hehDv61kA=
+
+Name: assets/build/img/item/h20.png
+SHA1-Digest: i2tVGbWmqWVEbYT+3JdIsJX8648=
+
+Name: assets/build/img/item/l3.png
+SHA1-Digest: cfkCZeLBFxFg4NDPcb+xQE39ZKY=
+
+Name: assets/build/img/hero/52.png
+SHA1-Digest: WktR3eFq+JGSZzKq3q3wBVGrXc4=
+
+Name: assets/build/img/flag/85.png
+SHA1-Digest: ObCV/9FFH+euEwB1fHoCEtRhmp4=
+
+Name: assets/build/img/flag/113.png
+SHA1-Digest: d8HHvPCn4VfKx21MEwdTPTG324g=
+
+Name: assets/build/img/hero/113.png
+SHA1-Digest: 8HU+PIL/EcrgvYVKjkNpWcvlOBI=
+
+Name: assets/build/img/button/q.png
+SHA1-Digest: niq4ZbMM3zIRCmNXlapQQwyEZM4=
+
+Name: assets/build/img/flag/95.png
+SHA1-Digest: s4TQJLTvG9ZaCkb2hij1D+bL828=
+
+Name: assets/build/img/effect/xz.png
+SHA1-Digest: dHFO2GTnbMx8aEiGBaSO407bWKg=
+
+Name: assets/build/img/item/s8.png
+SHA1-Digest: 76NQdu5xoYZOMTJRu9sa9o0vtag=
+
+Name: assets/build/translation/de/marks.js
+SHA1-Digest: p/y7ng/SwT89g4SwEhqLmzZ+jGE=
+
+Name: assets/build/start.js
+SHA1-Digest: 2OqcYX1Zr5yiYDqI3kEZqxikadQ=
+
+Name: assets/build/img/misc/9.png
+SHA1-Digest: p6jjDb+VtnY73HMOWx6tSWPKw98=
+
+Name: assets/build/translation/chs/autogen/hero_data.js
+SHA1-Digest: NEROGOz7xm9vS2IxwLxMyaoHK9A=
+
+Name: assets/build/img/hero/112.png
+SHA1-Digest: x25pcZZ81gabHh+fkfQACrhtihs=
+
+Name: assets/build/img/hero/69.png
+SHA1-Digest: eegzuQHLqOvYUhIRPnpJ5ZBtKUU=
+
+Name: assets/build/img/misc/star1_h.png
+SHA1-Digest: GUSLRz6WRuRTvdgk60qPLMxtHVw=
+
+Name: assets/build/img/flag/43.png
+SHA1-Digest: 1hKDoG1oPWgNcXOcYz4Mkt2aU3s=
+
+Name: assets/build/translation/kr/marks.js
+SHA1-Digest: gtw3j9S0Nq/M5h7O6eaMEXtx5ek=
+
+Name: assets/build/img/item/w28.png
+SHA1-Digest: I8h4mtKA7ZtecmB5ShWQJ1DTIw8=
+
+Name: assets/build/img/map/a10.png
+SHA1-Digest: uusBnZIIbifYG1bwpiV5cpCDGwQ=
+
+Name: assets/build/img/hero/82.png
+SHA1-Digest: FzbwbV7bLvJo/7vFH8KeAXZ0MMM=
+
+Name: assets/build/img/facility/i8.jpg
+SHA1-Digest: uh4cjn222aqH7N1f8oBB/PyGrWY=
+
+Name: assets/build/img/item/rose_small.png
+SHA1-Digest: aG76M4E82v/qqhf7RWS1bkck+Us=
+
+Name: assets/build/img/item/i26.png
+SHA1-Digest: fVwNuHg4SacH59ktFKHyaoEtmaE=
+
+Name: assets/build/img/map/relic/a5.png
+SHA1-Digest: my2kyuIYhmq5kzoZxvvWjIcpaa8=
+
+Name: assets/build/img/hero/62.png
+SHA1-Digest: KlE4WqVTNKkwFSCx/DXAzIA+/j0=
+
+Name: assets/build/img/flag/102.png
+SHA1-Digest: Dt9yVO2SfjSaG6rjsrBKUgWrR94=
+
+Name: assets/build/img/menu/reborn.png
+SHA1-Digest: 98E/xP65a0dIXY2O4FWOXk80oqo=
+
+Name: assets/build/img/flag/6.png
+SHA1-Digest: 730EtAzPtoxo0YQvNYaPw2ltBfw=
+
+Name: assets/build/img/hero/84.png
+SHA1-Digest: RHO9858PHfYNFXly7a6a9B+iWFQ=
+
+Name: assets/build/translation/pt/marks.js
+SHA1-Digest: 0JpLeQ2jBC6KgmaCiRA9/Tdb/CA=
+
+Name: assets/build/translation/en/marks.js
+SHA1-Digest: R4bpUMhWcfSERuwwfZs720yuiI4=
+
+Name: assets/build/img/item/w15.png
+SHA1-Digest: IEaZp9QX0g9VUfMVPuEqBV5W5Q8=
+
+Name: assets/build/img/bg/galaxy.jpg
+SHA1-Digest: zTZ+gMhuNItXPhERLW0O7Gx04Uc=
+
+Name: assets/build/img/hero/163.png
+SHA1-Digest: cWGkeGBXBstb+1XOJTeHYRVWZYY=
+
+Name: assets/build/img/hero/3_0.png
+SHA1-Digest: 4HHECgY3jrlTpC/+UdLD9H8nN5U=
+
+Name: assets/build/img/flag/23.png
+SHA1-Digest: 5YRFREFbQuSm6C2HHXKzW7VtbLY=
+
+Name: assets/build/img/misc/6.png
+SHA1-Digest: W683LPMMb4q3xQ7k1fniYreQoQk=
+
+Name: assets/build/img/flag/109.png
+SHA1-Digest: LnE/I9cjCQNsC/9QnmwWvXN99CY=
+
+Name: assets/build/img/flag/81.png
+SHA1-Digest: mGqK7tcL/HNS6eXWADUtxwgljqM=
+
+Name: assets/build/img/flag/116.png
+SHA1-Digest: VYh93dk2Ysc3eC2s88399n3HDsM=
+
+Name: assets/build/img/menu/rank4.png
+SHA1-Digest: qM/OTlxb3G74Gi7NVmU0F3UEPLc=
+
+Name: assets/build/img/button/war.png
+SHA1-Digest: 41AIP3MEEmRiQ38grjp9/CQe9wo=
+
+Name: assets/build/img/hero/76.png
+SHA1-Digest: GIO7xtsGmhF/3waEr8AjyRTrOqw=
+
+Name: assets/build/img/hero/80.png
+SHA1-Digest: 9ZRA5OubGpx9lOn7SPHffYaOn34=
+
+Name: assets/build/img/flag/118.png
+SHA1-Digest: 60jCtN15R/muuD9GPtTKOkKysdU=
+
+Name: assets/build/img/hero/5_1.png
+SHA1-Digest: 8cLn4otHP8de0hnmvvJ9AI5MLHE=
+
+Name: assets/build/img/misc/4.png
+SHA1-Digest: h2gI+fARQ1AW6UDgMn0jDdDn6NY=
+
+Name: assets/build/img/hero/166.png
+SHA1-Digest: JqkReHAc1k4bI8bvZOpszhX5E+o=
+
+Name: assets/build/img/flag/8.png
+SHA1-Digest: JMjDMw0W0xxGOEr8KKS2RYlZZVg=
+
+Name: assets/build/img/item/273.png
+SHA1-Digest: j2VSsvvVZCagHsNEcNljnnlYrKc=
+
+Name: assets/build/img/map/relic/b8b.png
+SHA1-Digest: 21ca/DMrSHnbOI/HcneAssNQxPk=
+
+Name: assets/build/img/effect/l.png
+SHA1-Digest: dYKBgVCablwbvXbygtvcoZVqkqQ=
+
+Name: assets/build/img/item/a7.png
+SHA1-Digest: xe3/NkuwuWNqo7gnSgp5ZPauapM=
+
+Name: assets/build/img/map/relic/b8.png
+SHA1-Digest: 4h4TU2ZQNW2SxzDDTXgJsDtELOc=
+
+Name: assets/build/img/hero/144.png
+SHA1-Digest: AjncqCff35iPBYspbnOr8TRunC8=
+
+Name: assets/build/img/facility/11_xmas.png
+SHA1-Digest: Gnxtbig3sPtg3OoJS4+93bXdJ2c=
+
+Name: assets/build/img/tech/19.png
+SHA1-Digest: bi0jEB0c4U9UAwo9UtK6KYAYAqM=
+
+Name: assets/build/img/item/h10.png
+SHA1-Digest: FBMhHY4F8gUyMTZG6CYKTISLZeg=
+
+Name: assets/build/ver.dat
+SHA1-Digest: fBddpE41giYYdFxTmwjR8QC01fY=
+
+Name: assets/build/img/frame/kuang.png
+SHA1-Digest: /xwAJoXcVFXaDDlbAYn3o2At/Oc=
+
+Name: assets/build/translation/cht/questguide.js
+SHA1-Digest: 2ZuGIGQi6rKfmqgY1jSRF39RADY=
+
+Name: assets/build/img/hero/152.png
+SHA1-Digest: uQ8IqfLiTOOek8ulcoTMIkvJ4Es=
+
+Name: assets/build/img/item/h28.png
+SHA1-Digest: G2oaR/fua9w9vy+J3ryiOcKL+c0=
+
+Name: assets/build/translation/ru/lng.js
+SHA1-Digest: 4wL1XhYPu8g8mDl0nbuh+e/JfdU=
+
+Name: assets/build/img/facility/8.png
+SHA1-Digest: 4jFzeWtZzbTONLKiafbc2xTuf0I=
+
+Name: assets/build/img/effect/levelup.jpg
+SHA1-Digest: wpkIqdK+D/Bkw9WeLM0I5NhJaMc=
+
+Name: assets/build/translation/chs/autogen/skill_data.js
+SHA1-Digest: fz3WOmHlIQTA39caMhHJvjISM2c=
+
+Name: res/xml/cordova.xml
+SHA1-Digest: /sRzojJUKbaA1pPysXlPzlWEwHo=
+
+Name: assets/build/img/item/a17.png
+SHA1-Digest: eTdbfaqZ0S97C/DdfodamSAd+U0=
+
+Name: assets/build/img/effect/jn.png
+SHA1-Digest: /DS4FzYQg8FhNiVts/6nku/NwWM=
+
+Name: assets/build/img/hero/1_1.png
+SHA1-Digest: 0l+cdG3tqOSdpQmSNafB+lnDLkM=
+
+Name: assets/build/img/hero/26.png
+SHA1-Digest: FWrCtkThEkI8TGWccyjRM73a9xk=
+
+Name: assets/build/img/map/boss30.png
+SHA1-Digest: oAeUOZ+ZlHJijwHSHoNTtZzbCzs=
+
+Name: assets/build/img/item/chest2.png
+SHA1-Digest: 5vlE6hRuEXs8uMsnJgP70SRCGYc=
+
+Name: assets/build/img/button/message_bt2.png
+SHA1-Digest: 8JLHYZuvggWn7BGPSJZz8ChDKu8=
+
+Name: assets/build/img/tech/1.png
+SHA1-Digest: f33pFluV3WTMbth3hmGWjuBL+as=
+
+Name: assets/build/img/map/a5.png
+SHA1-Digest: 7ezDOcUfiT062CvrcQjwTirsJbw=
+
+Name: assets/build/img/map/z15.jpg
+SHA1-Digest: gKEOYibZ7eF9JuRc71u729a1Y3A=
+
+Name: assets/build/img/map/a6.png
+SHA1-Digest: w5Yb2qgJWbw7NFHHMou+2UvXFmI=
+
+Name: assets/build/img/flag/15.png
+SHA1-Digest: LneUBv6h/mjixKUQjsl/WXqi9Ks=
+
+Name: assets/build/img/flag/103.png
+SHA1-Digest: 7j5U1+xcImU4X2I4yCfsJhourmw=
+
+Name: assets/build/img/item/i10.png
+SHA1-Digest: blRrObOsEbaj0U7MFx1z8ay1yVE=
+
+Name: assets/build/img/tech/21.png
+SHA1-Digest: p3ZMP/umg5R2BW0ps6VSG9YDjN8=
+
+Name: assets/build/img/hero/102.png
+SHA1-Digest: rTJ2tKgavPSnDId2fJtBR+c7Y2o=
+
+Name: assets/build/img/item/g5.png
+SHA1-Digest: 5ZpQQhkofU4sbNwcf53h/5jfwWU=
+
+Name: assets/build/img/map/z6.jpg
+SHA1-Digest: +qXTt5ZiSCWhD/V6LyLLZUXMF2E=
+
+Name: assets/build/img/item/g10.png
+SHA1-Digest: zrlPL9B6X5h6nc77NF3t6bn0GWA=
+
+Name: assets/build/img/hero/10.png
+SHA1-Digest: 93n2KikKUOO2Ch7cpV8SW2AXfgU=
+
+Name: assets/build/img/item/a10.png
+SHA1-Digest: LXhvNUpLqYu+8mvyuP5P6gKCVLY=
+
+Name: assets/build/img/misc/new.png
+SHA1-Digest: PsMGQEdQ2C2d8m2MaINJ1nb7FYo=
+
+Name: assets/build/img/hero/73.png
+SHA1-Digest: J/awB5cmk97v8x21Alcyv1ckEm0=
+
+Name: assets/build/img/hero/13.png
+SHA1-Digest: mLacQ1xbNl+FvTd0KgsHJL7mamk=
+
+Name: assets/build/img/map/tb.jpg
+SHA1-Digest: BZ9Le0351GoDkEANeNE9izgd7Lc=
+
+Name: assets/build/img/item/a28.png
+SHA1-Digest: E0yjuG4TqfmQ4NI3+N/ZgpEgmro=
+
+Name: assets/build/img/hero/11.png
+SHA1-Digest: cIIAaV7ipI4yBFC5Py55ruOAEy4=
+
+Name: assets/build/img/hero/97.png
+SHA1-Digest: b2zYl5LUKtKWLi+MRt8Tovng4Pk=
+
+Name: assets/build/img/item/i29.png
+SHA1-Digest: /6NMsC1dNg+JBCq9MTMi5KZ3Gsg=
+
+Name: assets/build/img/hero/18.png
+SHA1-Digest: YrKtjGtzcjTP2Dr4rrjgaKNTTZc=
+
+Name: assets/build/img/item/powerup.png
+SHA1-Digest: +RczSXCwIe5nJmX/svwgZXXOro0=
+
+Name: assets/build/start.html
+SHA1-Digest: X/g75kE7dhxtzxUhKWJewY8oFtc=
+
+Name: assets/build/img/item/g7.png
+SHA1-Digest: AXKhi0tZb/cOASJ0+2ISGe+FKaw=
+
+Name: assets/build/img/item/a9.png
+SHA1-Digest: hz+wfZ7n5CQGcAhb2/h6ZUYqpQs=
+
+Name: assets/build/img/item/l7.png
+SHA1-Digest: Dwz1nD215Ypp3khV1P9YQ1n+ke4=
+
+Name: assets/build/img/bg/transparent.png
+SHA1-Digest: 895o3S0Hs2c0LhVzDQRC52q750k=
+
+Name: assets/build/img/button/edit.gif
+SHA1-Digest: j2e7dCQK8VJPznsnz7ZQeeEZC+o=
+
+Name: res/xml/thirdplatform.xml
+SHA1-Digest: wRAL1sfhrzt4i6HH7s5niPOvpSc=
+
+Name: assets/build/img/hero/2_2.png
+SHA1-Digest: I3zMNi/xz+5Ssb17csoBd1GkHfM=
+
+Name: assets/build/img/map/relic/a1.png
+SHA1-Digest: XqMf8oGHL4vYZKqS1rEw1CsSoeE=
+
+Name: assets/build/img/menu/rank11.png
+SHA1-Digest: I6m/BrwBbmZ7TAtj+XKApIa6abk=
+
+Name: assets/build/img/item/i21.png
+SHA1-Digest: RQv6QMjNpd+y1qEbRG+7sTBEops=
+
+Name: assets/build/img/item/chest1.png
+SHA1-Digest: ywxI1WH5sPKsVTBWaoJ6TQ9uX9Q=
+
+Name: assets/build/img/race/3.png
+SHA1-Digest: jI1E6K40z44DcaV9ULCMT/r0Xb0=
+
+Name: assets/build/img/item/w27.png
+SHA1-Digest: bh6TPaKqgXYwZr9/Q3F/Jk6ZMPE=
+
+Name: assets/build/img/item/w9.png
+SHA1-Digest: xYQc5p8XP8JrA/7zsdcgD/3l/wY=
+
+Name: assets/build/img/effect/zl.png
+SHA1-Digest: I5VS+qsHVAHXI7oDBY4+XqEUJEE=
+
+Name: assets/build/img/item/w4.png
+SHA1-Digest: MGHuosnogqmZUHIBkxWsb1dcqT0=
+
+Name: assets/build/img/hero/145.png
+SHA1-Digest: /c20p1333+Zhr6SREQ7pjvJ4GuY=
+
+Name: assets/build/img/item/h6.png
+SHA1-Digest: M/7J06aLVZ8uBm1fspeZ1jbEVu0=
+
+Name: assets/build/start.ru.html
+SHA1-Digest: p7vWsC79GgkGlFUpwonnxha/7zQ=
+
+Name: assets/build/img/hero/59.png
+SHA1-Digest: 5nBz+KONbJcj7iJh2Px7/A9Z708=
+
+Name: assets/build/img/item/h23.png
+SHA1-Digest: qs2XK10buhPIDKju0eRue1+2Erg=
+
+Name: assets/build/img/misc/logo.jpg
+SHA1-Digest: 0Joh2E45FYunMKjkcEu5dFu3lWY=
+
+Name: assets/build/device_ipad.css
+SHA1-Digest: grz4p9tzZfDAOM5oLfwn0QOvwIE=
+
+Name: assets/build/img/menu/menu_battle.png
+SHA1-Digest: 1V8l9FTsLpbZHO6/fje1FOWo85o=
+
+Name: assets/build/img/hero/116.png
+SHA1-Digest: TsKe6FXsKmQm+AdXc+H2a9X1oTE=
+
+Name: assets/build/img/flag/33.png
+SHA1-Digest: 6gr2VyyajoPou+Ob500pbRHQoVQ=
+
+Name: assets/build/img/item/h3.png
+SHA1-Digest: fYs4E1LM0uwn8+Qvjo4T01LowlU=
+
+Name: assets/build/img/item/s25.png
+SHA1-Digest: MZBRNeaoW0Nv12GFmNjOaEIAuuc=
+
+Name: assets/build/img/hero/123.png
+SHA1-Digest: SHpgj0xAwxYv3b0VIRc0uzDCUn0=
+
+Name: assets/build/img/item/h7.png
+SHA1-Digest: /YXfI/JqJ2GktuTcnMcAMZ7RYIQ=
+
+Name: assets/build/img/frame/hint_dr.gif
+SHA1-Digest: GPoHnzku4g2G4ZzmaFuAcHdr9gQ=
+
+Name: assets/build/img/hero/65.png
+SHA1-Digest: UiaZxyFmKt8zipLuRsL/JJ1XpX4=
+
+Name: assets/build/img/flag/69.png
+SHA1-Digest: JLy9iMNe7Tjb07uGDnPZYhnrOnI=
+
+Name: assets/build/img/item/gift3.png
+SHA1-Digest: iz96G0Qw2+V9cX2IiD3zvUI7oTY=
+
+Name: assets/build/img/button/openfeint.png
+SHA1-Digest: yyPR+ZV6wNw6S5BNb0qavBpxtp4=
+
+Name: assets/build/img/flag/88.png
+SHA1-Digest: 1LgS2WuILOaZPttadwqygI4ueCE=
+
+Name: assets/build/img/bg/nanasha0.png
+SHA1-Digest: njjyHrRb2Kt2mlz80zlCjtiWfh4=
+
+Name: assets/build/img/menu/sign1.png
+SHA1-Digest: U9qe7gTOdtyqmlDUvgMLrovBqKk=
+
+Name: assets/build/img/map/racebg1.jpg
+SHA1-Digest: bkNpljwURUNqrjIwDYpKcZfaYC4=
+
+Name: assets/build/img/flag/36.png
+SHA1-Digest: JlKgnH6gSwHKWc4aqvMDqchNxNA=
+
+Name: assets/build/img/effect/xy.png
+SHA1-Digest: BZqqmgPpsGVPQ14WdjGg5xsk1Zs=
+
+Name: assets/build/img/race/1b.png
+SHA1-Digest: CAhOEYJit1qxLDE7ne2fKPDcBdc=
+
+Name: assets/build/img/item/h12.png
+SHA1-Digest: lpthHSq0kJzTPXxjRZpFbp6DsYY=
+
+Name: assets/build/img/hero/134.png
+SHA1-Digest: 7xGDw/eXVVq7d+egrLJRW8e6en8=
+
+Name: assets/build/img/item/a16.png
+SHA1-Digest: xzOCjXDIcVgZsBVVcJfyDFdNcgI=
+
+Name: assets/build/img/flag/73.png
+SHA1-Digest: wZX+5GaglM1VNL7Jp61JIScShnQ=
+
+Name: assets/build/img/hero/s2.png
+SHA1-Digest: fadDbfiPonrlSlt8JDagQzqN3Zk=
+
+Name: assets/build/img/frame/mid_160.png
+SHA1-Digest: A/55wpCXM2NLVIZxWV3P8LLlsfQ=
+
+Name: assets/build/img/item/g8.png
+SHA1-Digest: HuOXvzTxcWX0Q/PzT766VdmSgzQ=
+
+Name: assets/build/img/gif/more.gif
+SHA1-Digest: OBJplD7aSUgxNr4Q0EsQ5LF8qoY=
+
+Name: assets/build/img/menu/rank16.png
+SHA1-Digest: NIWhHIwdW3TUsole9+Bvj4gH5lg=
+
+Name: assets/build/img/hero/34.png
+SHA1-Digest: 0KABngkzYeHXp0QlMTpPfuBYfXE=
+
+Name: assets/build/img/map/z7.jpg
+SHA1-Digest: +qXTt5ZiSCWhD/V6LyLLZUXMF2E=
+
+Name: assets/build/img/map/t6.jpg
+SHA1-Digest: LB+2nYqpFBNatm9Jxm9Fo7xCb1c=
+
+Name: assets/build/img/item/s3.png
+SHA1-Digest: sEe3Y/00dY85OhlUc6qHI/yid0E=
+
+Name: assets/build/img/menu/rank8.png
+SHA1-Digest: cYb1oVa7jmjTI/pTt/3Ec5y8l9g=
+
+Name: assets/build/img/hero/28.png
+SHA1-Digest: RCIjhUl2B2VV5SfU739NuKZZmj4=
+
+Name: assets/build/img/map/a30.png
+SHA1-Digest: Q3gzaAqXgm3qLwQMgj6t88A1+/Q=
+
+Name: assets/build/img/facility/i1.jpg
+SHA1-Digest: kNuTfLhCVqTqAAdC4BwcSi0WzzI=
+
+Name: assets/build/translation/kr/autogen/quest_data.js
+SHA1-Digest: m7y4cK+9+88QlvmCsEewljl1uAM=
+
+Name: assets/build/img/item/l29.png
+SHA1-Digest: tdrTTYI/Sao3pVrxQsp1VsGTapI=
+
+Name: assets/build/img/hero/1.png
+SHA1-Digest: spCW7f4RGluOVx9GvHV748lXeV8=
+
+Name: assets/build/img/effect/hmzs.png
+SHA1-Digest: HcjLi2YrIGvVp5tP98lngavhwtw=
+
+Name: assets/build/img/hero/30.png
+SHA1-Digest: RCIjhUl2B2VV5SfU739NuKZZmj4=
+
+Name: assets/build/img/item/l24.png
+SHA1-Digest: QrTPZYk6Gl9fnHSqjfWMrQPvgOM=
+
+Name: assets/build/img/facility/6_xmas.png
+SHA1-Digest: joDcfxvN5Ms9hFSQKAphnozNPZM=
+
+Name: assets/build/img/hero/19.png
+SHA1-Digest: Cdq7RC0wYLji6uH3TmYIvAukaNg=
+
+Name: assets/build/img/menu/menu_friend.png
+SHA1-Digest: weTenn7A97wJYY1gSm5OecHx09k=
+
+Name: assets/build/img/frame/conent_menu.png
+SHA1-Digest: qrrcbGRqSwG9y5zVIZv76dI+7h8=
+
+Name: assets/build/img/button/no_s.png
+SHA1-Digest: dxps6WONfk/O2ZTNm19mwjIRBo0=
+
+Name: assets/build/img/item/h30.png
+SHA1-Digest: N2rPXAj5eKD3s2kYzaTzneb07HQ=
+
+Name: assets/build/img/flag/99.png
+SHA1-Digest: 8BZB8q4FQoNCcHSJ1dZhSpwx62w=
+
+Name: assets/build/img/hero/a5.png
+SHA1-Digest: p+vBnEgqSNJrjo2I3AZnVhzz63A=
+
+Name: assets/build/img/flag/39.png
+SHA1-Digest: dxxRcogKw+Xb6Umgo/c4GZ30Tfc=
+
+Name: assets/build/img/hero/31.png
+SHA1-Digest: d0jVJPOdbK3OH2zMGNAlT4RXqzg=
+
+Name: assets/build/img/item/dailygift.png
+SHA1-Digest: V+WJnjH/ZpS9UC8ImL6kJ2Hsoog=
+
+Name: assets/build/img/menu/menu_legion.png
+SHA1-Digest: vKo8fgj/opxof7HtA6O0MovCrEg=
+
+Name: assets/build/img/hero/165.png
+SHA1-Digest: 1Txkix9Ps5E7SI1wJloPTU5dJ2E=
+
+Name: assets/build/img/map/b1_xmas.jpg
+SHA1-Digest: WX0DQDrRX/gTCgemrvcIpPciRak=
+
+Name: assets/build/img/menu/rank17.png
+SHA1-Digest: w1KViH/9+NSTn/t4EcxuucEtrW4=
+
+Name: assets/build/img/hero/s5.png
+SHA1-Digest: ic4Fd8zEysKo4M3zZ+ssNi1NeEY=
+
+Name: assets/build/img/map/racehero3.png
+SHA1-Digest: hUmntDKcRVjQ1x4zQw3Nkiv7D2Q=
+
+Name: assets/build/img/item/h14.png
+SHA1-Digest: 1low3/T9fSAeuXHiIvI6cgHpNHM=
+
+Name: assets/build/img/effect/jls.png
+SHA1-Digest: kdcuHRL4tOfCzhc6c2387K7d5Vk=
+
+Name: assets/build/translation/cht/autogen/building_data.js
+SHA1-Digest: R0WHACvr+RnPx4qwZGHB8C5QvWs=
+
+Name: assets/build/img/item/s9.png
+SHA1-Digest: 68Gnng0yuMoL5ZJpXHN6vv355II=
+
+Name: assets/build/img/flag/46.png
+SHA1-Digest: MFk/t+zMv1VNYNAKfw+RLx8OTLI=
+
+Name: assets/build/img/bg/forward.png
+SHA1-Digest: SxcjJJ5Nw28zXMfHl+3uX7KK3mg=
+
+Name: assets/build/img/item/heal.png
+SHA1-Digest: xU0qZRgyuGbDsBmIBuAM57qpL0o=
+
+Name: assets/build/img/flag/91.png
+SHA1-Digest: v+ZEftbV6RI29dpXVwyYZtzQkOU=
+
+Name: assets/build/translation/ru/questguide.js
+SHA1-Digest: m9p/E/XLTr4Eq0QBUxb5eSDLmOg=
+
+Name: assets/build/img/item/s30.png
+SHA1-Digest: IHjHwg91RVYZufOfOUD3/K7tx4U=
+
+Name: assets/build/img/map/z11.jpg
+SHA1-Digest: OarNDZPNtolSpKYIkeCaAC9zIWU=
+
+Name: assets/build/md5.dat
+SHA1-Digest: ZZBPZhCUiEmvUJSKTkE/h4eHBKI=
+
+Name: assets/build/data/guide_ipad.js
+SHA1-Digest: zQxyt3BzogUgVmMH/Hs8gjqjhIg=
+
+Name: assets/build/img/bg/s4.png
+SHA1-Digest: 0POnMd3VlePIKU4QudMK1GRTK88=
+
+Name: assets/build/img/hero/87.png
+SHA1-Digest: F4Dap45ym1v7xyi6qlH5kY5vUfc=
+
+Name: assets/build/img/map/relic/b6b.png
+SHA1-Digest: gRy32NqRpNMgKwuEPRB66mRDD0o=
+
+Name: assets/build/img/hero/158.png
+SHA1-Digest: RAnhZG+aYQpUxP2ROsKkg0fMpyg=
+
+Name: assets/build/img/menu/rank1.png
+SHA1-Digest: NUGhdEC32yI/vD1YABwjwhg+Xq8=
+
+Name: assets/build/img/button/button_i.png
+SHA1-Digest: qQv393bmlDdD+BnR9qJKt0bEPcs=
+
+Name: assets/build/script/lib.release.js
+SHA1-Digest: tKzGB5e819T0k16rlS948hyLNJ0=
+
+Name: assets/build/img/map/t12.jpg
+SHA1-Digest: RllZg5h+DvWZoc4SJ+t9aNrUd0o=
+
+Name: assets/build/img/flag/55.png
+SHA1-Digest: ARk3NscTFUeVknu5VobXLMjy13g=
+
+Name: assets/build/img/item/gift.png
+SHA1-Digest: agBzEUe95sw4jPM3M/lOT+2nORE=
+
+Name: assets/build/img/button/drop_up.bmp
+SHA1-Digest: /+Ld9/jwQJZFFBwr0GBzcAXnurc=
+
+Name: assets/build/img/menu/teleport.png
+SHA1-Digest: AI9DT6HLpPa0PDhov3h7I+bNLX0=
+
+Name: assets/build/img/map/boss10.png
+SHA1-Digest: N/OleIlNB3pVdjxRUYrcm97x1vE=
+
+Name: assets/build/img/frame/failed.png
+SHA1-Digest: HuSnKU5Dnc4Z3+FAoZFEzbHZ9XM=
+
+Name: assets/build/img/flag/79.png
+SHA1-Digest: 8Z7n1CjZLyfWdSBopOFnqaCnhmc=
+
+Name: assets/build/img/flag/49.png
+SHA1-Digest: 07GfeZSgUu5DMK1KmXngZosZkN4=
+
+Name: assets/build/img/hero/162.png
+SHA1-Digest: Zw2L2xGaVSTEQEYlk8ofkemD/4Q=
+
+Name: assets/build/img/item/gift4.png
+SHA1-Digest: R/SbSd1U/0vq0foaE9MDNsN6dk0=
+
+Name: assets/build/img/item/w16.png
+SHA1-Digest: pR+deEuXY+N1Hme87Ooz4nNwyu0=
+
+Name: assets/build/img/bg/s1-1.png
+SHA1-Digest: k1HdsKRvO/aCaNuIkGK2vc1LFe8=
+
+Name: assets/build/img/button/fbutton.png
+SHA1-Digest: yWz1OV+svVrLun+uJuemnylmw6g=
+
+Name: assets/build/img/hero/4.png
+SHA1-Digest: Od4AtqnladWmLt5LPARv/MG/FnM=
+
+Name: res/xml/paychannel.xml
+SHA1-Digest: D2259+XgIQLseCyDkf+7i1HCo8Y=
+
+Name: assets/build/img/item/l17.png
+SHA1-Digest: xaG6RFNqM0QtyESzKSzpXsQNxmw=
+
+Name: assets/build/translation/de/autogen/hero_data.js
+SHA1-Digest: K7VD00cNDx1CxoCxXeNYsLsMNDA=
+
+Name: assets/build/img/item/i9.png
+SHA1-Digest: S1AXZLica1OONQASj2wFLw8ZLgA=
+
+Name: assets/build/img/flag/37.png
+SHA1-Digest: pUqKMuhft36AtsB2YZx0yFz8fDY=
+
+Name: assets/build/img/item/l27.png
+SHA1-Digest: hnQHT332AQt1kZxD7lwr4LBQt+8=
+
+Name: assets/build/img/flag/58.png
+SHA1-Digest: nGlaDWMY/nbsFP8N+eGqnYBt8dM=
+
+Name: assets/build/translation/ru/autogen/hero_data.js
+SHA1-Digest: 1k9k9k3dL46nAiX3bbJKBKuoGVw=
+
+Name: assets/build/img/item/h25.png
+SHA1-Digest: BPeawfjVSZ3MzVENfX867maap88=
+
+Name: assets/build/img/hero/38.png
+SHA1-Digest: T7AhHvoidZoehPWkne6actDvBfU=
+
+Name: assets/build/img/button/no.png
+SHA1-Digest: 49/EIC1LzZyih7RX3Q+1rTuDKEY=
+
+Name: assets/build/img/hero/3_3.png
+SHA1-Digest: 4HHECgY3jrlTpC/+UdLD9H8nN5U=
+
+Name: assets/build/img/hero/25.png
+SHA1-Digest: 646PzAIQNydIsrJvbzvqe20yNwM=
+
+Name: assets/build/img/flag/56.png
+SHA1-Digest: fsFKnYueT/JZzgDDNl/t5JWKOuQ=
+
+Name: assets/build/img/item/a24.png
+SHA1-Digest: yB9C5fczYhJagLPfjzEkb3DMuis=
+
+Name: assets/build/img/item/w30.png
+SHA1-Digest: RlgdBGft7M1PXhpUKDzPrrxTfPY=
+
+Name: assets/build/img/flag/35.png
+SHA1-Digest: uMV/DS4ucZQoNKX2Nyng0eSC8Ws=
+
+Name: assets/build/img/hero/130.png
+SHA1-Digest: 7yOblfBzmf4q4RE3tk9vkruuw3U=
+
+Name: assets/build/img/item/L.png
+SHA1-Digest: /3BLvqgLxB8RDk07qlK4fL4cplY=
+
+Name: res/layout/com_droid_engine_splash.xml
+SHA1-Digest: hdvoRvoG9XEpRpQgFWks8dIbyy8=
+
+Name: assets/build/img/flag/41.png
+SHA1-Digest: XEElVsUtCruClQycD1yVaPLzKzc=
+
+Name: assets/build/wp7.css
+SHA1-Digest: BaGp+4Y/IkjYInqaHy0t/I8siQ8=
+
+Name: assets/build/img/map/a1.png
+SHA1-Digest: WQ/ONPn+i/HOulTQzrUPjthFntA=
+
+Name: assets/build/img/hero/s1.png
+SHA1-Digest: hSi2m3kJdI3IpGl/wqiT2gd54hQ=
+
+Name: assets/build/translation/de/autogen/quest_data.js
+SHA1-Digest: DaTwaQ1+x6pfjeTfyG+lUH/6IJ4=
+
+Name: assets/build/img/item/xmas_letterbag.png
+SHA1-Digest: whYv6MgNFCewDqhcybYaP/PYeiQ=
+
+Name: assets/build/img/flag/5.png
+SHA1-Digest: KPSgHWVtxIF8VeYWBwVRNT9vEck=
+
+Name: assets/build/img/menu/menu_chllange.png
+SHA1-Digest: C5ikMDoMdVs4W3qgtQytaPPcKsc=
+
+Name: assets/build/img/hero/21.png
+SHA1-Digest: QHIq8dgN1BxbRrayQuZ4dXCfJcA=
+
+Name: assets/build/img/hero/79.png
+SHA1-Digest: DOi+g9zsknGIL6Ghrp3YLoo9g8o=
+
+Name: assets/build/img/item/g3.png
+SHA1-Digest: 6CpZHpUMyrdVT6VYuOrTCQbUQcg=
+
+Name: assets/build/img/frame/draw.png
+SHA1-Digest: HuSnKU5Dnc4Z3+FAoZFEzbHZ9XM=
+
+Name: assets/build/img/misc/galaxy.jpg
+SHA1-Digest: cEGUwxdS5pL0dMrSN/ZZLJputOw=
+
+Name: assets/build/img/button/gift-1.png
+SHA1-Digest: 9Shq35FYuWvKys+IxSmFwgoRuuo=
+
+Name: assets/build/img/flag/21.png
+SHA1-Digest: UINXFFZIsA9tJ08u5gTOOWKsZfg=
+
+Name: assets/build/img/item/i19.png
+SHA1-Digest: ljfj6PW4U5ZpkpNFI//LvlEE16k=
+
+Name: assets/build/img/item/s14.png
+SHA1-Digest: iVleI1fYSuh/oBme7LkU9r3UD2A=
+
+Name: assets/build/img/item/s16.png
+SHA1-Digest: HHqhTtJAjzpl17A+nFIGy6iCkwU=
+
+Name: assets/build/win8.css
+SHA1-Digest: KOxzq1w1N6GpUqfD+mdLkyAUB38=
+
+Name: assets/build/img/menu/power.png
+SHA1-Digest: q4WKoZHljOpFLq7FodtEmnZDVJQ=
+
+Name: assets/build/translation/chs/autogen/tech_data.js
+SHA1-Digest: 9fuaitUQoVJ3GL/njcR51Cl+tec=
+
+Name: assets/build/img/map/aim2.png
+SHA1-Digest: i5aTqDfJ8UDoPMnjwPIXzAsPlYs=
+
+Name: assets/build/img/hero/99.png
+SHA1-Digest: A1ofn9g1VutGzbUPc+DPAfQsUL8=
+
+Name: assets/build/img/bg/earth.jpg
+SHA1-Digest: TUBXImwuMnMJl2mtIaJbTcICT04=
+
+Name: assets/build/img/item/val_dailygift.png
+SHA1-Digest: 8VnIea7AyfWH9Hf3OqUrii2Undg=
+
+Name: assets/build/start.cht.html
+SHA1-Digest: 1LtD6zg9lRUWGqTk5W1ReuUIAfg=
+
+Name: assets/build/img/hero/1001.png
+SHA1-Digest: 9LyetulqUFRkWMK3X3CL8Jx4XnA=
+
+Name: assets/build/img/hero/156.png
+SHA1-Digest: vqobqBtKQKH0DiLyW8or8lckRJ0=
+
+Name: assets/build/img/misc/shield.png
+SHA1-Digest: HeAGNj1/7LLvSivSuMEtBjNz5vM=
+
+Name: assets/build/img/hero/58.png
+SHA1-Digest: SMFETFF67hw6iIlQg5uLJEfZldk=
+
+Name: assets/build/img/flag/3.png
+SHA1-Digest: Jyint7FGaFBSPHkiadQXMsT1hQ8=
+
+Name: assets/build/img/item/truce.png
+SHA1-Digest: uZeJeJ0Sur67V+y1a6zoHCUTLBo=
+
+Name: assets/build/img/item/w11.png
+SHA1-Digest: 4sHLhYD3Xo7kxycemoaMNj7TFTg=
+
+Name: assets/build/img/flag/11.png
+SHA1-Digest: tmhQ1VDIgK8efNFDXQssglmaSNg=
+
+Name: assets/build/img/flag/84.png
+SHA1-Digest: bfp+z9PvylLUTIsH/OVF3DVPCZU=
+
+Name: assets/build/img/misc/2.png
+SHA1-Digest: +VnD0+UCeku5oJHjUJ3tvFcJi7U=
+
+Name: assets/build/img/item/easter_dailygift.png
+SHA1-Digest: 5NzCg7KM/Aegber91YOA0/CwRr4=
+
+Name: assets/build/img/item/a30.png
+SHA1-Digest: 532rEPeR1YdDuYwUBUQqcM1ASd4=
+
+Name: assets/build/img/race/2b.png
+SHA1-Digest: bSzpYb89RHPe9H3WxAqseL82NRI=
+
+Name: assets/build/img/item/key3.png
+SHA1-Digest: uzxPS5qVY+w4UwSM8V/nE1S/BLo=
+
+Name: assets/build/img/item/g11.png
+SHA1-Digest: XIothRI4HFei5zSFQ7DaSAGJNEo=
+
+Name: assets/build/img/item/s2.png
+SHA1-Digest: mqqP9phwyNloUdh7vToabzdn2Rs=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: y9WEh0Ueuv3PRsD7ZLelasUaVww=
+
+Name: assets/build/img/menu/durab.png
+SHA1-Digest: W3Bnk4pny+NLa9dHt4ZrCUHvQCo=
+
+Name: assets/build/data/config_ipad.js
+SHA1-Digest: 3b0KvPfqW4i6VD0g7hGCZSQ3TuU=
+
+Name: assets/build/img/flag/80.png
+SHA1-Digest: Q37crLj5zeYaXKvJnoNAZmxbIfQ=
+
+Name: assets/build/img/hero/41.png
+SHA1-Digest: hWBEqCrKm5+e75zxhP4W1s7g3yM=
+
+Name: assets/build/img/button/minus.png
+SHA1-Digest: N8zhbUc2ONbZxglKihBuxGCy1Ds=
+
+Name: assets/build/img/misc/5.png
+SHA1-Digest: cYB05GUVUcIpbhVvDFS3IuXTCvY=
+
+Name: assets/build/img/flag/121.png
+SHA1-Digest: 366XzwlJmAHBKEQPYPYO88mWkf0=
+
+Name: assets/build/img/menu/racewar.png
+SHA1-Digest: WwkJC8GrU/IRjaN0JvsGkLpBr/w=
+
+Name: assets/build/img/map/relic/a7.png
+SHA1-Digest: nFzaqwrZAiTlopXy9/prLuI3mtU=
+
+Name: assets/build/translation/kr/lng.js
+SHA1-Digest: qUryAO2R9dam6soALEM4Gf0jMvA=
+
+Name: assets/build/img/map/a60.png
+SHA1-Digest: WXbtDaTBKzuBV55ZfTpzUpkMsDU=
+
+Name: assets/build/img/item/g12.png
+SHA1-Digest: aS4lWKzqTt+SSngIq02juw1o7C4=
+
+Name: assets/build/img/hero/20.png
+SHA1-Digest: YrKtjGtzcjTP2Dr4rrjgaKNTTZc=
+
+Name: assets/build/img/item/l4.png
+SHA1-Digest: Yr5Ag6LbE/U22puZt/bT5WYM/SE=
+
+Name: assets/build/img/hero/50.png
+SHA1-Digest: uO9jwZgkIsfOZB2bMtM+fYzrpEA=
+
+Name: assets/build/img/item/xmasgift_big.png
+SHA1-Digest: 6GVaDOGQSvAPhZD5SdiDPcqFZHM=
+
+Name: assets/build/img/flag/18.png
+SHA1-Digest: TIT0K7Ax1/q6sp3tfM56iEnoCiQ=
+
+Name: assets/build/img/flag/117.png
+SHA1-Digest: Iwevik9tA5QnvmxIRSBYBOtHIFc=
+
+Name: assets/build/img/item/s17.png
+SHA1-Digest: v1meCT3IdBr9yOyuga80J1ce8Kw=
+
+Name: assets/build/img/tech/stargate.jpg
+SHA1-Digest: w5VUEpnXK7PjoMCLhWrgWt3HerU=
+
+Name: assets/build/img/menu/rank3.png
+SHA1-Digest: ijW6OT8ckbkAcBJyMxv5N3VjScA=
+
+Name: assets/build/img/item/i27.png
+SHA1-Digest: AuSkHpFpQGQqw9Sboo7JUqy3MU4=
+
+Name: assets/build/translation/ru/marks.js
+SHA1-Digest: hSK1kzGH5LLjx/SbcIeX6b3Foi0=
+
+Name: assets/build/img/frame/line_v.png
+SHA1-Digest: l816gxxQtnGyhJa1d8c0C656LVk=
+
+Name: assets/build/img/flag/101.png
+SHA1-Digest: ZB/xIZ3amNYVMNvEy9BWQZcURLg=
+
+Name: assets/build/img/item/key2.png
+SHA1-Digest: wKnNz5ckfAYIjtm7ixFKmrVfs4g=
+
+Name: assets/build/img/item/vacation.png
+SHA1-Digest: c2P8OmlAjq9/pRlsjpwJyEdjKMY=
+
+Name: assets/build/start.kr.html
+SHA1-Digest: XgTDGYqYDNIXHgC1l4okjBON0D8=
+
+Name: assets/build/translation/cht/autogen/tech_data.js
+SHA1-Digest: c2LwUFp3Pz4M5CzW2DnehrjOIqM=
+
+Name: assets/build/img/item/a20.png
+SHA1-Digest: 9fkVoivG+6eZAWeWCg4L8vnJH6w=
+
+Name: assets/build/img/item/a26.png
+SHA1-Digest: 2dSFYplJC3WzsSYNvGAbFiKve30=
+
+Name: assets/build/img/hero/5_2.png
+SHA1-Digest: 8cLn4otHP8de0hnmvvJ9AI5MLHE=
+
+Name: assets/build/img/button/gift.png
+SHA1-Digest: KwbOyINx4F5jDqAvDyltHUaN1kE=
+
+Name: assets/build/img/flag/123.png
+SHA1-Digest: 8VfTaVG6IjKTqyaO7bR4tmu2A3M=
+
+Name: assets/build/img/item/a19.png
+SHA1-Digest: IxA0+RLWreINo7PChnPl2dy5/cU=
+
+Name: assets/build/img/button/arrow_u.png
+SHA1-Digest: xu8j0kPdl0+DI3U9tVDiJjRKiOM=
+
+Name: assets/build/img/hero/1000.png
+SHA1-Digest: onCnCUlVg9+hCDjbmd49UQLIq4w=
+
+Name: assets/build/img/tech/6.png
+SHA1-Digest: 9ftwI7lvIbDZK7Q2hjjWgeBL590=
+
+Name: assets/build/img/flag/131.png
+SHA1-Digest: YWGFfSIKGrOHkQE+OlGthGHceQI=
+
+Name: assets/build/img/map/aa.png
+SHA1-Digest: CqYFpmuMpHSsvtAiSmJsplNhpLw=
+
+Name: assets/build/img/hero/16.png
+SHA1-Digest: By/FKazfXMPnZNZvpOAPM/WMJ3c=
+
+Name: assets/build/img/hero/91.png
+SHA1-Digest: hYZZtrmSfA8OpvLmzHSUl8ivQYM=
+
+Name: AndroidManifest.xml
+SHA1-Digest: hvlw6iArKNRcCZkcEUwd+kcPueI=
+
+Name: assets/build/img/item/rose_big.png
+SHA1-Digest: RXL/hPygQxG7t9IV+16OC5hPIv4=
+
+Name: assets/build/img/map/relic/a3.png
+SHA1-Digest: NITlC34FwBtoZjAyazj9GX3Z7PY=
+
+Name: assets/build/img/item/token.png
+SHA1-Digest: gu5UCNeZLnGWXWhQsjwCu5YPqy4=
+
+Name: assets/build/img/map/relic/b1.png
+SHA1-Digest: 5K7P4jI0x9E9zwfhIRbArmR1rnE=
+
+Name: assets/build/img/facility/7.png
+SHA1-Digest: vu74bMYUoxt+9frn4ZgE06lO7ng=
+
+Name: assets/build/img/item/val_letterbag.png
+SHA1-Digest: G2lW4APld+YjMjOv8imFHaafZe4=
+
+Name: assets/build/img/effect/hw.png
+SHA1-Digest: vEScuWQWb4omnS9yPVmkF65Wbbw=
+
+Name: assets/build/img/item/chocolate.png
+SHA1-Digest: 88/JnYb7IWWONue8Qp0v3rEuEdE=
+
+Name: assets/build/img/map/z14.jpg
+SHA1-Digest: iMRREpM+CNjUE96pjIUcj4MMP4w=
+
+Name: assets/build/img/hero/48.png
+SHA1-Digest: BDvqxk+5KLPMduls2QDsmGoAYWc=
+
+Name: assets/build/img/flag/106.png
+SHA1-Digest: nrqygpVfuYGqYgpCbfsxyZE1Ltw=
+
+Name: assets/build/img/item/h2.png
+SHA1-Digest: ISJuCj5psjjpHp0vCih95ZShaKg=
+
+Name: assets/build/img/map/a80.png
+SHA1-Digest: Q3gzaAqXgm3qLwQMgj6t88A1+/Q=
+
+Name: assets/build/img/facility/10_xmas.png
+SHA1-Digest: gJFKW2upv/8z7O8GVcCAVdzWSz0=
+
+Name: assets/build/img/hero/105.png
+SHA1-Digest: gkTXMn6biIswsZOdxBUWe5m+HIk=
+
+Name: assets/build/img/item/a29.png
+SHA1-Digest: +YqhVnth3G6pCxzvSkvza4y7lP0=
+
+Name: classes.dex
+SHA1-Digest: 2H5f6FoFRIPoNiMmtiQMeN8uq6o=
+
+Name: assets/build/img/flag/42.png
+SHA1-Digest: YWKk3674krBvtEhtr9rYn/Y2oXM=
+
+Name: assets/build/img/facility/i7.jpg
+SHA1-Digest: plJKOcX1FyGRML48dEX5/BznWZw=
+
+Name: assets/build/img/hero/47.png
+SHA1-Digest: W0+5GjoN+vAWELmvd2VI02RCkLY=
+
+Name: assets/build/img/hero/119.png
+SHA1-Digest: hMqWyfOj2qBWo6Dm3ISiQ2F6E98=
+
+Name: assets/build/img/item/i13.png
+SHA1-Digest: gB3u/8V/PZbvRPQpspqmeZIyUw8=
+
+Name: assets/build/img/map/z10.jpg
+SHA1-Digest: m+AzaZora79gBLh0of7Vy2mPmb0=
+
+Name: assets/build/img/effect/zls.png
+SHA1-Digest: TpZJX+ctLH8fI2tG5sLItpjrILE=
+
+Name: assets/build/img/hero/1_3.png
+SHA1-Digest: 0l+cdG3tqOSdpQmSNafB+lnDLkM=
+
+Name: assets/build/img/misc/star1_d.png
+SHA1-Digest: y2ABS27/DRN4RnoWITyASh793TY=
+
+Name: assets/build/translation/cht/marks.js
+SHA1-Digest: 5qaY7Dm7SshkkQQz7byvplR/dNo=
+
+Name: assets/build/img/flag/76.png
+SHA1-Digest: f5B6GWpkNmnL1yLXpctZK9wVxkU=
+
+Name: assets/build/translation/kr/questguide.js
+SHA1-Digest: ZzweMPcs5YQfnZXZjteuz5vsmdA=
+
+Name: assets/build/img/item/h29.png
+SHA1-Digest: dk2QLnYrZYk3FJU8WPUtQ5ffrso=
+
+Name: assets/build/img/menu/menu_rank.png
+SHA1-Digest: Kj1Vt+lIpKnMzQx9f/xVTndS1cg=
+
+Name: assets/build/img/frame/quest_bottom.png
+SHA1-Digest: 6rOzeTbeRnMAKMccFRCWm5EuZps=
+
+Name: assets/build/img/flag/72.png
+SHA1-Digest: 4iO8BG8giBUx62NLdz8RkZ5WUTs=
+
+Name: assets/build/img/hero/133.png
+SHA1-Digest: NArEduTpOTVJFw5mmprNU2CiM2U=
+
+Name: assets/build/img/misc/damage.png
+SHA1-Digest: unHOzRcJ5Vjy3LXfsy9Jbov5yo8=
+
+Name: assets/build/img/menu/exploit.png
+SHA1-Digest: l9hTPxavAyi50mj2t6xGuqHdGq0=
+
+Name: assets/build/img/map/t17.jpg
+SHA1-Digest: j8oe7LSgGA1EDN6aVveLn0vuYPY=
+
+Name: assets/build/img/effect/s_poison2.png
+SHA1-Digest: PdaDdgMfRRZqhGwZNNjCZMt0SP0=
+
+Name: assets/build/img/hero/42.png
+SHA1-Digest: f1dZAlEpcL3Cetead+KGbHStjCU=
+
+Name: assets/build/img/hero/17.png
+SHA1-Digest: ZUhgQQrRGxYVY77aA0o6NFdPq0c=
+
+Name: assets/build/img/race/3b.png
+SHA1-Digest: mN10h1RPdYSJut3u7/tjsRdlfkU=
+
+Name: assets/build/translation/kr/autogen/tech_data.js
+SHA1-Digest: U1hiyipjiZ4Uu/nIJEA752ByBXM=
+
+Name: assets/build/img/hero/2_1.png
+SHA1-Digest: I3zMNi/xz+5Ssb17csoBd1GkHfM=
+
+Name: assets/build/img/item/s27.png
+SHA1-Digest: hkq9bkb5X2fn2/Ex/vrqp16kNhg=
+
+Name: assets/build/img/facility/12.png
+SHA1-Digest: xU9MRI9exzhAl0oeu/AEtH0pTO4=
+
+Name: assets/build/img/hero/88.png
+SHA1-Digest: a/FBdCwrLqrA3R716mzWS7i35fA=
+
+Name: assets/build/img/flag/68.png
+SHA1-Digest: iEh9DVhrADMULvpy0UzJ/c6xkPA=
+
+Name: assets/build/img/frame/hint_dl.gif
+SHA1-Digest: gJuwsXC0CIAYGcC21g5nKqwwac8=
+
+Name: assets/build/img/frame/bottom_160.png
+SHA1-Digest: s/x3zgVSvOr989vtgmjFdeUhgYk=
+
+Name: assets/build/img/misc/chat.png
+SHA1-Digest: n6awwfls5jgMoX8E6IHn53YAoPU=
+
+Name: assets/build/img/item/w18.png
+SHA1-Digest: c7ttiLkuuxVmFNYLfxwsYmL8G2I=
+
+Name: assets/build/translation/cht/lng.js
+SHA1-Digest: 0T2tPKMy1Ub6VmUch6c0CnTJo3E=
+
+Name: assets/build/img/map/relic/a2b.png
+SHA1-Digest: TlaxnHkxOGJI1PgQONUcuGToUSU=
+
+Name: assets/build/img/effect/mh.png
+SHA1-Digest: C9csqASlDkxdN+v3QBRj57HteT4=
+
+Name: assets/build/img/item/w3.png
+SHA1-Digest: co/cuAiZRTDtCsjs0unJh1HH07E=
+
+Name: assets/build/translation/pt/autogen/item_data.js
+SHA1-Digest: I9zzszhbBBG3KgVHYq3TmQvb5sU=
+
+Name: assets/build/img/hero/45.png
+SHA1-Digest: Uw14NiJFyBY/fR2Q2rrdQVl59eQ=
+
+Name: assets/build/img/menu/rank21.png
+SHA1-Digest: X0sOtzyzN/VZ6KoazzgPHQ8SDog=
+
+Name: assets/build/img/item/a11.png
+SHA1-Digest: gt7j0hk1ggoCPlybRHIYJQmOLp0=
+
+Name: assets/build/img/hero/12.png
+SHA1-Digest: hoQvSMtK47gluVWXH3ds3DP39e8=
+
+Name: assets/build/img/flag/114.png
+SHA1-Digest: pKuhWNtgGVHQ9AOUuUBmRoE5ljE=
+
+Name: assets/build/img/item/h13.png
+SHA1-Digest: hSGzwOrsHLZAhDiTq7w5EDNyh/o=
+
+Name: assets/build/img/hero/s3.png
+SHA1-Digest: 0e6VnEQK0di1LYML6+CemtrvdIU=
+
+Name: assets/build/img/frame/quest_top.png
+SHA1-Digest: iZon5LzjJdktplLh5CnSyqOOvvU=
+
+Name: assets/build/img/facility/1.png
+SHA1-Digest: UYhgsBK7bxYCVTpgR0XBnDOxGLk=
+
+Name: assets/build/img/item/i11.png
+SHA1-Digest: 0qhdpZAweL2VN95ONZYYEkfVnUI=
+
+Name: assets/build/img/flag/26.png
+SHA1-Digest: 8Pqic9gfRtWAg/o9ZcLXm4mrChQ=
+
+Name: assets/build/img/item/i14.png
+SHA1-Digest: /cPImN35jR011ZzUEelOLkmW66Q=
+
+Name: assets/build/translation/cht/autogen/item_data.js
+SHA1-Digest: PwtiNVj7P8XlDg2s6ZvkOdkCWLY=
+
+Name: assets/build/img/flag/127.png
+SHA1-Digest: Q9j0NsTDPl4MYp/vrrkdjXzvdUU=
+
+Name: assets/build/img/hero/2_0.png
+SHA1-Digest: I3zMNi/xz+5Ssb17csoBd1GkHfM=
+
+Name: assets/build/img/effect/fks.png
+SHA1-Digest: UrlJefrFMHFzFB8FqPdSd3gTQLo=
+
+Name: assets/build/translation/en/autogen/tech_data.js
+SHA1-Digest: nCOpaVnJB4O5BNBBvvsYkjF+HrY=
+
+Name: assets/build/translation/cht/autogen/quest_data.js
+SHA1-Digest: Tq4HhCnwcouQATHxKQYcsEw0z4o=
+
+Name: assets/build/img/item/s7.png
+SHA1-Digest: goBcU2dCeakqWZO3DKCvMTR3+TQ=
+
+Name: assets/build/img/hero/157.png
+SHA1-Digest: PQp4eBANMz33HmoOb0txV+yRDvs=
+
+Name: assets/build/img/frame/message_foot_t.png
+SHA1-Digest: drE2N+oKgUO80dTHPfX4SaQpRRE=
+
+Name: assets/build/img/item/key1.png
+SHA1-Digest: +MUEQXkk2ZdQDHsGmJOLuKTKx3k=
+
+Name: assets/build/img/item/h4.png
+SHA1-Digest: wOVXq6TvQo8i9d8xJQaQmU04JPU=
+
+Name: assets/build/img/map/z16.jpg
+SHA1-Digest: Ybzv5R4wEd/kc68t6XY7q1lcaAY=
+
+Name: assets/build/data/config.js
+SHA1-Digest: KQKvXY5s99PNDaMqt3+0uCZIy1g=
+
+Name: assets/build/img/flag/2.png
+SHA1-Digest: PdwEB2j/FT6zpFwQpAFdf+k6/08=
+
+Name: assets/build/img/hero/4_0.png
+SHA1-Digest: HS8QSuIRxxtV3tO9oLpx8kCiA9c=
+
+Name: assets/build/img/item/resup2.png
+SHA1-Digest: Uu6kbbVqbTSyZ4n+0z8/umkEMJg=
+
+Name: assets/build/img/effect/fkzs.png
+SHA1-Digest: uQN+XFQwH38sAmar7qsUv4YusJo=
+
+Name: assets/build/img/hero/5_3.png
+SHA1-Digest: 8cLn4otHP8de0hnmvvJ9AI5MLHE=
+
+Name: assets/build/img/tech/16.png
+SHA1-Digest: +Q/2b12CfIcTEmU7Tt9LsYol78U=
+
+Name: assets/build/img/tech/10.png
+SHA1-Digest: sW8Tw3HPXY9BvH6uerKNd4LbNTk=
+
+Name: assets/build/img/map/ab.png
+SHA1-Digest: WRydAO6BfARyNHF087H9ZzX/Ua8=
+
+Name: assets/build/img/hero/151.png
+SHA1-Digest: LNUVLDIKdHouhSEaI28QTq5zzP8=
+
+Name: assets/build/common.css
+SHA1-Digest: 7si4IVKIkyqLXxbO6fOgoSd4NAA=
+
+Name: assets/build/img/item/h19.png
+SHA1-Digest: x+2k1+YoDz3nccScKmM2lak2LXE=
+
+Name: assets/build/img/frame/top_160.png
+SHA1-Digest: xNViVuC5GGX11E8oMrIwJ9g92fw=
+
+Name: assets/build/img/hero/164.png
+SHA1-Digest: iOjUrtFreHFsPJb9xrHfvXL9d+A=
+
+Name: assets/build/img/flag/25.png
+SHA1-Digest: HmbfQU3HELJba8u6i+ZfoBm/AE0=
+
+Name: assets/build/img/item/i15.png
+SHA1-Digest: tYunqSIjm1LKBhiyutswcCxFvL8=
+
+Name: assets/build/img/item/h27.png
+SHA1-Digest: HlEKBnwScG7LbQaCnx2zCyJGAXA=
+
+Name: assets/build/img/map/relic/b4.png
+SHA1-Digest: p/QMGgkwBOjUnxPg6BRN/uq+G6o=
+
+Name: assets/build/img/map/t3.jpg
+SHA1-Digest: JNtq5eBHCrYraB4GtXmkje1bx8E=
+
+Name: assets/build/img/menu/credit.png
+SHA1-Digest: RNMuzMHHEc6FBaQWORyXhjCk1ss=
+
+Name: assets/build/img/hero/100.png
+SHA1-Digest: 5LusQZCOkGKTj7Kz7uG0jXypejs=
+
+Name: res/xml/plugins.xml
+SHA1-Digest: MYVZCZnCVGI9dCOtgIag3ztPeNA=
+
+Name: assets/build/img/item/exploit.png
+SHA1-Digest: w5YWAaye2yGbBH7BZGsEYses/fc=
+
+Name: assets/build/img/menu/rank6.png
+SHA1-Digest: CaNuZqOo9cmd3pcvy4TvATZaCkM=
+
+Name: assets/build/img/item/a13.png
+SHA1-Digest: JRbA3W5M0l035hK4rBXaj/G8N2w=
+
+Name: assets/build/img/map/z3.jpg
+SHA1-Digest: 1EOAu9cnNZzC1aCqd/29RZM8UTw=
+
+Name: assets/build/page.css
+SHA1-Digest: PEypp0aULhWTWPy3czN6KK6wQwE=
+
+Name: assets/build/img/item/a27.png
+SHA1-Digest: OEeGgK/048gFxADPHdlhusU8GWA=
+
+Name: assets/build/img/map/t1.jpg
+SHA1-Digest: 7UCcs0eC60fsIUliRCZYxp0E2b4=
+
+Name: assets/build/img/facility/i2.jpg
+SHA1-Digest: JAJVZWmsGS344c39MRkmgP48g2Y=
+
+Name: assets/build/img/flag/110.png
+SHA1-Digest: qQRuVTcDWsHRgvabc1+GlfjMtdo=
+
+Name: assets/build/img/flag/20.png
+SHA1-Digest: EdwOrvJhvOLnce2rCjkLxuCkJ2w=
+
+Name: assets/build/img/item/O.png
+SHA1-Digest: 8pE5VdMTKndjqPKa1UuZ2lx1ylM=
+
+Name: assets/build/img/map/t4.jpg
+SHA1-Digest: bpTkxNxlRns727BnlsX2bk4/Dsg=
+
+Name: assets/build/img/item/h5.png
+SHA1-Digest: 74oDrua78iV+wgyztFVVMPdG9LM=
+
+Name: assets/build/img/item/s19.png
+SHA1-Digest: PRFx7geGXBBCgyy1N7DzlLhLXxI=
+
+Name: assets/build/img/misc/vs.png
+SHA1-Digest: AvF9r9l90NURTSlLLhH2YHXFP4o=
+
+Name: assets/build/img/hero/150.png
+SHA1-Digest: jrgyqDJSwFNrAv8xxcOeNbgAHb4=
+
+Name: assets/build/img/hero/1_0.png
+SHA1-Digest: 0l+cdG3tqOSdpQmSNafB+lnDLkM=
+
+Name: assets/build/img/item/V.png
+SHA1-Digest: wtakw0FLp6tOihDpLnbjXaCkytg=
+
+Name: assets/build/img/item/w22.png
+SHA1-Digest: dl25NZjLOqA3tqtPuCVSADYHPic=
+
+Name: assets/build/img/item/a8.png
+SHA1-Digest: t6dv926qKkOvwKm/O6BEpnLy7Hw=
+
+Name: assets/build/img/menu/rank9.png
+SHA1-Digest: ISc7+dXML5AAp7h04nxihDz6uck=
+
+Name: assets/build/img/map/z2.jpg
+SHA1-Digest: FpIH5jjcOV44uPSQepFuZUAX6fA=
+
+Name: assets/build/img/hero/111.png
+SHA1-Digest: 5wnp+W5uwmDGmaIrJL/5rsfjN8E=
+
+Name: assets/build/img/hero/32.png
+SHA1-Digest: ys48eedFIJlY0IWJ/6ww3r3EkKI=
+
+Name: assets/build/img/flag/50.png
+SHA1-Digest: 4V6JfFqsdwfoKT/2Vap/yBLzDOo=
+
+Name: assets/build/img/item/a23.png
+SHA1-Digest: 0pXvpS9aLpuHkbnNBvMjbnhvAUs=
+
+Name: assets/build/img/frame/content320_320.png
+SHA1-Digest: nzUcFsTsYhMKZl40ky7nuDVZD1A=
+
+Name: assets/build/img/menu/rank22.png
+SHA1-Digest: ehj+gGAvvVQKz3I7Zq77z2cK4u4=
+
+Name: assets/build/img/item/X.png
+SHA1-Digest: mABk4nHYLBZJouioBV8bgrVVpKQ=
+
+Name: assets/build/start.chs.html
+SHA1-Digest: Bph5IHp5Ho57P8U1j+SZhYSJ+/g=
+
+Name: assets/build/img/item/online_gift.png
+SHA1-Digest: pgZoMHbbFOvpNlaRtMrToWGQHEY=
+
+Name: assets/build/translation/chs/questguide.js
+SHA1-Digest: j+UMRcbHsCupENuLjIL7HQeTTJ4=
+
+Name: assets/build/img/flag/52.png
+SHA1-Digest: pHFhgVT7FOZiCVw6iRuJvs7cr7o=
+
+Name: assets/build/img/map/a20.png
+SHA1-Digest: uusBnZIIbifYG1bwpiV5cpCDGwQ=
+
+Name: assets/build/img/flag/89.png
+SHA1-Digest: 91c/jml4rNavhxqHAYK0Tk5ayvY=
+
+Name: assets/build/img/item/l11.png
+SHA1-Digest: pc8J1RSxm3wA52cOuMnFEGm7RZs=
+
+Name: assets/build/translation/pt/autogen/building_data.js
+SHA1-Digest: JCY24QSHkUnPFUdrFA8oHswOuMY=
+
+Name: assets/build/translation/kr/campaign.js
+SHA1-Digest: KqeaEzf8UxCb5y8XTyu3dLJbDgQ=
+
+Name: assets/build/img/menu/relic.png
+SHA1-Digest: dtZm+IN18EM6ppQb24ZzQaz+Ths=
+
+Name: assets/build/img/item/w7.png
+SHA1-Digest: BU1SOwtP6gjUgnAA3Uw0B5aGQwc=
+
+Name: assets/build/img/button/yes.png
+SHA1-Digest: GM9MHljaBticoAsp+MuL2Ydem2E=
+
+Name: assets/build/img/hero/71.png
+SHA1-Digest: 3jrrbPNwSWs8ZQEJKTfJLVOYeo4=
+
+Name: assets/build/translation/pt/autogen/hero_data.js
+SHA1-Digest: 0Eft+Dk/0JEwDHXhEvtiW9EZNDM=
+
+Name: assets/build/translation/cht/autogen/hero_data.js
+SHA1-Digest: N4zGznNpp15fQrqonbcgfALVvvU=
+
+Name: assets/build/img/flag/47.png
+SHA1-Digest: 9ilY/cOWTuLDArYbh+fcdRzwlws=
+
+Name: assets/build/img/hero/4_2.png
+SHA1-Digest: HS8QSuIRxxtV3tO9oLpx8kCiA9c=
+
+Name: assets/build/img/hero/141.png
+SHA1-Digest: HFfhilNNES/dFOh8PlPPzIvVCH4=
+
+Name: assets/build/img/menu/menu_misc.png
+SHA1-Digest: 4TW97TNnlLpcEvhAmxyzgqhqtyw=
+
+Name: assets/build/img/item/h22.png
+SHA1-Digest: PtqnizSMJEwMvFQTNoOu5ETU3Rk=
+
+Name: assets/build/img/map/relic/a4b.png
+SHA1-Digest: Lxo8KcdxhrtBBoNLrn73CvcutOA=
+
+Name: res/drawable-mdpi/com_droid_engine_splash.png
+SHA1-Digest: e8iTyiUkX/Se6tbhMX9ZoiYPGN0=
+
+Name: assets/build/img/frame/message_top.png
+SHA1-Digest: rEppqZ/gTHX7CijFmSqDQP89sEE=
+
+Name: assets/build/img/frame/formation.png
+SHA1-Digest: A6L5DmCOjPPTZcQjn3uuYaG8xF8=
+
+Name: assets/build/img/hero/49.png
+SHA1-Digest: qnlSiGG3J9wP0RZKuRGYZmMp+B4=
+
+Name: assets/build/img/facility/1_xmas.png
+SHA1-Digest: 2ZQBRAVkMwIHt9Mt6gTU9xoiGu4=
+
+Name: assets/build/img/hero/90.png
+SHA1-Digest: p3Oh9tkrpEBOzAoE0vQMcYtw/D4=
+
+Name: assets/build/translation/de/questguide.js
+SHA1-Digest: QKX8NMtOsdbIBp3GsAe8po6NorU=
+
+Name: assets/build/img/item/s5.png
+SHA1-Digest: GwWwVBQj0mYvSWDL3+RAHW/2QNc=
+
+Name: assets/build/img/item/w2.png
+SHA1-Digest: wJfE/Iv8qze4vHC00NxtVLSUTew=
+
+Name: assets/build/img/menu/rflag.png
+SHA1-Digest: gGVb5+paXfbO+LN1OwuHk6Bl5V4=
+
+Name: assets/build/img/hero/3_2.png
+SHA1-Digest: 4HHECgY3jrlTpC/+UdLD9H8nN5U=
+
+Name: assets/build/img/hero/66.png
+SHA1-Digest: VRRt7yKTy0E0LuowTYCvqWk+HNs=
+
+Name: assets/build/img/menu/menu_chat.png
+SHA1-Digest: FkkmmPJipJUjqTicKTBiCVv8m8E=
+
+Name: assets/build/img/hero/77.png
+SHA1-Digest: HJEzsdBBHBpkfqzrrYbu5p4NBG8=
+
+Name: assets/build/img/map/relic/b5b.png
+SHA1-Digest: yFrNX3Mm9bU5+/kXThgL9TthglQ=
+
+Name: assets/build/img/item/a6.png
+SHA1-Digest: WAB3XkZkWvaUdQ5E4dGkSwAYcYE=
+
+Name: assets/build/img/item/AA.png
+SHA1-Digest: tpDKRiBBK/gN7b6DFduF23mtsjo=
+
+Name: assets/build/img/bg/s3.png
+SHA1-Digest: o37OEB0gtfO7b9bU83YzDYkxcU0=
+
+Name: assets/build/img/misc/7.png
+SHA1-Digest: +0lFGDBuA1k1rvZoqZkC2B1/zSE=
+
+Name: assets/build/img/map/relic/b1b.png
+SHA1-Digest: F1riuN+BJmjA/HRWwbDZVNA9CRY=
+
+Name: assets/build/img/effect/x.png
+SHA1-Digest: WnIH8OBCWMhDQHZZh9CNFjT/fcg=
+
+Name: res/drawable/com_droid_engine_splash.png
+SHA1-Digest: e8iTyiUkX/Se6tbhMX9ZoiYPGN0=
+
+Name: assets/build/img/map/w_city.jpg
+SHA1-Digest: vlrYQxBYtkTDnEiqJjFQTTL3E7Q=
+
+Name: assets/build/img/misc/gift.png
+SHA1-Digest: rRd1B/g4apupc17XQsxp6ldx8Hw=
+
+Name: assets/build/img/flag/44.png
+SHA1-Digest: NvJIiMaV4qaDWlzNHCJYAU4Kw6M=
+
+Name: assets/build/img/map/a7.png
+SHA1-Digest: o5602bO3qN+FIsSPS5djAjPBKbY=
+
+Name: assets/build/img/item/274.png
+SHA1-Digest: maCS1l+ykzb2BLG7vI8pxFft0p0=
+
+Name: assets/build/img/menu/rank7.png
+SHA1-Digest: 3+Jjj0xvUEpbj8lQXos62PL9qxc=
+
+Name: assets/build/img/bg/down.png
+SHA1-Digest: zdd34A+QSPXC6e4nrIowQ7hpfQw=
+
+Name: assets/build/img/item/s24.png
+SHA1-Digest: iSv8eAiAWd0WGoNaAzafhbh7V/g=
+
+Name: assets/build/img/hero/104.png
+SHA1-Digest: Zly3+a9NQzlUiYofcS/rwwiu5N4=
+
+Name: assets/build/img/flag/96.png
+SHA1-Digest: hDDRhTlGKxq5RKyg85+I6N0vH2M=
+
+Name: assets/build/img/facility/10.png
+SHA1-Digest: 1EvdI2oao05ZabjCdrR6aFVrx+c=
+
+Name: assets/build/script/jquery-1.4.2.js
+SHA1-Digest: 3xdoqT+wxQdbr0jlP3FT+f1I9To=
+
+Name: assets/build/img/menu/rank18.png
+SHA1-Digest: b3jgxINzJstMffy1SupxbKULLRw=
+
+Name: assets/build/img/misc/star1.png
+SHA1-Digest: 1I2qbPPAMWPUwLnBDpai30Bppy8=
+
+Name: assets/build/img/effect/s_evade.png
+SHA1-Digest: HeAGNj1/7LLvSivSuMEtBjNz5vM=
+
+Name: assets/build/img/menu/clock.png
+SHA1-Digest: +CzmojiAPGooB+M1I6O8W/UWsQQ=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: GYXaAF+7asJMtoQ0QlRS4iP4kIk=
+
+Name: assets/build/img/misc/conquer.png
+SHA1-Digest: 5NwFbxp2SN0r4XhNDkVh/X7xz+4=
+
+Name: assets/build/img/hero/122.png
+SHA1-Digest: szOsbbsMELnKVXJS8tUdFmb+nfY=
+
+Name: assets/build/img/item/a15.png
+SHA1-Digest: J1l5iOWZkYupO0lPYR6+OIvds+8=
+
+Name: assets/build/translation/pt/autogen/tech_data.js
+SHA1-Digest: fN2sPqslAiADzwCkCsG2sHVv13I=
+
+Name: assets/build/img/item/s10.png
+SHA1-Digest: uj+RFZ4F00CUzfl9XaHV5YEjS60=
+
+Name: assets/build/img/hero/136.png
+SHA1-Digest: Qhfk21HWYdpcvjuwvDDPY5qI2NA=
+
+Name: assets/build/img/flag/67.png
+SHA1-Digest: i+wATliG3O9vJwAY0xVtd1dO2eM=
+
+Name: assets/build/img/hero/5_0.png
+SHA1-Digest: 8cLn4otHP8de0hnmvvJ9AI5MLHE=
+
+Name: assets/build/img/button/plus.png
+SHA1-Digest: pJQbuB4WwZmLcqGfYxjTyoahMJ4=
+
+Name: assets/build/img/hero/67.png
+SHA1-Digest: c/fhIgWcdBwAXB56/YIgiHGOoKo=
+
+Name: assets/build/img/hero/95.png
+SHA1-Digest: Fmr/dm8e6s2akNL63Gf4uzl8JFE=
+
+Name: assets/build/img/item/s20.png
+SHA1-Digest: mIy0pHImpugtfse7Le7JX0j6g0s=
+
+Name: assets/build/img/map/relic/a9.png
+SHA1-Digest: p4lJ8I6+YWqer5wsaJkZ2GpzxUQ=
+
+Name: assets/build/img/map/z17.jpg
+SHA1-Digest: UGoWbPkGDuENhdRNaHqiSwtSrOg=
+
+Name: assets/build/img/facility/8_xmas.png
+SHA1-Digest: ZJn6AlgNdv3OcpoVx6a6pBJEs0A=
+
+Name: assets/build/img/item/i24.png
+SHA1-Digest: yykO0cxxzmE3xXWDyw/IVYHg+9o=
+
+Name: assets/build/img/map/ab0.png
+SHA1-Digest: MjWr9+//BFiBgTAN9B7CBn6vr0g=
+
+Name: assets/build/img/flag/59.png
+SHA1-Digest: 30A6i/h+yYf+sNT5+XiSO+lPy/A=
+
+Name: assets/build/data/autogen/tech_data.js
+SHA1-Digest: w0alxua9Nii0MnjH8XffjDrab9E=
+
+Name: assets/build/img/item/i5.png
+SHA1-Digest: uOs+XGe7l5o6/WseZzdVOXdUxjs=
+
+Name: assets/build/img/menu/bag.png
+SHA1-Digest: y9g5y9EiZiE6K0MbYeYXEkTctik=
+
+Name: assets/build/img/item/l23.png
+SHA1-Digest: k7FVaO7d4zA+7eXszP5YQyNb/gM=
+
+Name: assets/build/img/hero/64.png
+SHA1-Digest: 17+efmZSigPn5i7x5AH4JW3FHI4=
+
+Name: assets/build/img/misc/natasha.jpg
+SHA1-Digest: i3Fx29uvynlrwEk7TL5kF2CyUu0=
+
+Name: assets/build/img/map/a9.png
+SHA1-Digest: +JfNkBu64x1stGXYij/DuVAXohY=
+
+Name: assets/build/img/item/g9.png
+SHA1-Digest: bFnyhlwyI+phx+GHfOPWYA8dn1c=
+
+Name: assets/build/img/item/l9.png
+SHA1-Digest: di6Z8Rs4pMDnOTNDPIfEKDsWqhw=
+
+Name: assets/build/img/item/honor.png
+SHA1-Digest: xAnxSt+U3Ns0MdwvNR79n0P0iVw=
+
+Name: assets/build/img/item/i25.png
+SHA1-Digest: yC9az59SxthGJjX1xaF21emlWv8=
+
+Name: assets/build/img/flag/125.png
+SHA1-Digest: fH3z5RbxHrK8w8OnDlo52lRA+oM=
+
+Name: assets/build/img/item/l2.png
+SHA1-Digest: uGCgnRoOHHPo3G3M+UPp27UaLuY=
+
+Name: assets/build/img/hero/143.png
+SHA1-Digest: JQJAAx8meK4huFP+cQ1ItujplnI=
+
+Name: assets/build/img/hero/117.png
+SHA1-Digest: 3oxthdhaM7t1WU+TsWTwtrGlAk8=
+
+Name: assets/build/translation/pt/campaign.js
+SHA1-Digest: cRui9q5DB+4y6UHE8E4jsYJFhWU=
+
+Name: assets/build/img/hero/61.png
+SHA1-Digest: HkTbfTJTiCohO8VE2hlhQzz6xn0=
+
+Name: assets/build/img/map/relic/a7b.png
+SHA1-Digest: dQHBoiyY5cAR5989cUl48c1zm74=
+
+Name: assets/build/img/hero/108.png
+SHA1-Digest: LLVoyu0BdezlqQuEhA3aCMQ1Afg=
+
+Name: assets/build/img/flag/128.png
+SHA1-Digest: 1qfLoNP7wGWLsCqz0syK1iNiPcc=
+
+Name: assets/build/img/hero/6.png
+SHA1-Digest: FVBhjCNs/kz2FrERVzUUvSTdm88=
+
+Name: assets/build/translation/en/autogen/hero_data.js
+SHA1-Digest: nlXqetZ5w21hqA9xG3Nxthd2f+s=
+
+Name: assets/build/img/map/z9.jpg
+SHA1-Digest: ZMpt+dEkj/1sYuu1zLyLUP96xQ0=
+
+Name: assets/build/img/tech/8.png
+SHA1-Digest: kAmcgtBXx77dQ5JxIJdVtCKGTsw=
+
+Name: assets/build/img/hero/35.png
+SHA1-Digest: lUUhpIY2RhlovxeKn0ZPMIYzoac=
+
+Name: assets/build/img/hero/a1.png
+SHA1-Digest: ssWhCXigDYz93mT2/5M4xJv5jbY=
+
+Name: res/layout/com_droid_engine_brow.xml
+SHA1-Digest: MvDl3n4MrtBfbS/7vzFbC/yx6kg=
+
+Name: assets/build/img/item/domistal.png
+SHA1-Digest: P/B4gUOwjkFkJjIvoxdTGcXnVSc=
+
+Name: assets/build/img/frame/hint_ul.gif
+SHA1-Digest: 7sn8sqCSuEjGT7dS0wVBtifxVDE=
+
+Name: assets/build/img/effect/rslj.png
+SHA1-Digest: 63E1p9Fxd5bvbIhvAMmqXiMhHQ8=
+
+Name: assets/build/img/hero/24.png
+SHA1-Digest: 0KABngkzYeHXp0QlMTpPfuBYfXE=
+
+Name: assets/build/img/frame/hint_ur.gif
+SHA1-Digest: iyeDlk/csuiRav8jc0e/+vd5EqA=
+
+Name: assets/build/img/hero/5.png
+SHA1-Digest: +hgvpcVjqPJUWMuwoSy9GuLhVSY=
+
+Name: assets/build/img/hero/126.png
+SHA1-Digest: 0KtIjhcOjInqY5b80NK89n4eu4M=
+
+Name: assets/build/img/hero/40.png
+SHA1-Digest: 2jRo3sN8140sw4TnAvAX12B7m7Q=
+
+Name: assets/build/img/frame/quest_mid.png
+SHA1-Digest: 3uDmcOEq6WBFccn6+gWfFPTYEF8=
+
+Name: assets/build/img/flag/51.png
+SHA1-Digest: /RRQAQKciKdzsnixGyCBnxcIrts=
+
+Name: assets/build/translation/en/autogen/quest_data.js
+SHA1-Digest: igc+JJCBRn9Uh/RLXwNFFUB9Mgo=
+
+Name: assets/build/img/item/l14.png
+SHA1-Digest: 5NuPqnHfhXJZWm6BHy+q0HaVaO8=
+
+Name: assets/build/translation/ru/campaign.js
+SHA1-Digest: cWuSjcXQyTH8a5INvf9K/AM+dew=
+
+Name: assets/build/img/item/l8.png
+SHA1-Digest: R7cEwprlAylE52Vj5wUYws/IQ+o=
+
+Name: assets/build/img/button/arrow_l.png
+SHA1-Digest: 1osVI7b5/Buthq+tI1/kxonOTWk=
+
+Name: assets/build/img/effect/hss.png
+SHA1-Digest: JlcCgaPQ4IzorDamKbxtZLwDP3M=
+
+Name: assets/build/img/item/h24.png
+SHA1-Digest: m3WN6WAuLDZpvG/cnvqeio+0fcY=
+
+Name: assets/build/img/map/a3.png
+SHA1-Digest: 0pHUz2KR+Bvu3AKPmXk6ixU9b88=
+
+Name: assets/build/data/autogen/building_data.js
+SHA1-Digest: nNZAapCgPveLI/dmFI6Kw9LuV8Q=
+
+Name: assets/build/translation/chs/autogen/building_data.js
+SHA1-Digest: 7gLSP8tkT9DyTX7oEVOLLusiuY4=
+
+Name: assets/build/img/item/h11.png
+SHA1-Digest: KJWMYLf0dDwgxTOYkxgqaUjn+tI=
+
+Name: assets/build/img/menu/rank13.png
+SHA1-Digest: wR+B6L2sp9ijKeZxLPrJSgmH49Q=
+
+Name: assets/build/img/map/relic/a6.png
+SHA1-Digest: HGdsKsZ8TkvkfiOI1QT2HaoWTi0=
+
+Name: assets/build/img/effect/ejzf.png
+SHA1-Digest: R2bbpr5OY3Nn3g9EUmxGmXg4W9U=
+
+Name: assets/build/img/misc/mask.png
+SHA1-Digest: 9sEJamwIp9P5cnvgLebJuwwabHI=
+
+Name: assets/build/img/frame/conent_bg2.png
+SHA1-Digest: 9Udkv1tKsaq4+CWLjqy9rczY0C4=
+
+Name: assets/build/img/facility/12_xmas.png
+SHA1-Digest: jXyLPzDUZjR7aFT838nZGGJKBgU=
+
+Name: assets/build/img/menu/wolf.png
+SHA1-Digest: pR3iCwf35X/dvdTSrma8Upp+8I0=
+
+Name: assets/build/img/flag/111.png
+SHA1-Digest: gi8kgJ9xgyN2PzoHrO52R8xBm3c=
+
+Name: assets/build/img/hero/125.png
+SHA1-Digest: Gj+HRFn2hWayDiaE/ZM7r48MZzQ=
+
+Name: assets/build/img/menu/rank15.png
+SHA1-Digest: LC8FTcgWl65/DCIXuc/p/aDiVC8=
+
+Name: assets/build/start.pt.html
+SHA1-Digest: YrU/BywQ3/b3KKswrc91UhsuZdo=
+
+Name: assets/build/img/flag/71.png
+SHA1-Digest: SHYl4NGHE220HW6iEkRfU3mHMfI=
+
+Name: assets/build/img/hero/120.png
+SHA1-Digest: fGMECQb+jP4eBz+SoKYkbf9U4+s=
+
+Name: assets/build/img/item/h26.png
+SHA1-Digest: 2XSIm/lSRSFJbJ6oVdI3or2I/gk=
+
+Name: assets/build/img/hero/3_1.png
+SHA1-Digest: 4HHECgY3jrlTpC/+UdLD9H8nN5U=
+
+Name: assets/build/img/item/l1.png
+SHA1-Digest: dIHpZmB9rdfBvAzWNAeyU/AFScY=
+
+Name: assets/build/img/item/i7.png
+SHA1-Digest: T7EmJocDGi9/OQ4JpSoub5wDUZE=
+
+Name: assets/build/img/flag/17.png
+SHA1-Digest: 1C4vk7eMRLFOgQIzg/xd3s8G8aU=
+
+Name: assets/build/img/item/s22.png
+SHA1-Digest: LelizqCjzWv7E5yvZ8a+tBR/2A4=
+
+Name: assets/build/img/flag/82.png
+SHA1-Digest: gVE8P1uXEN+bp+yfVF/OlT5ISaU=
+
+Name: assets/build/img/flag/29.png
+SHA1-Digest: 2dExJNY9xFBU9ZZIzpnRP0WDmFw=
+
+Name: assets/build/img/map/a8.png
+SHA1-Digest: 2BvUtM+d7Pl1osA3Klw2YiIPUq4=
+
+Name: assets/build/img/flag/9.png
+SHA1-Digest: NJvFLNTEYOMKaLk0nVbaGXvz+rQ=
+
+Name: assets/build/img/hero/27.png
+SHA1-Digest: VyskmtkT6meJ2xclrjgzaa1TASc=
+
+Name: assets/build/img/bg/nanasha.png
+SHA1-Digest: mS3kDVbgRU3L3Xa+vthl925Nw1U=
+
+Name: assets/build/data/campaign.js
+SHA1-Digest: JfdpbYAZt+otKvKbWLFzdJOt4A8=
+
+Name: assets/build/img/item/w17.png
+SHA1-Digest: yoe6/N++itS6ELZRfc42chjMys0=
+
+Name: assets/build/img/map/relic/a8b.png
+SHA1-Digest: yEoLnSGkv5ATlJF+5oib5QnZZA0=
+
+Name: assets/build/img/button/arrow_r.png
+SHA1-Digest: fHAMXS1UNFesAcR8KYulYIyhwz4=
+
+Name: assets/build/img/map/relic/a9b.png
+SHA1-Digest: bjfK4ZQhkqXyzAvm2y18GLjAVi4=
+
+Name: assets/build/translation/chs/lng.js
+SHA1-Digest: Yz8An0tjmrwb2DXSflmgvEzCW8U=
+
+Name: assets/build/img/tech/13.png
+SHA1-Digest: BpNm15DudlRmmTemqPW5eUBYBr0=
+
+Name: assets/build/img/menu/head.png
+SHA1-Digest: rL0uu4yx7zNQa3OFCvkMkTQSO8Q=
+
+Name: resources.arsc
+SHA1-Digest: oECYl8ekUk4xDAnOG3xKbk6nwXk=
+
+Name: assets/build/translation/ru/autogen/item_data.js
+SHA1-Digest: 6Kt9PbT+SiA4SMB3bGNV6HIrrpI=
+
+Name: assets/build/img/flag/13.png
+SHA1-Digest: FNklxeelAsUpyEmKIA9uMz/wH6w=
+
+Name: assets/build/img/hero/147.png
+SHA1-Digest: orqa6iTiLqJAzKq21sulBTYVTbc=
+
+Name: assets/build/img/hero/46.png
+SHA1-Digest: vO/TNe+TxqnIcXEp1/l7VutVOS8=
+
+Name: assets/build/img/item/w24.png
+SHA1-Digest: yhXU3GI2sNDQVIJNyGRQb8i/Qx0=
+
+Name: assets/build/translation/chs/campaign.js
+SHA1-Digest: JiKg96dHLxLu/GtPRaPJ2kH0oCw=
+
+Name: assets/build/sviews.js
+SHA1-Digest: wuyND3Le4B52FJ3HvoE/w5QpcNk=
+
+Name: assets/build/img/item/chest3.png
+SHA1-Digest: 9yI1lbF467zSeBYdAtBNr8iCBvo=
+
+Name: assets/build/img/hero/83.png
+SHA1-Digest: oesqQ4jlm18892tnPKDfYQADIaM=
+
+Name: assets/build/img/facility/i12.jpg
+SHA1-Digest: pyMyJy/RktG+PLsM7chRQFL7wKc=
+
+Name: assets/build/img/item/s4.png
+SHA1-Digest: 0DHOVN/lFfvPVcAYxx/5xy69FyI=
+
+Name: assets/build/img/button/max.png
+SHA1-Digest: hm+RvtmRi235uVHRrjZORszCtr0=
+
+Name: assets/build/main.js
+SHA1-Digest: IyrH5FVxo09eGFq0i6v1LeOdXHU=
+
+Name: assets/build/img/map/z12.jpg
+SHA1-Digest: tJlijgAuz2HPw5ks0rwcgiEacxU=
+
+Name: res/drawable/icon.png
+SHA1-Digest: GYXaAF+7asJMtoQ0QlRS4iP4kIk=
+
+Name: assets/build/img/flag/34.png
+SHA1-Digest: Qg4rBlWDAwuYY1v/kufmhDSEsts=
+
+Name: assets/build/img/flag/107.png
+SHA1-Digest: Sa+y0WrmtMzNggQ/AD1UQ2f1YHM=
+
+Name: assets/build/img/hero/56.png
+SHA1-Digest: l7KH22wZ7lvksNdgPdj1csvwsqo=
+
+Name: assets/build/img/item/i3.png
+SHA1-Digest: c6yQb+Ilch2QrcavCLgic4ulb6w=
+
+Name: assets/build/img/item/s28.png
+SHA1-Digest: T4Pb002zjh46v5YKC9VjY4Ydpys=
+
+Name: assets/build/img/effect/s_poison.png
+SHA1-Digest: PdaDdgMfRRZqhGwZNNjCZMt0SP0=
+
+Name: assets/build/img/item/s11.png
+SHA1-Digest: uHmRE9CNy3w7SeG2qpUwaVkFUSQ=
+
+Name: assets/build/img/effect/ag.png
+SHA1-Digest: Yn9E+IppP6fm/en91vENl8Y3hnw=
+
+Name: assets/build/img/bg/relicbg.jpg
+SHA1-Digest: eQuwkvMUtHScNF1O99GkZGlj+gA=
+
+Name: assets/build/img/bg/sliverbg.png
+SHA1-Digest: XIP7u7gpQ4JyHskL8FYQt2FXq/o=
+
+Name: assets/build/img/hero/92.png
+SHA1-Digest: sWRVVfo9IImqD1HceVM14ZU5J1Q=
+
+Name: assets/build/img/flag/78.png
+SHA1-Digest: WHH/FIBuqCpzBWUI11XioEzWmqM=
+
+Name: assets/build/img/effect/xjs.png
+SHA1-Digest: UFR4n5wFHjLZcT280GO9Gz4+JJk=
+
+Name: assets/build/htmls.js
+SHA1-Digest: 8wk7w9+evw8SQeswkpc5G8XeMeg=
+
+Name: assets/build/img/misc/notice.png
+SHA1-Digest: pXVzrEHE4J4Uhhx8Djha9WVbU10=
+
+Name: assets/build/translation/pt/questguide.js
+SHA1-Digest: jAEXyX2Svnr0XLj4tHswEFGbYUM=
+
+Name: assets/build/img/map/a70.png
+SHA1-Digest: WXbtDaTBKzuBV55ZfTpzUpkMsDU=
+
+Name: assets/build/img/hero/146.png
+SHA1-Digest: xCs9j9pJGtabLa0DGBFMELkG9eo=
+
+Name: assets/build/img/flag/115.png
+SHA1-Digest: +alPpIhC2xPwGHFd6g/q0ZdU4MY=
+
+Name: assets/build/img/hero/8.png
+SHA1-Digest: McM1t4QI4Td/mB0bPAPWKb6MC/c=
+
+Name: assets/build/img/flag/92.png
+SHA1-Digest: nuHLS9UeO2ocjCleimM0vS97BIg=
+
+Name: assets/build/translation/en/lng.js
+SHA1-Digest: xHpFoCCcWVDQHssxC1ddvrNU7H8=
+
+Name: assets/build/img/item/gift5.png
+SHA1-Digest: WPR8tgQPUkaZvGTAN+Kt0g0IRFI=
+
+Name: assets/build/img/facility/i6.jpg
+SHA1-Digest: RLamVynNuIqtn4eBgP8+ehUbSBg=
+
+Name: assets/build/img/hero/53.png
+SHA1-Digest: uR1zhTEH6iZH/iZO/U9WfLzR1q0=
+
+Name: assets/build/img/flag/40.png
+SHA1-Digest: iPzErObQKLXXKB5u7Rl4Q3NWL1k=
+
+Name: assets/build/img/map/relic/a4.png
+SHA1-Digest: UH2K56ZQvOkx1ygRhmtrEthbLyo=
+
+Name: assets/build/img/item/w5.png
+SHA1-Digest: MEktKW9DZgTCYRtsI18IJqrYsJM=
+
+Name: assets/build/img/item/gasup.png
+SHA1-Digest: pEEEPpOUt8eofvHCT0cHSNyv4Sc=
+
+Name: assets/build/img/item/a18.png
+SHA1-Digest: sELEWV0kMi5PF9LthcxVfkr2Llo=
+
+Name: assets/build/translation/en/autogen/item_data.js
+SHA1-Digest: CM4c0v2TVS6B5QjmdDByoRbG3sE=
+
+Name: assets/build/img/map/t14.jpg
+SHA1-Digest: 58NF5oGTPf1dFpCx4qWfjznzhWU=
+
+Name: assets/build/img/map/t5.jpg
+SHA1-Digest: Vav1Bv0xIS1oZzJRuf2Yomb9P8I=
+
+Name: assets/build/img/item/w23.png
+SHA1-Digest: x0DYTHFysS/Tbe3dCAoYPyjY9yM=
+
+Name: assets/build/img/item/h8.png
+SHA1-Digest: VrM1fHrHvZ1EQfh5Mtct61HA8cE=
+
+Name: assets/build/img/frame/message_bg.png
+SHA1-Digest: zT/1UmFM6AIuX8m/psxx31sV+Vw=
+
+Name: assets/build/img/hero/154.png
+SHA1-Digest: qaFTWBeQljMkub+v5YYHAzihgzg=
+
+Name: assets/build/img/menu/rank10.png
+SHA1-Digest: 9YcnMMH0UGbLd/rhMIPtNxSylvI=
+
+Name: assets/build/img/flag/53.png
+SHA1-Digest: i3GZaX4i01EWBfC8mP+sFAI3FwE=
+
+Name: assets/build/img/map/relic/a2.png
+SHA1-Digest: MvD7OQ4PwV48SYRCZNYYkaeX11c=
+
+Name: assets/build/img/item/a2.png
+SHA1-Digest: qg66WZ0NWM5KhlMfwwbYyxY6J2k=
+
+Name: assets/build/img/facility/2.png
+SHA1-Digest: QtRzwmVF523TiBn2ef2W9G2t8XA=
+
+Name: assets/build/img/facility/i11.jpg
+SHA1-Digest: BFeGXRgdiBAg2D4NDRg8/hfXlxs=
+
+Name: assets/build/img/flag/32.png
+SHA1-Digest: yGOrAHxAe2++JlnATUzzbnur/KE=
+
+Name: assets/build/translation/de/campaign.js
+SHA1-Digest: Ws7opeXCCoEpCfq2yzyaU1/cSPM=
+
+Name: assets/build/img/flag/70.png
+SHA1-Digest: uaGr7Epul2YbPSmKxFJC7OUss1Q=
+
+Name: assets/build/img/item/a5.png
+SHA1-Digest: aWiQ7ssGoyW18o1Igi9sFW4AEOQ=
+
+Name: assets/build/img/item/s29.png
+SHA1-Digest: uNVcnLgyTVHzucWegmihThwGcRg=
+
+Name: assets/build/img/item/h17.png
+SHA1-Digest: c/dTcUXytkJ0aCk/wdmaU8vCy5A=
+
+Name: assets/build/img/bg/colony.jpg
+SHA1-Digest: ZZu5U9TBb5f2MRUW+NSzZJyksTk=
+
+Name: assets/build/img/hero/115.png
+SHA1-Digest: 5GVcyfWB0kAgonaQmvMLhmPlfMo=
+
+Name: assets/build/img/button/arrow_g.png
+SHA1-Digest: rwI3hljX/fcN4lUiX8/uTzcUfAg=
+
+Name: assets/build/img/hero/2.png
+SHA1-Digest: EGs9383IDqFDofStjtKp5zWLBBU=
+
+Name: assets/build/img/item/h15.png
+SHA1-Digest: Q7JLibXjUtJJlsCorfql5jPxRKQ=
+
+Name: assets/build/img/flag/30.png
+SHA1-Digest: sIn5iTyb+CuY1l9/de62ECtP7FA=
+
+Name: assets/build/img/frame/block_white.png
+SHA1-Digest: ZEDdtG1Vh3CKeDPvcp2QhZsSy0U=
+
+Name: assets/build/img/hero/4_3.png
+SHA1-Digest: HS8QSuIRxxtV3tO9oLpx8kCiA9c=
+
+Name: assets/build/img/button/goal1.gif
+SHA1-Digest: pEKDjVLJBTb0SPMinLIqLonhoek=
+
+Name: assets/build/img/hero/a4.png
+SHA1-Digest: NMSrq65Qdzj5sUx3mzvte7mMRqc=
+
+Name: assets/build/img/bg/bg_tip3.png
+SHA1-Digest: DMiU+Jz5blcvxSZ2sECPev6ooJg=
+
+Name: assets/build/img/menu/menu_task.png
+SHA1-Digest: A3BlRTRiYgInk37hntZjclvZGeA=
+
+Name: assets/build/img/hero/160.png
+SHA1-Digest: dX3W2L8M3h/2mtON3gRQyMmT9HI=
+
+Name: assets/build/translation/cht/campaign.js
+SHA1-Digest: Ejv4FqUzerWkWLQDmHd3/550vIA=
+
+Name: assets/build/img/map/boss3.png
+SHA1-Digest: X1sRs6cebHOKHzXAw2Pc/IeowbQ=
+
+Name: assets/build/img/map/relic/b7.png
+SHA1-Digest: E5KWzXYXU54Rvd7aS7TIVfAM8yA=
+
+Name: assets/build/img/hero/169.png
+SHA1-Digest: anTOkANj7ZAX9LCpEGhzuKtKsjs=
+
+Name: assets/build/img/hero/68.png
+SHA1-Digest: A/aY7Pk3SpzNUGphcNZZ4A9mseg=
+
+Name: assets/build/img/item/w14.png
+SHA1-Digest: vbbMctn8ta/aPq/tjyYvzkB2+LA=
+
+Name: assets/build/img/flag/130.png
+SHA1-Digest: M/7PHMjxa7FALlECHRZfxlHs5DQ=
+
+Name: assets/build/img/item/i22.png
+SHA1-Digest: JD9bcpqPWNMRY/ygpmsHzbIqhiQ=
+
+Name: assets/build/img/flag/62.png
+SHA1-Digest: KmqFERyrIP7NXWICKtb+34nzqLQ=
+
+Name: assets/build/img/flag/28.png
+SHA1-Digest: gNDQQFTG+3T2OumSmSfl2WBOaUE=
+
+Name: assets/build/img/map/boss1.png
+SHA1-Digest: i59ocqdoZLj2HxDEzG4BZ8BX5pI=
+
+Name: assets/build/img/hero/109.jpg
+SHA1-Digest: fd9zEcK4FCchEmL6pvpnrM3MHFg=
+
+Name: assets/build/img/item/w12.png
+SHA1-Digest: s0NQd9u2QJzJWBNUU+dbR3MgVMY=
+
+Name: assets/build/img/hero/98.png
+SHA1-Digest: MLUnmsapNtZW+I8rNphg4DOONbQ=
+
+Name: assets/build/img/button/facebook.png
+SHA1-Digest: HuzfabZJVh5z1MhE6i/RyJ6CPrE=
+
+Name: assets/build/img/effect/emzc.png
+SHA1-Digest: VGYdcjP9Q9AcZKA8oIVgTj+7l/I=
+
+Name: assets/build/img/hero/85.png
+SHA1-Digest: Pgsf9/9dVHoXF0lzJk0TSEtpz7g=
+
+Name: assets/build/img/item/S.png
+SHA1-Digest: UFINWEIU/E17fkYCSa59J9LBSz8=
+
+Name: assets/build/translation/chs/autogen/quest_data.js
+SHA1-Digest: XEbxQIecMTutmB+hovd1VKFr5wA=
+
+Name: assets/build/img/effect/dl.png
+SHA1-Digest: +2VpZWOLbMf0Q0QQ5itQ14+Pu5o=
+

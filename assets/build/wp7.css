@@ -1,0 +1,450 @@
+div{
+background-size:100% auto;
+}
+li{
+background-size:100% auto;
+}
+#f_lottery_btstart
+{
+	background-size:100% auto;
+}
+
+/*commin.css*/
+.btOp
+,.glob_cdItem
+,.glob_panel .panel_top
+,.glob_panel .panel_body
+,.glob_panel .panel_bottom{
+	background-size:auto auto;
+}
+/******/
+.seperator{
+	background-size:auto 100%
+}
+/******/
+.photo{
+	width: 100%; 
+	height: 100%;
+}
+
+ #selectproxy_panel .selectproxy_panel_content .selectproxy_panel_innerview_top
+,#selectproxy_panel .selectproxy_panel_content .selectproxy_panel_innerview
+ ,#selectproxy_panel .selectproxy_panel_content .selectproxy_panel_innerview_bottom
+ {
+	 background-size:auto auto;
+ }
+
+/******/
+.main_menu_newimg{
+	width:19px;height:18px;
+}
+/******/
+.guide_brink_block tr{
+	width:100%;height:100%
+}
+.guide_brink_block tr td{
+	width:100%;height:100%
+}
+/*main.css*/
+.reshead li em.clock 
+,.c_menu_left 
+,.c_menu_left_user 
+,.c_menu_middle 
+,.c_menu_middle_user
+,.c_menu_right 
+,.c_menu_right_user 
+,.builder_cditem .cdItem
+,.f_menu_merchant .cdtime
+,.f_menu_regiment .formation_list .formation_list_item .cdtime
+,.item_manager_gear .steengthen .cdlist
+,.legion_list .legion_list_body .legion_list_item
+,.f_all_hero_regiment .formation_list .formation_list_item .cdtime
+,#campaign_panel .historylist li>.clock
+,#campaign_panel .historylist li>.score
+,#campaign_panel .historylist li>.score>.innerscore{
+	background-size:auto auto;
+}
+
+/******/
+.f_menu_recruit .f_menu_hero  .hero_rank_bar 
+,.f_menu_recruit .f_menu_hero  .hero_rank_bar>div 
+,.email_inbox .list .title
+,.level_up{
+	background-size:auto 100%
+}
+
+
+.content
+{
+background-size:100% 100%;
+}
+#f_race_war
+{
+background-size:100% 100%;
+}
+/******/
+#guide_infonpc{
+	width:148px ;
+	height:180px
+}
+
+/*f_main.html*/
+#globTable #globTable_top
+,#globTable #globTable_body
+,#globTable #globTable_bottom
+{
+	background-size:auto auto;
+}
+
+/*f_battlescene1.html*/
+#battle_effect div{
+background-size:auto 60px;
+}
+
+/******/
+#vsImage{
+	width:201px;
+}
+.flagimg
+{
+	background-size:100% auto;
+}
+#name_flag em
+{
+background-size:100% auto;
+}
+#u_legion em
+{
+background-size:100% auto;
+}
+.equiinfo_list_row em
+{
+background-size:100% auto;
+}
+
+/*f_city.html*/
+#f_city_tbar  #aCdlist
+,.buffdiv_open
+,.buffdiv_close
+,#f_city_gift ul li.gift2 .img
+{
+	background-size:auto auto;
+}
+#relic_entry{
+	background-size:auto auto;
+	background-position: bottom center;
+	top:223px;
+	left:157px
+	width:190px;
+    height:90px;
+	position:absolute;
+}
+/******/
+.map{
+	background-size:auto 100%
+}
+
+/******/
+#f_city_cddiv{
+	width:120px;
+}
+
+/******/
+#f_city_gift .race_war .img{
+	background-size:80%;
+}
+
+
+/*f_campaign.html*/
+.f_mapwar_info_diff{
+	background-size:auto auto;
+}
+
+/******/
+#campaignmap_ui .npc .score
+,#campaignmap_ui .npc .score .innerscore
+,#f_mapwar_boss_info .f_mapwar_boss_info_list_info .innercontain{
+	background-size:auto 100%
+}
+
+/******/
+#f_city_cddiv{
+	width:150px;
+}
+
+
+/*f_menu_research_lab.html*/
+#research_cditem{
+	background-size:auto auto;
+}
+
+
+/*f_race_war.html */
+#f_race_war_time .cdtime{
+	background-size:auto auto;
+}
+
+/******/
+.f_race_war_body_list{
+background-size\0/*IE9 IE8*/:90% 3px;
+}
+.legion .empty
+{
+	width:25px;
+	background-size:100% auto;
+	/*background-size:100% 100% */
+}
+
+/*f_relic.html*/
+.f_relic_info_time .cditem{
+	background-size:auto auto;
+}
+
+
+/*f_tips.html*/
+.bigactivity_item .starttime{
+	background-size:auto auto;
+}
+
+/******/
+#f_tips h3{
+	background-size:auto auto;
+	height:20px;
+}
+
+/*f_war_manager.html*/
+.rank_list .cdtime{
+	background-size:auto auto;
+}
+
+
+/*f_hero_manager.html*/
+.hero_manager_reinc>div .seperator11{
+	background-size:auto 100%
+}
+
+/*f_legion_manager.html*/
+#name_flag{
+	width:auto;
+}
+
+
+/*f_shop.html*/
+.hero .photodv .photo3{
+ background-size:10px 10px;
+}
+.hero_list .hero_list_item .photodv .photo{
+width: 100%; 
+height: 100%;
+}
+
+#f_mapwar_boss_info
+{
+	background-size:100% 100%;
+}
+
+.reshead li em.legion
+{
+	background-size:100% auto;
+}
+
+
+    .active .quest_top {
+margin-left:5px;
+    }
+    .active .quest_body {
+
+margin-left:5px;
+    }
+    .active .quest_bottom {
+margin-left:5px;
+    }
+
+	.closebutton
+	{
+	background-size:auto auto;
+	}
+	
+	
+	.f_city_command
+	{
+	background-size:221px 292px;
+	}
+	.f_city_wall
+	{
+	background-size:81px 139px;
+	}
+	.f_city_house
+	{
+	background-size:156px 78px;
+	}
+	.f_city_sawmill
+	{
+	background-size:158px 132px;
+	}
+	.f_city_storage
+	{
+	background-size:154px 106px;
+	}
+	.f_city_arena
+	{
+	background-size:162px 118px;
+	}
+	.f_city_university
+	{
+	background-size:119px 191px;
+	}
+	.f_city_business
+	{
+	background-size:93px 240px;
+	}
+	#target_legion em
+	{
+	background-size:100% 100%;
+	}
+	.leftflag 
+	,.rightflag
+	{
+	background-size:28px 28px;
+	}
+	#campaign_panel .panel_body_content td
+	{
+		text-align:left;
+
+	}
+
+ul.main_menu_row1 li>div img{
+    position:absolute;
+    width:79px;
+    height:30px;
+}
+#main_menu_newquest{
+    width:19px;
+	height:18px;
+}
+
+
+.item_manager_gear .inner_content{
+    position:absolute;
+    top:20px;
+    left:25px;
+    display:none;
+}
+
+
+
+img[src|="img/menu/money.png"] 
+{
+	top:4px;
+	position:relative;
+}
+#f_mapwar_boss_info .f_mapwar_boss_info_list_info .innercontain
+{
+		background-size:auto auto;
+		height: 72px;
+}
+
+#f_mapwar_boss_info .f_mapwar_boss_info_list {
+	height: 228px;
+}
+
+#f_mapwar_boss_info .f_mapwar_boss_info_list_member {
+	height: 228px;
+}
+
+.f_mapwar_boss_info_list_member .innercontain {
+	height: 100%;
+}
+
+.auto_5bf73c9d8ee8fede3456c3929a193153
+{
+top:-15px
+}
+
+#war_win_get
+,#war_win_get table
+{
+width:auto;
+
+}
+#war_win_get table tbody tr td
+{
+
+width:auto;
+}
+.f_menu_train_list_item ul li.name_lvl > div
+{
+	background-size:auto auto
+}
+.content_menu
+{
+padding-left:29px;
+margin-top:1px;
+}
+#relic_entry .auto_043cdaecce264c0115714a9bf69b4d79 
+{
+	position:relative;
+top:10px
+}
+.font12
+{
+	font-family:Helvetica;
+}
+
+.f_rank .rank_list .f_rank_item
+{
+overflow:hidden;
+}
+,.f_rank_conquer .font12 
+,.rank_list .font12 
+{
+	font-size:11px;
+}
+
+.auto_5fdeae51ffd73204f7ff4524bfa11042
+{
+	left:0px;
+}
+
+#divRegister table
+{
+width:90%;
+}
+
+
+#divRegister tr
+{
+	text-align:center;
+}
+
+#divRegister td input [type='text']
+{
+	width:90%;
+	text-align:left;
+	margin-left:5px;
+}
+
+#divRegister td #reg_referer_panel
+{
+width:auto;
+}
+
+
+.auto_f3245119e64116ca03315e4a1bfce405 
+{
+width:288px;
+word-wrap: break-word; 
+word-break: normal; 
+}
+
+
+#story_click
+{
+background-color:rgb(0,0,0);
+opacity:0;
+}
+#guideclick
+{
+	background-color:rgb(0,0,0);
+	opacity:0;
+}

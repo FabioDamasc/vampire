@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_droid_engine_loading">加载中...</string>
+    <string name="com_droid_engine_updating">下载中</string>
+    <string name="com_droid_engine_wait_msg">正在下载游戏更新,请稍等...</string>
+    <string name="com_droid_engine_sure_to_exit_game">确定退出游戏?</string>
+    <string name="com_droid_engine_pp_payment_failed">支付失败!</string>
+    <string name="com_droid_engine_pp_payment_success">支付成功!</string>
+    <string name="com_droid_engine_invalid_parameter">无效的参数!</string>
+    <string name="com_droid_engine_dialog_tips">提示</string>
+    <string name="com_droid_engine_dialog_show_never">不再显示此消息</string>
+    <string name="com_droid_engine_dialog_message">需要创建桌面快捷方式吗？</string>
+    <string name="com_droid_engine_dialog_update_message">需要更新才能继续游戏</string>
+    <string name="com_droid_engine_Cancel">取消</string>
+    <string name="com_droid_engine_OK">OK</string>
+    <string name="com_droid_engine_content_update">更新内容已下载到您的设备，请点击[OK]以完成更新.</string>
+    <string name="com_droid_engine_lng">chs</string>
+</resources>

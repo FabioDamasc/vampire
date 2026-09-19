@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_droid_engine_loading">Загрузка…</string>
+    <string name="com_droid_engine_updating">Скачивается</string>
+    <string name="com_droid_engine_wait_msg">Скачивается обновление игры, пожалуйста подождите…</string>
+    <string name="com_droid_engine_sure_to_exit_game">Вы уверены, что хотите выйти?</string>
+    <string name="com_droid_engine_pp_payment_failed">Ошибка Оплаты!</string>
+    <string name="com_droid_engine_pp_payment_success">Оплата прошла успешно!</string>
+    <string name="com_droid_engine_invalid_parameter">Неверный ввод</string>
+    <string name="com_droid_engine_dialog_tips">Совет</string>
+    <string name="com_droid_engine_dialog_show_never">Больше Советов</string>
+    <string name="com_droid_engine_dialog_message">Создать Ярлык На рабочем Столе?</string>
+    <string name="com_droid_engine_dialog_update_message">Необходимо обновить для того, чтобы продолжить игру.</string>
+    <string name="com_droid_engine_Cancel">Cancel</string>
+    <string name="com_droid_engine_OK">OK</string>
+    <string name="com_droid_engine_content_update">Обновление было скачено на ваше устройство. Нажмите [OK], чтобы принять изменения</string>
+    <string name="com_droid_engine_lng">ru</string>
+</resources>

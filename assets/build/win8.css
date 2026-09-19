@@ -1,0 +1,105 @@
+@media screen  and (max-width: 1440px) { @-ms-viewport { width:768px;height:1004px;}}
+@media screen  and (max-width: 1080px) { @-ms-viewport { width:780px;height:1014px;}}
+@media screen  and (max-width: 800px) { @-ms-viewport { width:768px;height:1004px;}}
+@media screen  and (max-width: 777px) { @-ms-viewport { width:1024px;height:1339px;}}
+@media screen  and (max-width: 768px) { @-ms-viewport { width:768px;height:1004px;}}
+
+.level_up{
+	left:32px;
+	width:700px;
+	margin-left: -0px;
+}
+.infopanel_body p.auto_9937d7e69f5fefefdfb00d993ffc35d6 .font12
+{
+line-height:70px;
+padding-top:5px;
+padding-bottom:5px;
+height:60px;
+width:auto;
+}
+
+.auto_fc2c3a92199043866bbfd6d7b4d33c8d
+{
+min-width:80px;
+}
+
+#guide_infonpc
+{
+top:360px;
+width:160px;
+height:auto;
+}
+#relic_entry
+{
+background-size:47%;
+}
+#f_city_tbar #buylist ul li span
+{
+background-size:31px 24px;;
+}
+
+
+[type="radio"]
+{
+width:16px;
+height:16px;
+}
+[type="text"]
+{
+height:28px;
+font-size:24px;
+}
+
+#reg_account
+,#reg_password
+,#reg_password2
+{
+width:100%;
+}
+
+.main_menu_newimg{
+    animation-name: emailRun;
+   animation-duration:1s;
+    animation-timing-function: linear;
+   animation-iteration-count:infinite;
+   width:46px;
+   height:auto;
+}
+#main_menu_newquest
+{
+  width:46px;
+   height:auto;
+}
+@keyframes emailRun{
+ 0% { transform: scale(1);transform: scale(1); }
+ 50% {transform: scale(0); transform: scale(0);}
+ 100% { transform: scale(1); transform: scale(1);}
+}
+
+.infopanel_body p
+{
+font-size:24px;
+}
+
+.infopanel_body
+{
+width:590px;
+padding:0px 30px  0px 30px;
+}
+#f_mapwar_boss_info .f_mapwar_boss_info_list
+{
+	bottom:60px;
+}
+.auto_d55f575619878e7e397d39b134db9b5c
+{
+margin-top:80px;
+}
+.auto_802445ae1af1c3de663ff80e1e1d3140
+{
+left:100px;
+}
+
+.maxbutton
+{
+width:46px;
+}

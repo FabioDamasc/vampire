@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <id name="com_droid_engine_browWebView" />
+    <id name="com_droid_engine_frameLayout_main" />
+    <id name="com_droid_engine_wv1_LinearLayout" />
+    <id name="com_droid_engine_wv1" />
+    <id name="com_droid_engine_frameLayout1" />
+    <id name="com_droid_engine_imageView1" />
+    <id name="com_droid_engine_linearlayout_logo" />
+    <id name="com_droid_engine_imageView2" />
+    <id name="com_droid_engine_progressBar1" />
+    <id name="com_droid_engine_text_progress" />
+</resources>

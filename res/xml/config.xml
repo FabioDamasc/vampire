@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <boolean name="DEBUG" value="false" />
+    <boolean name="OLD_GAME_SUPPORT" value="false" />
+    <boolean name="ENABLE_PAYCENTER" value="true" />
+    <boolean name="ENABLE_SYSCODE" value="true" />
+    <boolean name="ENABLE_THIRDPLATFORM" value="false" />
+    <boolean name="ENABLE_INCESSANTLY" value="true" />
+    <boolean name="ENABLE_PORTRAIT" value="true" />
+    <boolean name="ENABLE_FULLSCREEN" value="false" />
+    <string name="ROOT_UPDATE" value="/data/data/com.vampire.pt/files/build/" />
+    <string name="SERVER_VALUE" value="http://m.vampire-war.com" />
+    <string name="PATH_DEBUG_SERVER_VER" value="http://172.16.10.185/update/m.vampire-war.com/md5ver.dat" />
+    <string name="LANGUAGE" value="pt" />
+    <string name="PRODUCT" value="VW-DROID-PT" />
+</config>

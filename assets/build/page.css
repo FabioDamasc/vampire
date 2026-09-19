@@ -1,0 +1,3090 @@
+/*f_battlescene1*/
+.battlescene_img1 {
+	height: 42px;
+	width: 42px;
+}
+
+.battlescene_imgstatus1 {
+	width: 16px;
+}
+
+.battlescene_unit1 {
+	position: absolute;
+	height: 60px;
+	width: 42px;
+}
+
+.battlescene_unit1 .rage {
+	position: absolute;
+	width: 38px;
+	height: 5px;
+	background-color: green;
+	left: 1px;
+	top: 35px;
+	border: solid 1px #0721a9;
+	background-color: #6d6d6d;
+	-webkit-border-radius: 2px;
+	border-radius: 3px;
+}
+
+.battlescene_unit1 .rage {
+	height: 5px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.battlescene_unit1 .rage>div {
+    /*transition-property:background-color;
+    transition-duration:.3;*/
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background-color: #048cff;
+	height:5px;
+}
+
+.battlescene_unit_txt1 {
+	position: absolute;
+	width: 42px;
+	font-family: arial, verdana, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+	text-align: center;
+	top: 42px;
+	left: 0px;
+}
+
+.battlescene_info {
+	position: absolute;
+	width: 60px;
+	font-family: arial, verdana, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align: center;
+	background-image: url(img/bg/bg_tip3.png);
+	background-repeat: repeat;
+}
+
+.battlescene_bg {
+	background-image: url('img/frame/formation.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 200px;
+	height: 200px;
+	-webkit-box-shadow: none;
+}
+
+.battlescene_u_bg {
+	background-image: url('img/frame/formation_u.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 200px;
+	height: 200px;
+	-webkit-box-shadow: none;
+}
+
+.battle_upname_base {
+	width: 320px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 14px;
+	font-weight: bold;
+	color: white;
+    /*background-color:#fff;*/
+	background-image: url(img/bg/transparent.png);
+	background-repeat: repeat;
+	text-align: center;
+	position: absolute;
+}
+
+#battle_upname {
+	left: 0px;
+	top: 160px;
+	-webkit-animation-name: upRun;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: 1;
+	z-index: 100;
+}
+
+@-webkit-keyframes upRun {
+	0% {
+		left: -320px;
+	}
+
+	50% {
+		left: -160px;
+	}
+
+	100% {
+		left: 0px;
+	}
+}
+
+#battle_downname {
+	left: 0px;
+	bottom: 160px;
+	-webkit-animation-name: downRun;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: 1;
+	z-index: 100;
+}
+
+@-webkit-keyframes downRun {
+	0% {
+		left: 320px;
+	}
+
+	50% {
+		left: 160px;
+	}
+
+	100% {
+		left: 0px;
+	}
+}
+
+/*f_battlescene2*/
+
+.battlescene_regiment {
+	height: 90px;
+	width: 90px;
+}
+
+.battlescene_img1 {
+	height: 42px;
+	width: 42px;
+}
+
+.battlescene_imgstatus1 {
+	width: 15px;
+}
+
+.battlescene_unit1 {
+	position: absolute;
+	height: 30px;
+	width: 30px;
+}
+
+.battlescene_unit_txt1 {
+	position: absolute;
+	width: 42px;
+	height: 15px;
+	font-family: arial, verdana, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 15px;
+	/*background-image: url(img/bg/transparent.png);*/
+	background-repeat: repeat;
+	top: 42px;
+	left: 0px;
+}
+
+.battlescene_info {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	font-family: arial, verdana, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align: center;
+	background-image: url(img/bg/bg_tip3.png);
+	background-repeat: repeat;
+	display: none;
+}
+
+.battle_name {
+	width: 90px;
+	line-height: 30px;
+	color: white;
+    /*background-color:#fff;
+    background-image: url(img/bg/transparent.png);
+  	background-repeat: repeat;
+  	*/
+	text-align: center;
+}
+
+.battle_broadcast {
+	height: 30px;
+	line-height: 30px;
+	font-size: 12px;
+	font-weight: bold;
+	color: white;
+    /*background-color:#fff;
+    background-image: url(img/bg/transparent.png);
+  	background-repeat: repeat;
+  	*/
+	text-align: center;
+}
+
+/*f_buff_page*/
+
+ /*f_campaign_page*/
+
+#campaignmap_panel {
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 0px;
+	top: 60px;
+	width: 100%;
+	height: 400px;
+
+}
+
+#campaignmap_panel .inner_container {
+	width: 100%;
+	position: relative;
+	height: 400px;
+}
+
+#campaigninfo_panel {
+	position: absolute;
+	top: 0px;
+	width: 100%;
+}
+
+#campaigninfo_panel .mapname {
+	font-size: 14px;
+	color: yellow;
+	font-weight: bold;
+}
+
+#campaigninfo_panel #btnClose {
+	float: right;
+}
+
+#campaigninfo_panel .mapprogress {
+	color:white;
+}
+
+#navigan_panel {
+	width: 100%;
+	background-image: url(img/bg/transparent.png);
+	color: #fff;
+	position: absolute;
+	bottom: 90px;
+}
+
+#leftarrow {
+	float: left;
+	width: 28px;
+	height: 27px;
+	background-image: url("img/button/arrow_l.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#rightarrow {
+	float: right;
+	width: 28px;
+	height: 27px;
+	background-image: url("img/button/arrow_r.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#leftname {
+	float: left;
+	display: block;
+}
+
+#rightname {
+	float: right;
+	display: block;
+}
+
+#campaignmap_ui {
+	width: 100%;
+	height: 400px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+#campaignmap_ui .move {
+	width: 640px;
+	height: 400px;
+	background-image: url(img/map/t1.jpg);
+}
+
+#campaignmap_ui .npcactive {
+     	/*
+         -webkit-animation-name: npc_active_button;
+        -webkit-animation-duration: 6s;
+        -webkit-animation-timing-function: linear;
+        -webkit-animation-iteration-count: infinite;
+      */
+	-webkit-box-shadow: 0px 0px 50px yellow;
+	border: solid 1px yellow;
+        /*border-radius:15px;*/
+}
+
+@-webkit-keyframes npc_active_button {
+	0% {
+		-webkit-box-shadow: 0px 0px 10px #fff;
+		border: solid 1px #fff;
+		color: #fff;
+	}
+
+	50% {
+		-webkit-box-shadow: 0px 0px 100px yellow;
+		border: solid 1px yellow;
+		color: yellow;
+	}
+
+	100% {
+		-webkit-box-shadow: 0px 0px 10px #fff;
+		border: solid 1px #fff;
+		color: #fff;
+	}
+}
+
+#campaignmap_ui .npc {
+	position: absolute;
+	width: 35px;
+	height: 35px;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#campaignmap_ui .npc .select {
+}
+
+#campaignmap_ui .npc .score {
+	background-image: url(img/misc/star1_d.png);
+	height: 13px;
+	width: 75px;
+	pointer-events: none;
+	position: absolute;
+	bottom: -6px;
+}
+
+#campaignmap_ui .npc .score .innerscore {
+	background-image: url(img/misc/star1.png);
+	height: 13px;
+}
+
+#campaignmap_ui .boss {
+	position: absolute;
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 45px;
+	height: 45px;
+}
+
+#campaignmap_ui .boss1 {
+	background-image: url(img/map/boss1.png);
+}
+
+#campaignmap_ui .boss2 {
+	background-image: url(img/map/boss2.png);
+}
+
+#campaignmap_ui .boss3 {
+	background-image: url(img/map/boss3.png);
+}
+
+#f_mapwar_boss_info {
+	position: absolute;
+	left: 0px;
+	top: 60px;
+	width: 320px;
+	height: 320px;
+	background-color: #ccc;
+	background-image: url(img/frame/content320_320.png);
+	background-repeat: no-repeat;
+}
+
+#f_mapwar_boss_info>div {
+	position: relative;
+	width: 320px;
+	height: 320px;
+}
+
+#f_mapwar_boss_info .f_mapwar_boss_info_list {
+	position: absolute;
+	width: 160px;
+	height: 240px;
+	left: 3px;
+	bottom: 10px;
+	color: white;
+        /*background-image: url(img/frame/line_v.png);
+        background-repeat: repeat-y;
+        background-position: right top;*/
+}
+#f_mapwar_boss_info .f_mapwar_boss_info_list_item .quest_top,#f_mapwar_boss_info .f_mapwar_boss_info_list_item .quest_body,#f_mapwar_boss_info .f_mapwar_boss_info_list_item .quest_bottom{
+    width: 160px;
+}
+
+#f_mapwar_boss_info .f_mapwar_boss_info_list_info {
+	position: absolute;
+	width: 320px;
+	height: 60px;
+	left: 0px;
+	top: 5px;
+}
+
+#f_mapwar_boss_info .f_mapwar_boss_info_list_info .innercontain {
+	position: relative;
+	width: 310px;
+	height: 60px;
+	margin: 5px auto;
+	background-image: url(img/frame/line.png);
+	background-repeat: repeat-x;
+	background-position: bottom left;
+}
+
+#f_mapwar_boss_info .f_mapwar_boss_info_list_member {
+	position: absolute;
+	width: 150px;
+	height: 240px;
+	bottom: 10px;
+	right: 5px;
+}
+
+.f_mapwar_boss_info_list_member .innercontain {
+	position: relative;
+	width: 150px;
+	height: 240px;
+	left: 0;
+	top: 0;
+}
+
+.quest_top {
+         /*margin-top:5px;*/
+}
+
+.quest_body {
+}
+
+.active .quest_top {
+	background-image: url(img/frame/top_160.png);
+	background-repeat: no-repeat;
+	height: 5px;
+}
+
+.active .quest_body {
+        /*background-color:#4b818f;
+        -webkit-box-shadow: 0px 0px 10px #97d7de;*/
+	background-image: url(img/frame/mid_160.png);
+}
+
+.active .quest_bottom {
+	background-image: url(img/frame/bottom_160.png);
+	background-repeat: no-repeat;
+	height: 5px;
+}
+
+.f_mapwar_boss_info_list_item  .reshead .uname {
+	display: inline-block;
+	width: 49px;
+	overflow: hidden;
+}
+
+.f_mapwar_boss_info_list_member .member_list {
+	height: 210px;
+}
+
+.f_mapwar_boss_info_list_member .funcbuttonlist {
+	position: absolute;
+	right: 5px;
+	bottom: 0px;
+	width: 200px;
+}
+
+.f_mapwar_boss_info_list_member .funcbuttonlist .funcbutton {
+	float: right;
+}
+
+#war_create_panel {
+	position: absolute;
+	left: 20px;
+	top: 100px;
+}
+
+.f_mapwar_info_diff {
+	background-image: url(img/misc/star1.png);
+	background-repeat: repeat-x;
+	background-position: left center;
+	height: 20px;
+	width:15px;
+    max-width: 90px;
+}
+
+.navigan_animation_lessen {
+	opacity: 0.5;
+	-webkit-transition-property: opacity;
+	-webkit-transition-duration: 0.5s;
+	-webkit-transition-timing-function: ease-in;
+}
+
+.member_list_contain {
+	margin-top: 5px;
+}
+ /*f_chat_page*/
+
+.chatframe {
+	height: 40px;
+	width: 290px;
+	background-image: url(img/frame/kuang.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.mychannel_select {
+	z-index: 2;
+	position: absolute;
+	font-size: 12px;
+	font-weight: bold;
+	color: white;
+	font-family: arial, verdana, sans-serif;
+	text-decoration: none;
+	display: block;
+	width: 75px;
+	padding: 3px;
+	background-color: #283941;
+}
+    /*f_city_page*/
+
+
+.f_city_dep {
+	width: 100%;
+	margin: 0 auto;
+	text-align: left;
+	clear: both;
+}
+
+.f_city_dep h3 {
+	text-align: center;
+	background-image: url(img/bg/transparent.png);
+	background-image: url(img/bg/transparent.png);
+}
+
+.f_city_deptemplate {
+	margin-bottom: 3px;
+}
+
+.f_city_deptemplate .photo {
+	width: 60px;
+	height: 60px;
+	margin: 0 auto;
+}
+
+.f_city_deptemplate .photo>div {
+	background-image: url(img/misc/mask.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 60px;
+	width: 60px;
+}
+
+.f_city_deptemplate .info {
+	width: 160px;
+	line-height: 12px;
+}
+
+#f_city_tbar {
+	height: 18px;
+	position: absolute;
+	left: 0px;
+	top: 60px;
+            /*background-image:url(img/bg/transparent.png);*/
+	background-repeat: repeat;
+	margin: 0px;
+            /*padding-top:4px;
+            padding-bottom:2px;*/
+	padding: 0px;
+	height: 18px;
+	width: 320px;
+}
+
+#f_city_cddiv {
+}
+
+#f_city_tbar .cdlist {
+            /*position:absolute;*/
+	text-align: left;
+	padding: 0px;
+	margin: 0px 0 0 0;
+	padding-left: 0;
+	min-width: 100px;
+	overflow: hidden;
+	height: auto;
+}
+
+#f_city_tbar .cdlist .cdItem {
+	vertical-align: middle;
+            /*float:left;
+            clear:both;*/
+	background-image: url(img/bg/transparent.png);
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	width: auto;
+}
+
+#f_city_tbar .cdlist .cdItem * {
+	display: inline-block;
+	height: 19px;
+	line-height: 19px;
+	vertical-align: middle;
+	margin-bottom: 3px;
+	margin-right: 3px;
+}
+
+#f_city_tbar .cdlist .cdItem img {
+	width: 13px;
+	height: 11px;
+	border: 0;
+	vertical-align: middle;
+	margin-top: -1px;
+}
+
+#f_city_tbar .cdlist p {
+	padding: 0;
+	margin: 0;
+}
+
+#f_city_tbar  #aCdlist {
+	width: 40px;
+	height: 20px;
+	display: block;
+	background-position: 6px 3px;
+	background-repeat: no-repeat;
+}
+
+#f_city_tbar .f_city_cdlist_open #aCdlist {
+            /*background-image:url('img/button/drop_up.bmp');*/
+	background-image: url('img/button/minus.png');
+}
+
+#f_city_tbar .f_city_cdlist_open .cdlist {
+	display: block;
+}
+
+#f_city_tbar .f_city_cdlist_open #buylist {
+	display: block;
+}
+
+#f_city_tbar .f_city_cdlist_close #aCdlist {
+            /*background-image:url('img/button/drop_down.bmp');*/
+	background-image: url('img/button/plus.png');
+}
+
+#f_city_tbar .f_city_cdlist_close .cdlist {
+	display: none;
+}
+
+#f_city_tbar .f_city_cdlist_close #buylist {
+	display: none;
+}
+
+#f_city_tbar #buylist {
+	float: left;
+	width: auto;
+	overflow: hidden;
+	height: auto;
+}
+
+#f_city_tbar #buylist ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	width: auto;
+}
+
+#f_city_tbar #buylist ul li {
+	text-align: center;
+	display: block;
+	width: auto;
+	float: left;
+	clear: left;
+	height: 18px;
+	line-height: 18px;
+	vertical-align: middle;
+	background-image: url(img/bg/transparent.png);
+}
+
+#f_city_tbar #buylist ul li span {
+	display: inline-table;
+	padding-right: 25px;
+	background-image: url(img/button/promote.png);
+	background-position: right center;
+	background-repeat: no-repeat;
+}
+
+.map {
+	width: 941px;
+	height: 480px;
+	position: relative;
+	background-image: url('img/map/b1.jpg');
+	-webkit-transform: translate3d(-312px,0,0);
+	-ms-transform: translate(-312px,0,0);
+            /* 圆角 */
+            /*
+            -moz-border-radius: 3px;
+            -webkit-border-radius: 3px;
+            border-radius: 3px;
+            */
+            /*阴影*/
+            /*
+            -webkit-box-shadow: 0 -1px 2px #292929;
+
+
+
+            -moz-border-top-colors: #292929 white;
+            -moz-border-right-colors: #292929 white;
+            -moz-border-bottom-colors: #292929 white;
+            -moz-border-left-colors: #292929 white;
+            -webkit-border-top-colors: #292929 white;
+            -webkit-border-right-colors: #292929 white;
+            -webkit-border-bottom-colors: #292929 white;
+            -webkit-border-left-colors: #292929 white;
+            */
+}
+
+.mapfont div {
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.mapnofont div {
+	color: transparent;
+	font-size: 0px
+}
+
+.map div {
+	position: absolute;
+	padding: 0;
+	margin: 0;
+	left: 0;
+	top: 0;
+	font-size: 12px;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.map .bd {
+	border: solid 1px blue;
+}
+
+.map div.nofont p {
+	display: none;
+}
+
+.map div p {
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	display: block;
+	text-align: center;
+}
+
+.map div p span {
+	background-image: url(img/bg/transparent.png);
+            /*font-weight:bold;*/
+	background-repeat: repeat;
+}
+
+.map div p x {
+	background-image: url(img/bg/transparent.png);
+	background-repeat: repeat;
+}
+
+.map .f_city_sawmill {
+	top:272px;
+	left:628px;
+	width: 158px;
+	height: 132px;
+	line-height: 158px;
+}
+
+.map .f_city_house {
+	top:302px;
+	left:210px;
+	width: 156px;
+	height: 78px;
+	line-height: 78px;
+}
+
+.map .f_city_storage {
+	top:280px;
+	left:781px;
+	width: 154px;
+	height: 106px;
+	line-height: 106px;
+}
+
+.map .f_city_command {
+	top:90px;
+	left:373px;
+	width: 221px;
+	height: 292px;
+	line-height: 292px;
+}
+
+.map .f_city_university {
+	top:57px;
+	left:615px;
+	width: 119px;
+	height: 191px;
+	line-height: 191px;
+}
+
+.map .f_city_arena {
+	top:273px;
+	left:38px;
+	width: 162px;
+	height: 118px;
+	line-height: 118px;
+}
+
+.map .f_city_wall {
+	top:160px;
+	left:67px;
+	width: 81px;
+	height: 139px;
+	line-height: 139px;
+}
+
+.map .f_city_business {
+	top:1px;
+	left:762px;
+	width: 120px;
+	height: 240px;
+	line-height: 240px;
+	background-position: left top;
+	background-repeat: no-repeat;
+}
+.map .f_city_business p{
+	position:absolute;
+	bottom:50%;
+}
+#f_city_fac_trade p{
+    bottom: 0;
+}
+
+
+       /* .map .f_city_sawmill{           *//*电力厂*//*
+            width:86px;
+            height:58px;
+            line-height:58px;
+        }
+        .map .f_city_ironmine{      *//*炼钢厂*//*
+            width:87px;height:54px;line-height:54px;
+        }
+        .map .f_city_farm{      *//*精炼长*//*
+            width:94px;height:92px;line-height:92px;
+        }
+        .map .f_city_house{     *//*住宅*//*
+            width:88px;height:67px;line-height:67px;
+        }
+        .map .f_city_storage{       *//*仓库*//*
+            width:91px;height:56px;line-height:56px;
+        }
+        .map .f_city_teleporter{       *//*传送阵*//*
+            width:95px;height:55px;line-height:55px;
+        }
+        .map .f_city_command{       *//*指挥中心*//*
+            width:160px;height:169px;line-height:169px;
+        }
+         .map .f_city_university{       *//*研发中心*//*
+            width:100px;height:82px;line-height:82px;
+        }
+         .map .f_city_barrack{       *//*兵工厂*//*
+            width:235px;height:166px;line-height:166px;
+        }
+        .map .f_city_arena{       *//*军事学院*//*
+            width:132px;height:95px;line-height:95px;
+        }
+        .map .f_city_wall{       *//*防御平台*//*
+            width:162px;height:99px;line-height:99px;
+        }
+         .map .f_city_business{       *//*交易中心*//*
+            width:95px;height:78px;line-height:78px;
+        }
+        .map .f_city_decorate{       *//*装饰*//*
+            width:38px;height:30px;
+        }*/
+.map .f_city_decorate * {
+	display: none;
+}
+
+#f_city_buffdiv {
+	float: right;
+	position: relative;
+	background-position: 19px 3px;
+	background-repeat: no-repeat;
+	width: 40px;
+	height: 40px;
+}
+
+.buffdiv_open {
+	background-image: url(img/button/minus.png);
+}
+
+.buffdiv_close {
+	background-image: url(img/button/plus.png);
+}
+
+.buffdiv_open ul {
+	display: block;
+}
+
+.buffdiv_close ul {
+	display: none;
+}
+
+#f_city_buffdiv ul {
+	background-image: url(img/bg/transparent.png);
+	list-style: none;
+	width: 30px;
+	position: absolute;
+	right: 0px;
+	top: 20px;
+	padding: 0;
+	margin: 0;
+}
+
+#f_city_buffdiv ul li {
+	display: block;
+}
+
+#f_city_buffdiv ul li img {
+	width: 30px;
+	height: 30px;
+	border: 0;
+}
+
+#f_city_icon {
+	position: absolute;
+	left: 0px;
+	top: 330px;
+            /*width:10px;*/
+	background-color: transparent;
+            /*display:none;*/
+}
+
+#f_city_icon ul {
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	padding: 0px;
+	margin: 0px;
+	display: block;
+	list-style: none;
+	width: 200px;
+}
+
+#f_city_icon ul li {
+	display: block;
+	width: 48px;
+	height: 48px;
+	float: left;
+}
+
+#f_city_icon ul li .dgift {
+	border: 0;
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 32px;
+	height: 32px;
+}
+#f_city_icon ul li .dgift.animate {
+	-webkit-animation-name: online_gift_animation;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+    /*-webkit-box-shadow: 0px 0px 16px #C4F3FF;*/
+    /*border-radius: 3px;*/
+    /*color: white;*/
+    width: 32px;
+    height: 32px;
+    /*line-height: 26px;*/
+}
+
+@-webkit-keyframes online_gift_animation{
+    0%{
+       /*-webkit-box-shadow: 0px 0px 0px #c4f3ff;*/
+       -webkit-transform: scale(1.0);
+       /*color:yellow;*/
+    }
+    50%{
+        /*-webkit-box-shadow: 0px 0px 23px yellow;*/
+    	-webkit-transform: scale(1.3);
+        /*color:yellow;*/
+    }
+    100%{
+        /*-webkit-box-shadow: 0px 0px 0px #c4f3ff;*/
+	    -webkit-transform: scale(1.0);
+        /*color:yellow;*/
+    }
+}
+/*@-webkit-animation-duration {
+
+}*/
+
+#f_city_icon ul li .text{
+	border: 0;
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 48px;
+	height: 16px;
+}
+
+/*TODO*/
+#f_city_icon ul li.online_gift .dgift {
+    background-image:url(img/item/online_gift.png);
+    background-size: 32px 32px;
+}
+
+#f_city_gift {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	height: 330px;
+            /*width:10px;*/
+	background-color: transparent;
+            /*display:none;*/
+}
+
+#f_city_gift ul {
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	padding: 0px;
+	margin: 0px;
+	display: block;
+	list-style: none;
+	width: 200px;
+}
+
+#f_city_gift ul li {
+	display: block;
+	width: 48px;
+	height: 48px;
+	float: right;
+}
+
+#f_city_gift ul li .img {
+	border: 0;
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 48px;
+	height: 48px;
+}
+
+#f_city_gift ul li.gift2 .img {
+	background-image: url(img/button/facebook.png);
+}
+
+#f_city_gift #mapwar .img {
+	background-image: url(img/button/war.png);
+}
+
+#f_city_gift .race_war .img {
+	background-image: url(img/menu/racewar.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+#relic_entry {
+	background-image: url(img/menu/relic.png);
+	background-repeat: no-repeat;
+	width: 90px;
+	height: 90px;
+	position: absolute;
+	left: 209px;
+	top: 206px;
+	top\0: 226px;
+	display: none;
+	line-height: 30px;
+}
+
+#relic_entry p {
+	height: auto;
+	position: absolute;
+}
+    /*f_email_page*/
+
+#f_city_drop{
+	top: 35px;
+	left: 50%;
+	width: 25px;
+	height: 22px;
+	z-index: 2;
+	position: absolute;
+	background-size: 100% 100%;
+	background-position: right center;
+}
+@-webkit-keyframes drop1x{
+	0%{top: 35px;}
+	100%{top:300px;}
+}
+@-webkit-keyframes drop1y{
+	0%{left: 50%;}
+	25%{left: 46%;}
+	50%{left: 51%;}
+	75%{left: 43%;}
+	88%{left: 37%;}
+	100%{left:33%;}
+}
+@-webkit-keyframes drop2x{
+	0%{top: 35px;}
+	100%{top:275px;}
+}
+@-webkit-keyframes drop2y{
+	0%{left: 55%;}
+	25%{left: 50%;}
+	50%{left: 56%;}
+	75%{left: 60%;}
+	88%{left: 67%;}
+	100%{left:70%;}
+}
+#f_city_drop.price2{
+	top: 275px;
+	left: 70%;
+	background-image: url(img/menu/power.png);
+	-webkit-animation-name: drop2x,drop2y;
+	-webkit-animation-duration: 10s;
+	-webkit-animation-timing-function: ease-in;
+}
+#f_city_drop.price1{
+	top: 300px;
+	left: 312px;
+	background-image: url(img/menu/credit.png);
+	-webkit-animation-name: drop1x,drop1y;
+	-webkit-animation-duration:10s;
+	-webkit-animation-timing-function: ease-in;
+}
+
+#f_city_drop.price1_wp{
+	top: 300px;
+	left: 312px;
+	background-image: url(img/menu/credit.png);
+}
+
+#f_city_drop.price2_wp{
+	top: 275px;
+	left: 70%;
+	background-image: url(img/menu/power.png);
+}
+
+#f_city_drop>span{
+	background:-webkit-radial-gradient(center center,circle contain,rgba(255, 255, 0, 1),rgba(255, 255, 0, 0));
+	display: block;
+	height: 100%;
+	-webkit-animation-name: changeOpacity;
+	-webkit-animation-duration:1s;
+	-webkit-animation-timing-function: ease-in;
+	-webkit-animation-iteration-count: infinite;
+}
+@-webkit-keyframes changeOpacity{
+	0%{opacity: 0;}
+	50%{opacity: 1;}
+}
+
+#email_inbox_menu {
+	margin: 0 auto;
+	width: 240px;
+	padding: 0;
+}
+
+#email_inbox_menu li {
+	float: left;
+	list-style: none;
+	width: 80px;
+	height: 22px;
+	line-height: 22px;
+	vertical-align: middle;
+	text-align: center;
+	background-image: url(img/button/button_i.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+#email_inbox_menu li.now {
+	background-image: url(img/button/button_a.png);
+}
+
+
+.innermove .email_inbox_item .title{
+	padding-left: 20px;
+}
+
+ /*f_fav_page*/
+
+.fav_addme_manager, .fav_recommend {
+	width: 280px;
+	height: 340px;
+	overflow: hidden;
+}
+ /*f_formation_change_page*/
+
+ /*f_gift_page*/
+
+ /*f_hero_equipment_select_page*/
+
+    /*f_hero_manager_page*/
+
+.equipment_list .heroinfo {
+	margin: 0 auto;
+}
+
+.equipment_list .heroinfo .photo {
+	width: 60px;
+	height: 60px;
+}
+
+.equipment_list .heroinfo .inner_list {
+	min-width: 145px;
+}
+
+.equipment_list .heroinfo .inner_list .equiinfo_list_row em {
+	width: 20px;
+	height: 20px;
+	-webkit-background-size: 100%;
+	display: inline-block;
+	float: left;
+}
+
+.equipment_list .heroinfo .inner_list .equiinfo_list_row span {
+	display: inline-block;
+}
+
+.hidecell {
+	opacity: .2;
+}
+
+.hero_manager_reinc {
+}
+
+.hero_manager_reinc_help {
+	text-align: center;
+}
+
+.hero_manager_reinc_help .help {
+	background-image: url(img/button/q.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+	height: 20px;
+	line-height: 20px;
+	padding-right: 20px;
+	display: inline-block;
+}
+
+.hero_manager_reinc>div {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.hero_manager_reinc>div .seperator11 {
+	height: auto;
+	padding-bottom: 3px;
+	width: 90%;
+	margin: 0 auto;
+	background-image: url(img/frame/line.png);
+	background-repeat: repeat-x;
+	background-position: left bottom;
+}
+
+.hero_manager_reinc_end {
+	text-align: center;
+}
+
+.hero_manager_reinc_require {
+}
+
+.hero_manager_reinc_require>b {
+	float: left;
+	width: 60px;
+	display: block;
+	text-align: center;
+	margin-left: 8px;
+	margin-right: 5px;
+}
+
+.hero_manager_reinc_require>ul li span {
+}
+
+.hero_manager_reinc_require_list {
+	list-style: none;
+	float: left;
+	margin: 0;
+	padding: 0;
+	margin-left: 10px;
+}
+
+.hero_manager_reinc_require_list li span {
+	width: 85px;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.hero_manager_reinc_effect {
+}
+
+.hero_manager_reinc_effect>b {
+	float: left;
+	width: 60px;
+	display: block;
+	text-align: center;
+	margin-left: 8px;
+	margin-right: 5px;
+}
+
+.hero_manager_reinc_effect_list {
+	list-style: none;
+	float: left;
+	margin: 0;
+	padding: 0;
+	margin-left: 10px;
+}
+
+.hero_manager_reinc_effect_list li span {
+	width: 85px;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.hero_manager_reinc_effect_list li span b {
+	display: inline-block;
+	width: 25px;
+	text-align: right;
+}
+
+.hero_manager_reinc_effect_list li span+b {
+	color: #fff;
+	display: inline-block;
+	width: 25px;
+	text-align: left;
+}
+    /*f_hero_select_page*/
+
+ /*f_invite_page*/
+
+ /*f_item_manager_page*/
+
+#bagsize {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	background-image: url(img/menu/bag.png);
+	background-position: left center;
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	width: auto;
+}
+
+#bagsize b {
+	font-size: 11px;
+	display: inline-block;
+	height: 25px;
+	line-height: 25px;
+	color: #fff;
+}
+
+#bagsize span {
+	background-image: url(img/button/promote.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	display: block;
+	width: 13px;
+	height: 22px;
+}
+
+.equichangerow {
+	width: 100%;
+}
+
+.equichangerow .photo {
+	width: 60px;
+	height: 60px;
+}
+
+.equichangerow .funcbutton {
+	float: right;
+}
+
+.equichangerow .oldequi {
+	width: 20px;
+	height: 20px;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	float: left;
+}
+
+.equichangerow .oldequi_info {
+	line-height: 20px;
+}
+
+.equichangerow .arrows {
+	width: 14px;
+	height: 14px;
+	-webkit-background-size: 100% 100%;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url(img/button/arrow_d.png);
+}
+
+.equichangerow .nowequi {
+	width: 20px;
+	height: 20px;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	float: left;
+}
+
+.equichangerow .newequi_info {
+	line-height: 20px;
+}
+
+.noneequi span {
+	color: #F76541;
+}
+    /*f_legion_manager_page*/
+
+.legion_war_info .help {
+	display: inline-block;
+	background-image: url(img/button/q.png);
+	width: 20px;
+	height: 20px;
+    background-position: center center;
+}
+
+.legion_war {
+	position: relative;
+}
+
+.legion_war_bg {
+	background-position: center center;
+	background-image: url(img/bg/sliverbg.png);
+	height: 340px;
+	position: relative;
+	opacity: 0.3;
+}
+
+.legion_war_info {
+	height: 340px;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+.legion_war_info>table {
+	margin: 0 auto;
+	min-width: 80%;
+}
+
+.content_user {
+	margin: 40px 0px 0px 17px;
+	width: 288px;
+}
+ /*f_menu_battle_emu_page*/
+
+ /*f_menu_command_center_page*/
+
+.hero_list {
+ 		/*position: relative;
+ 		left: 15px;*/
+}
+ /*f_menu_generator_page*/
+
+ /*f_menu_plasma_cannon_page*/
+
+ /*f_menu_point_academy_page*/
+
+.bg_bar {
+	background-image: url(img/bg/bar.jpg);
+}
+
+.f_menu_regiment {
+}
+
+.f_menu_regiment .f_menu_regiment_select {
+	padding: 0;
+	list-style: none;
+	margin: 0 auto;
+	width: 230px;
+}
+
+.f_menu_regiment .f_menu_regiment_select>li {
+	float: left;
+	width: auto;
+	height: 66px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	margin-right: 10px;
+	margin-bottom: 5px;
+}
+
+.f_menu_regiment .f_menu_regiment_select>li span {
+}
+
+.f_menu_regiment .f_menu_regiment_select ul.active {
+	border-color: red;
+}
+
+.f_menu_regiment  .photo {
+	background-image: url('img/frame/formation.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 195px;
+	height: 195px;
+	-webkit-box-shadow: none;
+}
+
+.f_menu_regiment .photo ul {
+	list-style: none;
+	padding: 0;
+	display: inline-table;
+	margin: 0 auto;
+	margin-top: 0px;
+}
+
+.f_menu_regiment .photo ul li {
+	background-image: url("img/frame/block_white.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	vertical-align: middle;
+	font-size: 24px;
+	color: yellow;
+	font-weight: bold;
+	text-align: center;
+	display: block;
+	float: left;
+	position: relative;
+	padding: 5px;
+	background-size: 100% 100%;
+}
+
+.f_menu_regiment .photo ul li.cell {
+	background-image: url("img/frame/block_black.png");
+}
+
+.f_menu_regiment .photo ul li.cell .hero {
+	display: block;
+	border: 0;
+}
+
+.f_menu_regiment .photo ul li.cell .quality {
+	display: block;
+}
+
+.f_menu_regiment .photo ul img {
+	border: 0;
+}
+
+.f_menu_regiment .photo ul li .hero {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 5px;
+	top: 5px;
+	display: none;
+}
+
+.f_menu_regiment .photo ul li .quality {
+	position: absolute;
+	width: 14px;
+	height: 21px;
+	left: 0;
+	bottom: 0px;
+	display: none;
+}
+
+.f_menu_regiment .photo ul li .posnum {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	right: 0;
+	bottom: 0;
+}
+
+.f_menu_regiment .photo ul li .life {
+	position: absolute;
+	width: 50px;
+	height: 3px;
+            /*padding-top:1px;
+            padding-bottom:1px;*/
+	left: 5;
+	top: 0;
+	background-color: #fff;
+}
+
+.f_menu_regiment .photo ul li .life>div {
+	height: 3px;
+	width: 0%;
+}
+
+.f_menu_regiment .photo ul li .innermask {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 5px;
+	top: 5px;
+}
+
+.f_menu_regiment .photo ul li.white {
+	background-image: url("img/frame/block_white.png");
+}
+
+.f_menu_manager {
+	width: 288px;
+	height: 340px;
+	overflow: hidden;
+}
+
+.f_menu_manager .hero_content {
+	width: 100%;
+	height: auto;
+}
+
+#heroselect {
+	padding: 0;
+	width: 190px;
+	height: 30px;
+	margin: 0 auto;
+	list-style: none;
+}
+
+#heroselect li {
+	width: 85px;
+	float: left;
+	text-align: center;
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-image: url(img/button/button_i.png);
+	background-size: 100% 100%;
+}
+
+#heroselect li.down {
+	background-image: url(img/button/button_a.png);
+	text-shadow: -1px 1px 3px #6AB3BD;
+}
+
+.hero_list .funcbutton {
+	height: 24px;
+	line-height: 24px;
+	vertical-align: middle;
+}
+
+.f_menu_regiment_select_item {
+	width: 64px;
+	height: 64px;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border: solid 1px #ccc;
+}
+
+.actiave>ul {
+	border: solid 1px white;
+}
+
+.f_menu_regiment_select_item>li {
+	width: 21px;
+	height: 21px;
+	float: left;
+	background-image: url(img/frame/block_white.png);
+	background-size: cover;
+}
+
+.f_menu_regiment_select_item>li.cell {
+	background-image: url(img/frame/block_black.png);
+}
+
+.f_menu_regiment_select_item li .bg {
+	width: 21px;
+	height: 21px;
+	display: none;
+}
+
+.f_menu_regiment_select_item li .hero {
+	width: 21px;
+	height: 21px;
+	display: none;
+}
+
+/*.def {*/
+	/*-webkit-box-shadow: 0px 0px 16px yellow;*/
+/*}*/
+
+.nodef {
+            /*border:solid 2px transparent;*/
+}
+
+#definfo {
+	text-align: center;
+	font-weight: bold;
+	width: 100%;
+}
+    /*f_menu_research_lab_page*/
+
+#f_menu_research_type {
+	padding: 0;
+	width: 285px;
+	height: 30px;
+	margin: 0 auto;
+	list-style: none;
+}
+
+#f_menu_research_type li {
+	width: 85px;
+	float: left;
+	text-align: center;
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-image: url(img/button/button_i.png);
+}
+
+#f_menu_research_type li.down {
+	background-image: url(img/button/button_a.png);
+	text-shadow: -1px 1px 3px #6AB3BD;
+}
+
+#research_cditem {
+	font-size: 12px;
+	position: absolute;
+	left: 200px;
+	top: 3px;
+	background-image: url(img/menu/clock.png);
+	padding-left: 25px;
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+
+#research_cditem label {
+	display: none;
+}
+
+#research_cditem b {
+}
+    /*f_menu_residence_page*/
+
+ /*f_menu_sample_page*/
+
+ /*f_menu_storage_page*/
+
+ /*f_menu_teleporter_page*/
+
+ /*f_menu_trade_center_page*/
+
+.reshead2 li {
+	width: auto;
+	display: inline-table;
+}
+
+.reshead2 input {
+	border: solid 1px #ccc;
+	width: 50px;
+}
+ /*f_misc_page*/
+
+.util_photo {
+	width: 60px;
+	height: 60px;
+}
+
+.util_info {
+	width: 215px;
+	padding: 0px;
+}
+ /*f_quest_page*/
+
+.questframe {
+	height: 348px;
+	width: 296px;
+	background-image: url(img/frame/quest_bg.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#wrapper {
+	/*height: 320px;*/
+	overflow: hidden;
+}
+
+.quest_top {
+	height: 8px;
+	width: 108px;
+}
+
+.quest_bottom {
+	height: 8px;
+	width: 108px;
+}
+
+.quest_body {
+	width: 108px;
+}
+
+#wrapper .quest_top{
+    background-position: center bottom;
+}
+#wrapper .quest_body,
+#wrapper .quest_bottom{
+    background-position: center top;
+}
+.f_mapwar_boss_info_list_item  .auto_0461dc11a7efd7a170b0ea6f12dd09c0{
+    min-width: 90px;
+    width: auto;
+    font-weight: normal;
+    left: 0;
+}
+.quest_top{
+    width: 108px;
+    background-image: url(img/frame/quest_top.png);
+    background-repeat: repeat-y;
+    background-position: center top;
+    height: 5px;
+
+}
+.quest_body{
+    width: 108px;
+    background-image: url(img/frame/quest_mid.png);
+    background-repeat: repeat-y;
+    background-position: center top;
+}
+.quest_bottom{
+    width: 108px;
+    background-image: url(img/frame/quest_bottom.png);
+    background-repeat: repeat-y;
+    background-position: center top;
+}
+.quest_body div {
+	position: relative;
+	left: 8px;
+	width: 90px;
+	font-weight: bold;
+}
+
+.quest_body2 {
+	width: 108px;
+}
+
+.quest_body2 div {
+	position: relative;
+	left: 8px;
+	width: 90px;
+	font-weight: bold;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+.quest_seperator {
+	position: relative;
+	left: 10px;
+	height: 5px;
+	width: 90px;
+	background-image: url(img/frame/line.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.quest_content_seperator {
+	position: relative;
+	left: 5px;
+	height: 5px;
+	width: 155px;
+	background-image: url(img/frame/line.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#f_quest_req, #f_quest_reward_ext {
+	color: yellow;
+}
+ /*f_race_war_holyland*/
+
+#f_race_war_holyland {
+	color: #fff;
+}
+
+#f_race_war_holyland_top {
+	background-image: url(img/frame/top_bar.png);
+	height: 60px;
+	width: 320px;
+}
+
+#f_race_war_holyland .mapname {
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+}
+
+#f_race_war_holyland {
+	min-height: 300px;
+	width: 320px;
+	background-color: #fff;
+}
+
+#f_race_war_holyland_body {
+	position: relative;
+}
+
+#f_race_war_holyland_body .body_control {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+}
+
+.herolistleft .f_race_war_holyland_body_map {
+	background-image: url(img/map/racebg1.jpg);
+	height: 400px;
+	width: 320px;
+	position: relative;
+}
+
+.herolistright .f_race_war_holyland_body_map {
+	background-image: url(img/map/racebg2.jpg);
+	height: 400px;
+	width: 320px;
+	position: relative;
+}
+
+#f_race_war_holyland_body .f_race_war_holyland_body_map .nvg {
+	background-color: rgba(0,0,0,.5);
+}
+
+#f_race_war_holyland_body .f_race_war_holyland_body_map .herolist {
+	top: 10px;
+	left: 0;
+	position: relative;
+}
+
+#f_race_war_holyland_body .f_race_war_holyland_body_map .herolist ul {
+	list-style: none;
+	margin: 0;
+}
+
+#f_race_war_holyland_body .f_race_war_holyland_body_map .herolist_clone_anim {
+	-webkit-transform: scale(0) rotate(720deg);
+	-ms-transform: scale(0) rotate(720deg);
+	left: 150px;
+	top: 30px;
+}
+
+#f_race_war_holyland_body .f_race_war_holyland_body_map .herolist .herolist_clone {
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	margin: 10px;
+	color: red;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	display: none;
+	-webkit-transition-property: -webkit-transform width height;
+	-webkit-transition-duration: 3s;
+	border: solid 1px red;
+	position: absolute;
+	left: 30px;
+	top: 200px;
+}
+
+#f_race_war_holyland_body .f_race_war_holyland_body_map .herolist ul li {
+	width: 90px;
+	height: 90px;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	-webkit-transform-origin: 50% 50%;
+	-ms-transform-origin: 50% 50%;
+	position: absolute;
+}
+
+.herolistleft .hero1 {
+	left: 95px;
+	top: 24px;
+	-webkit-transform: scale(.7);
+	-ms-transform: scale(.7);
+	background-image: url(img/map/racehero1.png);
+}
+
+.herolistleft .hero2 {
+	left: 195px;
+	top: 24px;
+	-webkit-transform: scale(.7);
+	-ms-transform: scale(.7);
+	background-image: url(img/map/racehero2.png);
+}
+
+.herolistleft .hero3 {
+	left: 26px;
+	top: 70px;
+	-webkit-transform: scale(.8);
+	-ms-transform: scale(.8);
+	background-image: url(img/map/racehero3.png);
+}
+
+.herolistleft .hero4 {
+	left: 126px;
+	top: 70px;
+	-webkit-transform: scale(.8);
+	-ms-transform: scale(.8);
+	background-image: url(img/map/racehero2.png);
+}
+
+.herolistleft .hero5 {
+	left: 226px;
+	top: 70px;
+	-webkit-transform: scale(.8);
+	-ms-transform: scale(.8);
+	background-image: url(img/map/racehero1.png);
+}
+
+.herolistleft .hero6 {
+	left: 26px;
+	top: 150px;
+	background-image: url(img/map/racehero2.png);
+}
+
+.herolistleft .hero7 {
+	left: 126px;
+	top: 150px;
+	background-image: url(img/map/racehero3.png);
+}
+
+.herolistleft .hero8 {
+	left: 226px;
+	top: 150px;
+	background-image: url(img/map/racehero1.png);
+}
+
+.herolistright .hero1 {
+	left: 40px;
+	top: 14px;
+	-webkit-transform: scale(-.7, .7);
+	-ms-transform: scale(-.7, .7);
+	background-image: url(img/map/racehero2.png);
+}
+
+.herolistright .hero2 {
+	left: 140px;
+	top: 14px;
+	-webkit-transform: scale(-.7, .7);
+	-ms-transform: scale(-.7, .7);
+	background-image: url(img/map/racehero3.png);
+}
+
+.herolistright .hero3 {
+	left: 1px;
+	top: 70px;
+	-webkit-transform: scale(-.8, .8);
+	-ms-transform: scale(-.8, .8);
+	background-image: url(img/map/racehero1.png);
+}
+
+.herolistright .hero4 {
+	left: 101px;
+	top: 70px;
+	-webkit-transform: scale(-.8, .8);
+	-ms-transform: scale(-.8, .8);
+	background-image: url(img/map/racehero3.png);
+}
+
+.herolistright .hero5 {
+	left: 191px;
+	top: 70px;
+	-webkit-transform: scale(-.8, .8);
+	-ms-transform: scale(-.8, .8);
+	background-image: url(img/map/racehero2.png);
+}
+
+.herolistright .hero6 {
+	left: 1px;
+	top: 150px;
+	-webkit-transform: scaleX(-1);
+	-ms-transform: scaleX(-1);
+	background-image: url(img/map/racehero3.png);
+}
+
+.herolistright .hero7 {
+	left: 101px;
+	top: 150px;
+	-webkit-transform: scaleX(-1);
+	-ms-transform: scaleX(-1);
+	background-image: url(img/map/racehero1.png);
+}
+
+.herolistright .hero8 {
+	left: 201px;
+	top: 150px;
+	-webkit-transform: scaleX(-1);
+	-ms-transform: scaleX(-1);
+	background-image: url(img/map/racehero2.png);
+}
+
+.f_race_war_holyland_body_map>* {
+	visibility: hidden;
+}
+
+#f_race_war_holyland_bottom {
+	height: 30px;
+	width: 320px;
+	background-image: url(img/frame/top_bar.png);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	position: relative;
+	color: #fff;
+}
+
+.bottom_control {
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	background-color: rgba(44,5,0,.4);
+	border-top: solid 1px #000;
+}
+
+#f_relic_bottom div {
+	color: #fff;
+	width: 320px;
+	height: 30px;
+    line-height: 30px;
+}
+
+#playhero {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	-webkit-transition-property: all;
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 1.2s;
+	z-index: 100;
+	background-repeat: no-repeat;
+}
+    /*f_race_war_holyland_rank*/
+
+#f_race_war_holyland_rank_hero, #f_race_war_holyland_rank_race {
+	height: 340px;
+}
+ /*f_rank_page*/
+
+ /*f_regiment_hero_select_page*/
+
+.f_regiment_hero_select_panel {
+	height: 340px;
+	overflow: hidden;
+}
+
+.f_regiment_hero_select_item {
+}
+
+.f_regiment_hero_select_item .photo {
+	width: 60px;
+	height: 60px;
+	position: relative;
+	float: left;
+	margin-right: 10px;
+}
+
+.f_regiment_hero_select_item .photo .photo1 {
+	width: 60px;
+	height: 60px;
+	border: 0;
+}
+
+.f_regiment_hero_select_item .photo .photo2 {
+	width: 17px;
+	height: 25px;
+	border: 0;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+
+.f_regiment_hero_select_item .funcbutton {
+	float: right;
+}
+
+.f_regiment_hero_select_item .attributes {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+.f_regiment_hero_select_item .attributes li {
+	list-style: none;
+	display: block;
+}
+
+.f_regiment_hero_select_item .attributes li.name>div {
+	background-image: url(img/menu/reborn.png);
+	background-position: 5px center;
+	background-repeat: no-repeat;
+	padding-left: 22px;
+	padding-right: 5px;
+	display: inline-block;
+	-webkit-background-size: 16px 16px;
+	background-size: 16px 16px;
+}
+
+.f_regiment_hero_select_item .attributes label {
+	display: inline-block;
+	text-align: left;
+	width: 65px;
+}
+ /*f_shop_page*/
+
+#f_shop_influence {
+	height: 347px;
+}
+
+#f_shop_influence .control {
+	margin: 0 auto;
+}
+
+#f_shop_influence .control .up {
+	width: 80px;
+	height: 27px;
+	text-align: center;
+	background-position: center center;
+	background-repeat: no-repeat;
+	display: block;
+	line-height: 27px;
+	background-image: url(img/button/button_i.png);
+}
+
+#f_shop_influence .control .down {
+	width: 80px;
+	height: 27px;
+	text-align: center;
+	background-position: center center;
+	background-repeat: no-repeat;
+	display: block;
+	line-height: 27px;
+	background-image: url(img/button/button_a.png);
+	text-shadow: -1px 1px 3px #6AB3BD;
+}
+
+.equi .photo {
+	width: 60px;
+	height: 60px;
+}
+
+.hero {
+	margin-bottom: 10px;
+}
+
+.hero .photodv {
+	position: relative;
+	width: 60px;
+	height: 60px;
+}
+
+.hero .photodv .photo3 {
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+
+.hero .attributes {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.hero .attributes li {
+	width: auto;
+}
+
+ /*f_legion_silver*/
+
+
+
+.mapop {
+	height: 140px;
+	width: 320px;
+	background-image: url(img/frame/content_down.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+@-webkit-keyframes x-spin {
+	0% {
+		-webkit-transform: rotate(0deg);
+		-ms-transform: rotate(0deg);
+	}
+
+	50% {
+		-webkit-transform: rotate(180deg);
+		-ms-transform: rotate(180deg);
+	}
+
+	100% {
+		-webkit-transform: rotate(360deg);
+		-ms-transform: rotate(360deg);
+	}
+}
+
+.f_mapview_bg {
+	width: 320px;
+	height: 320px;
+	background-image: url("img/bg/sliver_gala.jpg");
+}
+
+.f_mapview_bg .attacktarget {
+	background-image: url(img/map/aim2.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	display: none;
+}
+
+.mercury {
+	width: 90px;
+	height: 90px;
+	position: absolute;
+	background-image: url("img/bg/s4.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	left: 200px;
+	top: 80px;
+}
+
+.mercury_active {
+	width: 90px;
+	height: 90px;
+	position: absolute;
+	left: 200px;
+	top: 80px;
+	background-image: url("img/bg/s4-1.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+    /*-webkit-animation-name: x-spin;
+    -webkit-animation-duration:20s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count:infinite;*/
+}
+
+.mercury  .attacktarget , .mercury_active .attacktarget {
+	width: 75px;
+	height: 71px;
+}
+
+.venus {
+	width: 90px;
+	height: 90px;
+	background-image: url("img/bg/s3.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	position: absolute;
+	left: 60px;
+	top: 25px;
+}
+
+.venus_active {
+	width: 90px;
+	height: 90px;
+	position: absolute;
+	left: 60px;
+	top: 25px;
+	background-image: url("img/bg/s3-1.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+    /*-webkit-animation-name: x-spin;
+    -webkit-animation-duration:20s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count:infinite;*/
+}
+
+.venus .attacktarget, .venus_active .attacktarget {
+	width: 107px;
+	height: 95px;
+}
+
+.mars {
+	width: 70px;
+	height: 70px;
+	background-image: url("img/bg/s2.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	position: absolute;
+	left: 240px;
+	top: 200px;
+}
+
+.mars_active {
+	width: 70px;
+	height: 70px;
+	position: absolute;
+	left: 240px;
+	top: 200px;
+	background-image: url("img/bg/s2-1.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+    /*-webkit-animation-name: x-spin;
+    -webkit-animation-duration:20s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count:infinite;*/
+}
+
+.mars .attacktarget, .mars_active .attacktarget {
+	width: 112px;
+	height: 100px;
+}
+
+.jupiter {
+	width: 70px;
+	height: 70px;
+	background-image: url("img/bg/s1.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	position: relative;
+	left: 10px;
+	top: 240px;
+}
+
+.jupiter_active {
+	width: 70px;
+	height: 70px;
+	position: relative;
+	left: 10px;
+	top: 240px;
+	background-image: url("img/bg/s1-1.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+    /*-webkit-animation-name: x-spin;
+    -webkit-animation-duration:20s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count:infinite;*/
+}
+
+.jupiter .attacktarget , .jupiter_active .attacktarget {
+	width: 156px;
+	height: 143px;
+}
+
+/*f_tips*/
+
+h3 {
+	width: 90%;
+	margin: 0 auto;
+	background-image: url(img/frame/line.png);
+	background-repeat: repeat-x;
+	background-position: left bottom;
+	text-align: center;
+	font-size: 12px;
+}
+
+#f_tips_index {
+	height: 340px;
+}
+
+#f_tips_index .reshead {
+	display: inline-block;
+}
+
+#bigactivity {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.bigactivity_item {
+	width: 100%;
+}
+
+.bigactivity_item .funcbutton {
+	float: right;
+}
+
+.bigactivity_item .starttime {
+	background-position: left center;
+	background-repeat: no-repeat;
+	background-image: url(img/menu/clock.png);
+	padding-left: 22px;
+}
+
+.gamefunction_item {
+	width: 100%;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	margin-top: 5px;
+}
+
+.gamefunction_item tr {
+	border: 0px;
+}
+
+.gamefunction_item tr td {
+	padding-bottom: 10px;
+}
+
+.gamefunction_item .name {
+	display: block;
+	max-width: 70px;
+}
+
+.gamefunction_item .canuse {
+	color: green;
+}
+
+.gamefunction_item .nouse {
+	width: 150px;
+	color: #F76541;
+}
+
+.gamefunction_item .nouse span {
+	text-decoration: underline;
+}
+
+.gamefunction_item .help {
+	background-image: url(img/button/q.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+	height: 20px;
+	line-height: 20px;
+	padding-right: 25px;
+	float: right;
+}
+ /*f_war_manager_page*/
+
+#f_war_campaign {
+	background-image: url(img/frame/quest_bg.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 328px;
+	position: relative;
+}
+
+#f_war_campaign_titlelist {
+	height: 320px;
+	width: 108px;
+	position: absolute;
+	left: 1px;
+	top: 5px;
+}
+
+.f_war_campaign_title_item {
+}
+
+.f_war_campaign_title_item span {
+	font-size: 12px;
+}
+
+.f_war_campaign_title_item span .quest_top {
+	height: 8px;
+}
+
+.f_war_campaign_title_item span.active {
+}
+
+.f_war_campaign_title_item span.active .quest_top {
+	height: 8px;
+	width: 108px;
+	background-image: url(img/frame/quest_top.png);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+
+.f_war_campaign_title_item span.active .quest_body {
+	width: 108px;
+	background-image: url(img/frame/quest_mid.png);
+	background-repeat: repeat-y;
+	background-position: center top;
+}
+
+.quest_body div {
+	position: relative;
+	left: 8px;
+	width: 90px;
+	font-weight: bold;
+}
+
+.f_war_campaign_title_item span.active .quest_bottom {
+	height: 8px;
+	width: 108px;
+	background-image: url(img/frame/quest_bottom.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+.f_war_campaign_title_item .f_war_campaign_title_item_bottom {
+	background-image: url(img/frame/line.png);
+	background-position: center center;
+	height: 5px;
+}
+
+#f_war_campaign_info {
+	height: 315px;
+	width: 170px;
+	position: absolute;
+	right: 3px;
+	top: 5px;
+}
+
+#f_war_campaign_info img {
+	width: 100%;
+	height: 150px;
+	border: 0;
+}
+
+#f_war_campaign_info .name {
+}
+
+#f_war_campaign_info span {
+}
+
+.rank_list {
+}
+
+.rank_list .cdtime {
+	background-image: url(img/menu/clock.png);
+	background-position: left center;
+	background-repeat: no-repeat;
+	padding-left: 20px;
+}
+
+/*f_lottery*/
+        .f_lottery_content{
+            height:460px;
+            width:320px;
+            position:relative;
+        }
+        .f_lottery_content>div{
+            position:absolute;
+        }
+        .f_lottery_content .f_lottery_content_top{
+            height:320px;
+            width:320px;
+            top:0;
+            left:0;
+            background-image:url(img/bg/sliver_gala.jpg);
+        }
+        .f_lottery_content .f_lottery_content_top .f_lottery_list{
+            margin:0;
+            padding:0;
+            position:absolute;
+            border:yellow;
+            width:300px;
+            height:300px;
+            left:10px;
+            top:10px;
+            list-style:none;
+        }
+        .f_lottery_content .f_lottery_content_top .f_lottery_list li{
+            position:absolute;
+            padding:2px;
+            width:60px;
+            height:60px;
+            -webkit-background-size:100%;
+            margin:1px;
+        }
+        .f_lottery_content .f_lottery_content_top .f_lottery_list li .img{
+            width:60px;
+            height:60px;
+            background-image:url(img/item/chest3.png);
+            -webkit-background-size:100%;
+        }
+        .f_lottery_content .f_lottery_content_top .f_lottery_list li.active{
+            border:solid 1px red;
+            margin:0;
+        }
+        .f_lottery_content .f_lottery_content_top .nowactive{
+            position:absolute;
+            width:60px;
+            height:60px;
+            /*background-color:#fff;*/
+            background:url(img/item/gift5.png);
+            -webkit-background-size:100%;
+        }
+        .f_lottery_content .f_lottery_content_top .nowactive span.help{
+            position: absolute;
+            width: 90px;
+            text-align: center;
+            color: yellow;
+            font-weight:bold;
+            top: -12px;
+            left: -15px;
+        }
+        .f_lottery_content .f_lottery_content_top .nowactive span.name{
+            position: absolute;
+            width: 90px;
+            text-align: center;
+            color: yellow;
+            font-weight:bold;
+            background-color: rgba(0, 0, 0, .6);
+            top: 60px;
+            left: -15px;
+        }
+        .f_lottery_content .f_lottery_content_bottom{
+            width:320px;
+            height:140px;
+            background-image:url(img/frame/content_down.png);
+            left:0;
+            bottom:0;
+        }
+
+/*f_race_war*/
+        #f_race_war_top{
+            width:320px;
+            height:28px;
+            position:relative;
+            visibility:hidden;
+            pointer-events:none;
+        }
+        #f_race_war_top .title{
+            width:auto;
+            margin:0 auto;
+            text-align:center;
+            height:28px;
+            line-height:28px;
+            vertical-align:middle;
+        }
+        #f_race_war_bg{
+            position:absolute;
+            left:0;
+            top:0;
+            width:320px;
+            height:400px;
+            pointer-events:none;
+        }
+        #f_race_war_bg div{
+            width:100px;
+            height:100px;
+            opacity:.5;
+            -webkit-background-size:100%;
+            background-position:center center;
+            background-repeat:no-repeat;
+            background-image:url(img/race/1b.png);
+        }
+        #f_race_war_wait{
+            width:90%;
+            margin:0 auto;
+        }
+        #f_race_war_body{
+            height:350px;
+            width:300px;
+            position:relative;
+            left:10px;
+            top:35px;
+        }
+        #f_race_war_body #index, #f_race_war_body #joinlist{
+            height:350px;
+        }
+        #f_race_war_body_content{
+            height: auto;
+            width: 600px;
+            -webkit-transition: -webkit-transform 1s ease;
+        }
+        #f_race_war_body_content>div{
+            float:left;
+            width:300px;
+            height:354px;
+        }
+        #f_race_war_body .photo{
+            background-image:url(img/hero/102.png);
+            width:60px;
+            height:60px;
+            -webkit-box-shadow:none;
+            -webkit-background-size:100%;
+        }
+        #f_race_war_body .help{
+            display: inline-block;
+            background-image: url(img/button/q.png);
+            width: 20px;
+            height: 20px;
+        }
+        .f_race_war_body_list{
+            background-image:url(img/frame/line.png);
+            background-repeat:no-repeat;
+            background-position:center 20px;
+            -webkit-background-size:90% 3px;
+        }
+        .f_race_war_body_list .title{
+            text-align:center;
+            margin-top:10px;
+        }
+        .f_race_war_body_list .body{
+            padding-left:10px;
+            padding-right:10px;
+            padding-top:10px;
+        }
+
+        #f_race_war_winrace_info ul{
+
+        }
+        #f_race_war_winrace_info ul li{
+        }
+        #f_race_war_winrace_info ul li.user{
+            min-width:100px;
+        }
+        #f_race_war_winrace_info ul li.number{
+            width:70px;
+            text-align:right;
+        }
+        #f_race_war_winrace_info ul li.integer{
+            width:70px;
+            text-align:right;
+            float:right;
+        }
+        #f_race_war_race_info li.user{
+            width:100px;
+        }
+        #f_race_war_hero_info ul li.integer{
+            width:60px;
+            text-align:right;
+
+        }
+        #f_race_war_race_info ul li.integer{
+            width:70px;
+            text-align:right;
+
+        }
+        #f_race_war_race_info ul li.integer{
+            float:right;
+        }
+        #f_race_war_time>div{
+            display:inline-block;
+        }
+        #f_race_war_time .cdtime{
+            background-position:left center;
+            background-repeat:no-repeat;
+            background-image:url(img/menu/clock.png);
+            padding-left:25px;
+
+        }
+        #bttoindexpage{
+            float:left;
+        }
+        #f_race_war_body{
+            visibility:hidden;
+        }
+
+/*f_relic*/
+        #f_relic_top{
+            background-image: url(img/frame/top_bar.png);
+            height:28px;
+            width:320px;
+        }
+        #f_relic_top .mapname{
+
+        }
+        #f_relic_top .reshead{
+            margin-left:100px;
+            color:#fff;
+        }
+        #f_relic_body{
+            height:292px;
+            width:320px;
+            background-color:#fff;
+        }
+        #f_relic_body .f_relic_body_map{
+            background-image:url(img/bg/relicbg.jpg);
+            height:292px;
+            width:320px;
+            position:relative;
+        }
+        #f_relic_body .f_relic_body_map>ul{
+            position:absolute;
+            left:50px;
+            top:75px;
+            width:210px;
+            margin:0;
+            padding:0;
+            list-style:none;
+        }
+        #f_relic_body .f_relic_body_map>ul li{
+            margin-right:10px;
+        }
+        #f_relic_body .f_relic_body_map .a{
+            width:60px;
+            height:60px;
+            float:left;
+        }
+        #f_relic_body .f_relic_body_map .a>div{
+            width:100%;
+            height:100%;
+            background-repeat:no-repeat;
+            background-position:center;
+            -webkit-background-size:100%;
+			background-size:100%;
+        }
+
+
+        .map1 .a1{
+            background-image:url(img/map/relic/a1.png);
+        }
+        .map1 .a2{
+            background-image:url(img/map/relic/b1.png);
+        }
+        .map1 .select .a1{
+            background-image:url(img/map/relic/a1b.png);
+        }
+        .map1 .select .a2{
+            background-image:url(img/map/relic/b1b.png);
+        }
+
+        .map2 .a1{
+            background-image:url(img/map/relic/a2.png);
+        }
+        .map2 .a2{
+            background-image:url(img/map/relic/b2.png);
+        }
+        .map2 .select .a1{
+            background-image:url(img/map/relic/a2b.png);
+        }
+        .map2 .select .a2{
+            background-image:url(img/map/relic/b2b.png);
+        }
+
+        .map3 .a1{
+            background-image:url(img/map/relic/a3.png);
+        }
+        .map3 .a2{
+            background-image:url(img/map/relic/b3.png);
+        }
+        .map3 .select .a1{
+            background-image:url(img/map/relic/a3b.png);
+        }
+        .map3 .select .a2{
+            background-image:url(img/map/relic/b3b.png);
+        }
+
+        .map4 .a1{
+            background-image:url(img/map/relic/a4.png);
+        }
+        .map4 .a2{
+            background-image:url(img/map/relic/b4.png);
+        }
+        .map4 .select .a1{
+            background-image:url(img/map/relic/a4b.png);
+        }
+        .map4 .select .a2{
+            background-image:url(img/map/relic/b4b.png);
+        }
+
+        .map5 .a1{
+            background-image:url(img/map/relic/a5.png);
+        }
+        .map5 .a2{
+            background-image:url(img/map/relic/b5.png);
+        }
+        .map5 .select .a1{
+            background-image:url(img/map/relic/a5b.png);
+        }
+        .map5 .select .a2{
+            background-image:url(img/map/relic/b5b.png);
+        }
+
+        .map6 .a1{
+            background-image:url(img/map/relic/a6.png);
+        }
+        .map6 .a2{
+            background-image:url(img/map/relic/b6.png);
+        }
+        .map6 .select .a1{
+            background-image:url(img/map/relic/a6b.png);
+        }
+        .map6 .select .a2{
+            background-image:url(img/map/relic/b6b.png);
+        }
+
+        .map7 .a1{
+            background-image:url(img/map/relic/a7.png);
+        }
+        .map7 .a2{
+            background-image:url(img/map/relic/b7.png);
+        }
+        .map7 .select .a1{
+            background-image:url(img/map/relic/a7b.png);
+        }
+        .map7 .select .a2{
+            background-image:url(img/map/relic/b7b.png);
+        }
+
+        .map8 .a1{
+            background-image:url(img/map/relic/a8.png);
+        }
+        .map8 .a2{
+            background-image:url(img/map/relic/b8.png);
+        }
+        .map8 .select .a1{
+            background-image:url(img/map/relic/a8b.png);
+        }
+        .map8 .select .a2{
+            background-image:url(img/map/relic/b8b.png);
+        }
+
+        .map9 .a1{
+            background-image:url(img/map/relic/a9.png);
+        }
+        .map9 .a2{
+            background-image:url(img/map/relic/b9.png);
+        }
+        .map9 .select .a1{
+            background-image:url(img/map/relic/a9b.png);
+        }
+        .map9 .select .a2{
+            background-image:url(img/map/relic/b9b.png);
+        }
+
+        #f_relic_bottom{
+            height: 140px;
+            width: 320px;
+            background-image: url(img/frame/content_down.png);
+            background-repeat: no-repeat;
+            background-position: center center;
+            position:relative;
+            color:#fff;
+        }
+        #f_relic_bottom div{
+            color:#fff;
+        }
+        #f_relic_bottom .f_relic_info_time div.cditem{
+            width: auto;
+        }
+        .f_relic_info_name{
+           /* position:absolute;
+            left:10px;
+            top:10px;
+            color:#fff;
+            width:auto;*/
+        }
+        .f_relic_info{
+            position:absolute;
+            top:40px;
+            left:0px;
+            margin:0;
+            padding-left:10px;
+            padding-right:10px;
+            list-style:none;
+        }
+        .f_relic_info_time{
+            position: absolute;
+            right: 10px;
+            top: 3px;
+            line-height: 30px;
+        }
+        .f_relic_info_time .cditem{
+            background-image:url(img/menu/clock.png);
+            padding-left:25px;
+            background-position:left;
+            background-repeat:no-repeat;
+        }
+        #f_relic_war{
+            position:absolute;
+            right:10px;
+            bottom:15px;
+        }
